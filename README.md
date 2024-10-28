@@ -1,4 +1,4 @@
-<p align="center"><img src="{{ asset('public\images\logopsb.PNG') }}" alt="Pusat Studi Bencana IPB Logo"></p>
+<p align="center"><img src="{{ asset('public\images\logo.png') }}" alt="Pusat Studi Bencana IPB Logo"></p>
 
 <p align="center">
 <a href="https://github.com/your-repo/actions"><img src="https://github.com/your-repo/workflows/tests/badge.svg" alt="Build Status"></a>

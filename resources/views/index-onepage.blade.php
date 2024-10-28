@@ -32,37 +32,7 @@
 <!-- page wrapper -->
 <body class="boxed_wrapper">
 
-    <!-- preloader -->
-    <div class="preloader">
-        <div class="boxes">
-            <div class="box">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-            <div class="box">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-            <div class="box">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-            <div class="box">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-        </div>
-    </div>
-    <!-- preloader end -->
-
+    
 
     <!-- main header -->
     <header class="main-header style-one">
@@ -183,8 +153,8 @@
                 <div class="image-layer" style="background-image:url(assets/images/banner/banner-1.jpg)"></div>
                 <div class="auto-container">
                     <div class="content-box">
-                        <h5>Welcome To LosAlamos</h5>
-                        <h1>Serving Science & Technology</h1>
+                        <h1>Pusat Studi Bencana IPB</h1>
+                       <h3>Lembaga Penelitian dan Pengabdian kepada Masyarakat</h3>
                         <div class="btn-box">
                             <a href="service.html" class="theme-btn style-two">Our Service</a>
                         </div>
@@ -195,8 +165,8 @@
                 <div class="image-layer" style="background-image:url(assets/images/banner/banner-2.jpg)"></div>
                 <div class="auto-container">
                     <div class="content-box">
-                        <h5>Welcome To LosAlamos</h5>
-                        <h1>Serving Science & Technology</h1>
+                        <h1>Pusat Studi Bencana IPB</h1>
+                       <h3>Lembaga Penelitian dan Pengabdian kepada Masyarakat</h3>
                         <div class="btn-box">
                             <a href="service.html" class="theme-btn style-two">Our Service</a>
                         </div>
@@ -207,8 +177,8 @@
                 <div class="image-layer" style="background-image:url(assets/images/banner/banner-3.jpg)"></div>
                 <div class="auto-container">
                     <div class="content-box">
-                        <h5>Welcome To LosAlamos</h5>
-                        <h1>Serving Science & Technology</h1>
+                        <h1>Pusat Studi Bencana IPB</h1>
+                       <h3>Lembaga Penelitian dan Pengabdian kepada Masyarakat</h3>
                         <div class="btn-box">
                             <a href="service.html" class="theme-btn style-two">Our Service</a>
                         </div>

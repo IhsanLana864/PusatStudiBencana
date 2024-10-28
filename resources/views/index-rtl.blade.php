@@ -32,37 +32,7 @@
 <!-- page wrapper -->
 <body class="boxed_wrapper">
 
-    <!-- preloader -->
-    <div class="preloader">
-        <div class="boxes">
-            <div class="box">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-            <div class="box">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-            <div class="box">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-            <div class="box">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </div>
-        </div>
-    </div>
-    <!-- preloader end -->
-
+    
 
     <!-- search-popup -->
     <div id="search-popup" class="search-popup home-rtl">
