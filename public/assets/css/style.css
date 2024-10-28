@@ -204,7 +204,7 @@ figure{
 
 img {
   display: inline-block;
-  max-width: 100%;
+  width: 110% !important ;
   height: auto;
   transition-delay: .1s;
   transition-timing-function: ease-in-out;

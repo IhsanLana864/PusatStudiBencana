@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Losalamos - HTML 5 Template Preview</title>
+<title>Pusat Studi Bencana IPB </title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -218,24 +218,6 @@
         </div>
     </section>
     <!-- banner-section end -->
-
-
-    <!-- intro-section -->
-    <section class="intro-section">
-        <div class="auto-container">
-            <div class="inner-box clearfix">
-                <figure class="image-box"><img src="assets/images/resource/intro-1.jpg" alt=""></figure>
-                <div class="inner pull-left">
-                    <h3>Best Laboratory Award Winner Year 2019-2020</h3>
-                    <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced.</p>
-                </div>
-                <div class="btn-box pull-right">
-                    <a href="contact.html" class="theme-btn style-one">Contact Us</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- intro-section end -->
 
 
     <!-- about-section -->
