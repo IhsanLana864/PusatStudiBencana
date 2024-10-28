@@ -2,15 +2,15 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
     // // contoh route example
     // Route::get('/akunsaya', function () {
     //     return view('example');
     // })->name('example');
-Route::get('/index', function () {
+Route::get('/', function () {
     return view('index');
 });
 
@@ -138,9 +138,21 @@ Route::get('/service', function () {
 Route::get('/skill-element-1', function () {
     return view('skill-element-1');
 });
-Route::get('/ini', function () {
-    return view('ini');
+Route::get('/skill-element-2', function () {
+    return view('skill-element-2');
 });
-Route::get('/ini', function () {
-    return view('ini');
+Route::get('/team-details', function () {
+    return view('team-details');
+});
+Route::get('/team-element-1', function () {
+    return view('team-element-1');
+});
+Route::get('/team-element-2', function () {
+    return view('team-element-2');
+});
+Route::get('/working-element-1', function () {
+    return view('working-element-1');
+});
+Route::get('/working-element-2', function () {
+    return view('working-element-2');
 });

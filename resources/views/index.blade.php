@@ -69,12 +69,12 @@
         <div class="header-top">
             <div class="auto-container">
                 <div class="top-inner clearfix">
-                    <ul class="info top-left pull-left">
+                    <ul class="info top-left pull-left">    
                         <li><i class="fas fa-phone-volume"></i><a href="tel:1234567890">+123 456 7890</a></li>
-                        <li><i class="fas fa-envelope"></i><a href="mailto:yourdomain@gmail.com">yourdomain@gmail.com</a></li>
+                        <li><i class="fas fa-envelope"></i><a href="mailto:pusatstudibencanaipb@gmail.com">pusatstudibencanaipb@gmail.com</a></li>
                     </ul>
                     <ul class="top-right pull-right">
-                        <li class="work-time"><i class="fas fa-clock"></i>Working Hours - Mon - Fri: 9:30 - 18:30</li>
+                        <li class="work-time"><i class="fas fa-clock"></i>Working Hours - Mon - Fri: 8:30 - 18:00</li>
                         <li class="social-links">
                             <ul class="clearfix">
                                 <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
