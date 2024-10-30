@@ -32,7 +32,7 @@
 <!-- page wrapper -->
 <body class="boxed_wrapper">
 
-    
+
 
     <!-- search-popup -->
     <div id="search-popup" class="search-popup">
@@ -69,11 +69,11 @@
                 <div class="top-inner clearfix">
                     <div class="top-left pull-left clearfix">
                         <ul class="social-links clearfix">
-                            <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
+                            <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
                         </ul>
-                        <div class="text"><p>Welcome to LosAlamos Search Laboratory</p></div>
+                        <div class="text"><p>Pusat Studi Pengembangan Bencana</p></div>
                     </div>
                     <ul class="top-right pull-right">
                         <li><a href="mailto:support@info.com">support@info.com</a></li>
@@ -112,8 +112,8 @@
                                         <span>E44, Design Street, Web Corner Melbourne.</span>
                                     </div>
                                 </li>
-                            </ul>    
-                        </div> 
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -150,10 +150,10 @@
                                                 </ul>
                                             </li>
                                         </ul>
-                                    </li> 
+                                    </li>
                                     <li class="dropdown"><a href="index-2.html">Pages</a>
                                         <ul>
-                                            <li><a href="service.html">Services</a></li>
+                                            <li><a href="/service">Services</a></li>
                                             <li><a href="service-details.html">Service Details</a></li>
                                             <li><a href="research.html">Research</a></li>
                                             <li><a href="research-details.html">Research Details</a></li>
@@ -195,7 +195,7 @@
                                                         <li><a href="skills-element-2.html">Skills 02</a></li>
                                                         <li><a href="appointment-element.html">Appointment Form</a></li>
                                                     </ul>
-                                                </div> 
+                                                </div>
                                                 <div class="col-lg-3 column">
                                                     <ul>
                                                         <li><h4>Elements 3</h4></li>
@@ -208,7 +208,7 @@
                                                         <li><a href="intro-element-2.html">Intro 02</a></li>
                                                         <li><a href="faq-element.html">Faq's Elements</a></li>
                                                     </ul>
-                                                </div> 
+                                                </div>
                                                 <div class="col-lg-3 column">
                                                     <ul>
                                                         <li><h4>Elements 4</h4></li>
@@ -221,8 +221,8 @@
                                                         <li><a href="project-element-3.html">Case Studies 03</a></li>
                                                         <li><a href="testimonial-element.html">Testimonial</a></li>
                                                     </ul>
-                                                </div>                                            
-                                            </div>                                                
+                                                </div>
+                                            </div>
                                         </div>
                                     </li>
                                     <li class="dropdown"><a href="index-2.html">Blog</a>
@@ -230,8 +230,8 @@
                                             <li><a href="blog.html">Latest News</a></li>
                                             <li><a href="blog-details.html">News Details</a></li>
                                         </ul>
-                                    </li>                              
-                                    <li><a href="contact.html">Contact Us</a></li>
+                                    </li>
+                                    <li><a href="contact.html">Hubungi Kami</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -272,7 +272,7 @@
     <div class="mobile-menu">
         <div class="menu-backdrop"></div>
         <div class="close-btn"><i class="fas fa-times"></i></div>
-        
+
         <nav class="menu-box">
             <div class="nav-logo"><a href="index.html"><img src="assets/images/mobile-logo.png" alt="" title=""></a></div>
             <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
@@ -314,7 +314,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
             <div class="slide-item">
@@ -331,7 +331,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
             <div class="slide-item">
@@ -348,7 +348,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
         </div>
@@ -505,7 +505,7 @@
                     </div>
                 </div>
             </div>
-            <div class="more-text"><p>Don’t hesitate, contact us for better help and services. <a href="service.html">Explore all Technology</a></p></div>
+            <div class="more-text"><p>Don’t hesitate, hubungi kami for better help and services. <a href="/service">Explore all Technology</a></p></div>
         </div>
     </section>
     <!-- service-style-two end -->
@@ -843,7 +843,7 @@
                     </div>
                 </div>
             </div>
-            <div class="more-text"><p>Don’t hesitate, contact us for better help and blog. <a href="blog.html">Explore all latest News.</a></p></div>
+            <div class="more-text"><p>Don’t hesitate, hubungi kami for better help and blog. <a href="blog.html">Explore all latest News.</a></p></div>
         </div>
     </section>
     <!-- news-style-two end -->
@@ -856,31 +856,31 @@
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-1.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-1.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-1.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-2.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-2.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-2.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-3.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-3.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-3.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-4.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-4.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-4.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-5.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-5.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-5.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
             </div>

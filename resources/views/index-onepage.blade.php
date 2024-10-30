@@ -32,7 +32,7 @@
 <!-- page wrapper -->
 <body class="boxed_wrapper">
 
-    
+
 
     <!-- main header -->
     <header class="main-header style-one">
@@ -40,17 +40,17 @@
             <div class="auto-container">
                 <div class="top-inner clearfix">
                     <ul class="info top-left pull-left">
-                        <li><i class="fas fa-phone-volume"></i><a href="tel:1234567890">+123 456 7890</a></li>
+                        <li><i class="fas fa-phone-volume"></i><a href="tel:1234567890">0251-8319169</a></li>
                         <li><i class="fas fa-envelope"></i><a href="mailto:yourdomain@gmail.com">yourdomain@gmail.com</a></li>
                     </ul>
                     <ul class="top-right pull-right">
                         <li class="work-time"><i class="fas fa-clock"></i>Working Hours - Mon - Fri: 9:30 - 18:30</li>
                         <li class="social-links">
                             <ul class="clearfix">
-                                <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index.html"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="index"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="index"><i class="fab fa-google-plus-g"></i></a></li>
+                                <li><a href="index"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="index"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </li>
                     </ul>
@@ -61,7 +61,7 @@
             <div class="auto-container">
                 <div class="outer-box clearfix">
                     <div class="logo-box pull-left">
-                        <figure class="logo"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                        <figure class="logo"><a href="index"><img src="assets/images/logo.png" alt=""></a></figure>
                     </div>
                     <div class="menu-area pull-right">
                         <!--Mobile Navigation Toggler-->
@@ -73,15 +73,15 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation scroll-nav clearfix">
-                                    <li class="dropdown"><a href="index-onepage.html">Home</a>
+                                    <li class="dropdown"><a href="index-onepage">Home</a>
                                         <ul>
-                                            <li><a href="index.html">Home Page One</a></li>
-                                            <li><a href="index-2.html">Home Page Two</a></li>
-                                            <li><a href="index-3.html">Home Page Three</a></li>
-                                            <li><a href="index-4.html">Home Page Four</a></li>
-                                            <li><a href="index-5.html">Home Page Five</a></li>
-                                            <li><a href="index-rtl.html">Home RTL</a></li>
-                                            <li><a href="index-onepage.html">Home OnePage</a></li>
+                                            <li><a href="index">Home Page One</a></li>
+                                            <li><a href="index-2">Home Page Two</a></li>
+                                            <li><a href="index-3">Home Page Three</a></li>
+                                            <li><a href="index-4">Home Page Four</a></li>
+                                            <li><a href="index-5">Home Page Five</a></li>
+                                            <li><a href="index-rtl">Home RTL</a></li>
+                                            <li><a href="index-onepage">Home OnePage</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#about">About</a></li>
@@ -92,7 +92,7 @@
                                 </ul>
                             </div>
                         </nav>
-                        <div class="btn-box"><a href="index.html" class="theme-btn style-one">Join Research</a></div>
+                        <div class="btn-box"><a href="index" class="theme-btn style-one">Login/Sign in</a></div>
                     </div>
                 </div>
             </div>
@@ -103,13 +103,13 @@
             <div class="auto-container">
                 <div class="outer-box clearfix">
                     <div class="logo-box pull-left">
-                        <figure class="logo"><a href="index.html"><img src="assets/images/small-logo.png" alt=""></a></figure>
+                        <figure class="logo"><a href="index"><img src="assets/images/small-logo.png" alt=""></a></figure>
                     </div>
                     <div class="menu-area pull-right">
                         <nav class="main-menu clearfix">
                             <!--Keep This Empty / Menu will come through Javascript-->
                         </nav>
-                        <div class="btn-box"><a href="index.html" class="theme-btn style-one">Join Research</a></div>
+                        <div class="btn-box"><a href="index" class="theme-btn style-one">Login/Sign in</a></div>
                     </div>
                 </div>
             </div>
@@ -121,9 +121,9 @@
     <div class="mobile-menu">
         <div class="menu-backdrop"></div>
         <div class="close-btn"><i class="fas fa-times"></i></div>
-        
+
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.html"><img src="assets/images/mobile-logo.png" alt="" title=""></a></div>
+            <div class="nav-logo"><a href="index"><img src="assets/images/mobile-logo.png" alt="" title=""></a></div>
             <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
             <div class="contact-info">
                 <h4>Contact Info</h4>
@@ -135,11 +135,11 @@
             </div>
             <div class="social-links">
                 <ul class="clearfix">
-                    <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
-                    <li><a href="index.html"><span class="fab fa-facebook-square"></span></a></li>
-                    <li><a href="index.html"><span class="fab fa-pinterest-p"></span></a></li>
-                    <li><a href="index.html"><span class="fab fa-instagram"></span></a></li>
-                    <li><a href="index.html"><span class="fab fa-youtube"></span></a></li>
+                    <li><a href="index"><span class="fab fa-twitter"></span></a></li>
+                    <li><a href="index"><span class="fab fa-facebook-square"></span></a></li>
+                    <li><a href="index"><span class="fab fa-pinterest-p"></span></a></li>
+                    <li><a href="index"><span class="fab fa-instagram"></span></a></li>
+                    <li><a href="index"><span class="fab fa-youtube"></span></a></li>
                 </ul>
             </div>
         </nav>
@@ -156,9 +156,9 @@
                         <h1>Pusat Studi Bencana IPB</h1>
                        <h3>Lembaga Penelitian dan Pengabdian kepada Masyarakat</h3>
                         <div class="btn-box">
-                            <a href="service.html" class="theme-btn style-two">Our Service</a>
+                            <a href="/service" class="theme-btn style-two">Our Service</a>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
             <div class="slide-item">
@@ -168,9 +168,9 @@
                         <h1>Pusat Studi Bencana IPB</h1>
                        <h3>Lembaga Penelitian dan Pengabdian kepada Masyarakat</h3>
                         <div class="btn-box">
-                            <a href="service.html" class="theme-btn style-two">Our Service</a>
+                            <a href="/service" class="theme-btn style-two">Our Service</a>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
             <div class="slide-item">
@@ -180,9 +180,9 @@
                         <h1>Pusat Studi Bencana IPB</h1>
                        <h3>Lembaga Penelitian dan Pengabdian kepada Masyarakat</h3>
                         <div class="btn-box">
-                            <a href="service.html" class="theme-btn style-two">Our Service</a>
+                            <a href="/service" class="theme-btn style-two">Our Service</a>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
         </div>
@@ -220,21 +220,21 @@
                                 <div class="single-item">
                                     <div class="count-box"><span>01</span></div>
                                     <div class="inner">
-                                        <h3><a href="index.html">Central Forensic Science</a></h3>
+                                        <h3><a href="index">Central Forensic Science</a></h3>
                                         <p>Forensic science is a discipline that applies scientific analysis to the justice system, help prove the events of crime</p>
                                     </div>
                                 </div>
                                 <div class="single-item">
                                     <div class="count-box"><span>02</span></div>
                                     <div class="inner">
-                                        <h3><a href="index.html">Clinical & Medical Laboratory</a></h3>
+                                        <h3><a href="index">Clinical & Medical Laboratory</a></h3>
                                         <p>Conducts lab tests ordered by doctors. Working with laboratory machines as we examine human tissue samples & diagnose</p>
                                     </div>
                                 </div>
                                 <div class="single-item">
                                     <div class="count-box"><span>03</span></div>
                                     <div class="inner">
-                                        <h3><a href="index.html">Analytical & Quality Laboratory</a></h3>
+                                        <h3><a href="index">Analytical & Quality Laboratory</a></h3>
                                         <p>The Various techniques that we are used to identifying the chemical makeup and characteristics of a particular samples</p>
                                     </div>
                                 </div>
@@ -313,11 +313,11 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="service-details.html"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="service-details.html">Pathology Testing</a></h3>
+                                <h3><a href="service-details">Pathology Testing</a></h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                <div class="link"><a href="service-details.html">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <div class="link"><a href="service-details">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -325,11 +325,11 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="service-details.html"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="service-details.html">Chemical Research</a></h3>
+                                <h3><a href="service-details">Chemical Research</a></h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                <div class="link"><a href="service-details.html">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <div class="link"><a href="service-details">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -337,17 +337,17 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="service-details.html"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="service-details.html">Advanced Microscopy</a></h3>
+                                <h3><a href="service-details">Advanced Microscopy</a></h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                <div class="link"><a href="service-details.html">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <div class="link"><a href="service-details">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="more-btn"><a href="service.html" class="theme-btn style-one">All Services</a></div>
+            <div class="more-btn"><a href="/service" class="theme-btn style-one">All Services</a></div>
         </div>
     </section>
     <!-- service-section end -->
@@ -384,10 +384,10 @@
                                 <li><i class="flaticon-laboratory"></i><h5>Advanced Microscopy</h5></li>
                             </ul>
                             <div class="bold-text">
-                                <p>Don’t hesitate, contact us for better help and services.</p>
+                                <p>Don’t hesitate, hubungi kami for better help and services.</p>
                             </div>
                             <div class="btn-box">
-                                <a href="index.html" class="theme-btn style-one">Explore all Technology</a>
+                                <a href="index" class="theme-btn style-one">Explore all Technology</a>
                             </div>
                         </div>
                     </div>
@@ -454,7 +454,7 @@
                                 <h2>Make An Appointment</h2>
                                 <span class="separator"></span>
                             </div>
-                            <form action="index.html" class="appointment-form">
+                            <form action="index" class="appointment-form">
                                 <div class="form-group">
                                     <i class="fas fa-user"></i>
                                     <input type="text" name="name" placeholder="Name" required="">
@@ -574,31 +574,31 @@
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-1.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-1.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-1.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-2.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-2.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-2.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-3.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-3.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-3.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-4.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-4.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-4.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-5.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-5.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-5.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
             </div>
@@ -623,20 +623,20 @@
                                 <div class="overlay-box-1"></div>
                                 <div class="overlay-box-2"></div>
                                 <img src="assets/images/news/news-1.jpg" alt="">
-                                <a href="blog-details.html"><i class="fas fa-link"></i></a>
+                                <a href="blog-details"><i class="fas fa-link"></i></a>
                             </figure>
                             <div class="lower-content">
                                 <div class="upper-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="fas fa-comments"></i><a href="blog-details.html">Comments 47</a></li>
+                                        <li><i class="fas fa-comments"></i><a href="blog-details">Comments 47</a></li>
                                         <li><i class="far fa-calendar-alt"></i>Jan 13, 2020</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Ways To Tell Youre Suffering To From An Skion</a></h3>
+                                    <h3><a href="blog-details">Ways To Tell Youre Suffering To From An Skion</a></h3>
                                     <p>We provide complete process piping capabilities for industrial from pulp and paper.</p>
                                 </div>
                                 <div class="lower-box clearfix">
-                                    <div class="link"><a href="blog-details.html">READ MORE</a></div>
-                                    <div class="admin"><i class="fas fa-user"></i><a href="blog-details.html">By Admin</a></div>
+                                    <div class="link"><a href="blog-details">READ MORE</a></div>
+                                    <div class="admin"><i class="fas fa-user"></i><a href="blog-details">By Admin</a></div>
                                 </div>
                             </div>
                         </div>
@@ -649,20 +649,20 @@
                                 <div class="overlay-box-1"></div>
                                 <div class="overlay-box-2"></div>
                                 <img src="assets/images/news/news-2.jpg" alt="">
-                                <a href="blog-details.html"><i class="fas fa-link"></i></a>
+                                <a href="blog-details"><i class="fas fa-link"></i></a>
                             </figure>
                             <div class="lower-content">
                                 <div class="upper-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="fas fa-comments"></i><a href="blog-details.html">Comments 42</a></li>
+                                        <li><i class="fas fa-comments"></i><a href="blog-details">Comments 42</a></li>
                                         <li><i class="far fa-calendar-alt"></i>Jan 14, 2020</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Do You Want To Fast Track your Lab Operations</a></h3>
+                                    <h3><a href="blog-details">Do You Want To Fast Track your Lab Operations</a></h3>
                                     <p>We provide complete process piping capabilities for industrial from pulp and paper.</p>
                                 </div>
                                 <div class="lower-box clearfix">
-                                    <div class="link"><a href="blog-details.html">READ MORE</a></div>
-                                    <div class="admin"><i class="fas fa-user"></i><a href="blog-details.html">By Admin</a></div>
+                                    <div class="link"><a href="blog-details">READ MORE</a></div>
+                                    <div class="admin"><i class="fas fa-user"></i><a href="blog-details">By Admin</a></div>
                                 </div>
                             </div>
                         </div>
@@ -675,27 +675,27 @@
                                 <div class="overlay-box-1"></div>
                                 <div class="overlay-box-2"></div>
                                 <img src="assets/images/news/news-3.jpg" alt="">
-                                <a href="blog-details.html"><i class="fas fa-link"></i></a>
+                                <a href="blog-details"><i class="fas fa-link"></i></a>
                             </figure>
                             <div class="lower-content">
                                 <div class="upper-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="fas fa-comments"></i><a href="blog-details.html">Comments 40</a></li>
+                                        <li><i class="fas fa-comments"></i><a href="blog-details">Comments 40</a></li>
                                         <li><i class="far fa-calendar-alt"></i>Jan 15, 2020</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">Learn: Blood bank operations and management</a></h3>
+                                    <h3><a href="blog-details">Learn: Blood bank operations and management</a></h3>
                                     <p>We provide complete process piping capabilities for industrial from pulp and paper.</p>
                                 </div>
                                 <div class="lower-box clearfix">
-                                    <div class="link"><a href="blog-details.html">READ MORE</a></div>
-                                    <div class="admin"><i class="fas fa-user"></i><a href="blog-details.html">By Admin</a></div>
+                                    <div class="link"><a href="blog-details">READ MORE</a></div>
+                                    <div class="admin"><i class="fas fa-user"></i><a href="blog-details">By Admin</a></div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="more-text"><p>Don’t hesitate, contact us for better help and blog. <a href="blog.html">Explore all latest News.</a></p></div>
+            <div class="more-text"><p>Don’t hesitate, hubungi kami for better help and blog. <a href="blog">Explore all latest News.</a></p></div>
         </div>
     </section>
     <!-- news-section end -->
@@ -712,7 +712,7 @@
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12 col-sm-12 form-column">
-                    <form action="index.html" method="post" class="newsletter-form">
+                    <form action="index" method="post" class="newsletter-form">
                         <div class="form-group">
                             <input type="email" name="email" placeholder="Enter Your Email" required="">
                             <button class="theme-btn style-two" type="submit">Subscribe Now!</button>
@@ -734,17 +734,17 @@
                     <div class="row clearfix">
                         <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget logo-widget">
-                                <figure class="footer-logo"><a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a></figure>
+                                <figure class="footer-logo"><a href="index"><img src="assets/images/footer-logo.png" alt=""></a></figure>
                                 <div class="text">
                                     <p>We are provide the perfect solution for all kind of laboratories & laboratory based management websites. A complete package for the best online lab services.</p>
                                 </div>
                                 <div class="social-inner">
                                     <h3>Follow Us:</h3>
                                     <ul class="social-links clearfix">
-                                        <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index.html"><i class="fab fa-linkedin-in"></i></a></li>
+                                        <li><a href="index"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="index"><i class="fab fa-google-plus-g"></i></a></li>
+                                        <li><a href="index"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="index"><i class="fab fa-linkedin-in"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -756,11 +756,11 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="clearfix">
-                                        <li><a href="index.html">About Us</a></li>
-                                        <li><a href="index.html">Our Services</a></li>
-                                        <li><a href="index.html">Our Team</a></li>
-                                        <li><a href="index.html">Contacts</a></li>
-                                        <li><a href="index.html">Research</a></li>
+                                        <li><a href="index">About Us</a></li>
+                                        <li><a href="index">Our Services</a></li>
+                                        <li><a href="index">Our Team</a></li>
+                                        <li><a href="index">Contacts</a></li>
+                                        <li><a href="index">Research</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -772,14 +772,14 @@
                                 </div>
                                 <div class="post-inner">
                                     <div class="post">
-                                        <figure class="image-box"><a href="blog-details.html"><img src="assets/images/resource/post-1.jpg" alt=""></a></figure>
+                                        <figure class="image-box"><a href="blog-details"><img src="assets/images/resource/post-1.jpg" alt=""></a></figure>
                                         <p><i class="fas fa-calendar-alt"></i>Feb 05, 2020</p>
-                                        <h5><a href="blog-details.html">Tests with Nursing Implicat Laboratory Technician</a></h5>
+                                        <h5><a href="blog-details">Tests with Nursing Implicat Laboratory Technician</a></h5>
                                     </div>
                                     <div class="post">
-                                        <figure class="image-box"><a href="blog-details.html"><img src="assets/images/resource/post-2.jpg" alt=""></a></figure>
+                                        <figure class="image-box"><a href="blog-details"><img src="assets/images/resource/post-2.jpg" alt=""></a></figure>
                                         <p><i class="fas fa-calendar-alt"></i>Feb 06, 2020</p>
-                                        <h5><a href="blog-details.html">Equipping Researchers Lab in the Developing.</a></h5>
+                                        <h5><a href="blog-details">Equipping Researchers Lab in the Developing.</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -791,11 +791,11 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="clearfix">
-                                        <li><a href="index.html">Scientific</a></li>
-                                        <li><a href="index.html">Chemistry</a></li>
-                                        <li><a href="index.html">Gemological</a></li>
-                                        <li><a href="index.html">Forensic science</a></li>
-                                        <li><a href="index.html">Immunology</a></li>
+                                        <li><a href="index">Scientific</a></li>
+                                        <li><a href="index">Chemistry</a></li>
+                                        <li><a href="index">Gemological</a></li>
+                                        <li><a href="index">Forensic science</a></li>
+                                        <li><a href="index">Immunology</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -807,7 +807,7 @@
         <div class="footer-bottom centred">
             <div class="auto-container">
                 <div class="copyright">
-                    <p>Copyright &copy; 2020 <a href="index.html">Losalamos</a>. All rights reserved.</p>
+                    <p>Copyright &copy; 2020 <a href="index">Losalamos</a>. All rights reserved.</p>
                 </div>
             </div>
         </div>

@@ -32,7 +32,7 @@
 <!-- page wrapper -->
 <body class="boxed_wrapper">
 
-    
+
 
     <!-- search-popup -->
     <div id="search-popup" class="search-popup home-rtl">
@@ -40,7 +40,7 @@
         <div class="popup-inner">
             <div class="overlay-layer"></div>
             <div class="search-form">
-                <form method="post" action="index.html">
+                <form method="post" action="index">
                     <div class="form-group">
                         <fieldset>
                             <input type="search" class="form-control" name="search-input" value="" placeholder="ابحث هنا" required >
@@ -50,11 +50,11 @@
                 </form>
                 <h3>كلمات البحث الأخيرة</h3>
                 <ul class="recent-searches">
-                    <li><a href="index.html">المالية</a></li>
-                    <li><a href="index.html">فكرة</a></li>
-                    <li><a href="index.html">الخدمات</a></li>
-                    <li><a href="index.html">نمو</a></li>
-                    <li><a href="index.html">خطة</a></li>
+                    <li><a href="index">المالية</a></li>
+                    <li><a href="index">فكرة</a></li>
+                    <li><a href="index">الخدمات</a></li>
+                    <li><a href="index">نمو</a></li>
+                    <li><a href="index">خطة</a></li>
                 </ul>
             </div>
         </div>
@@ -69,15 +69,15 @@
                 <div class="top-inner clearfix">
                     <div class="top-left pull-left clearfix">
                         <ul class="social-links clearfix">
-                            <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
+                            <li><a href="index"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="index"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="index"><i class="fab fa-google-plus-g"></i></a></li>
                         </ul>
                         <div class="text"><p>مرحبًا بكم في مختبر بحث لوس ألاموس</p></div>
                     </div>
                     <ul class="top-right pull-right">
                         <li><a href="mailto:support@info.com">support@info.com</a></li>
-                        <li><a href="index-2.html">موعد الكتاب</a></li>
+                        <li><a href="index-2">موعد الكتاب</a></li>
                     </ul>
                 </div>
             </div>
@@ -86,7 +86,7 @@
             <div class="auto-container">
                 <div class="header-upper-box clearfix">
                     <div class="upper-left pull-left">
-                        <figure class="logo-box"><a href="index.html"><img src="assets/images/logo-2.png" alt=""></a></figure>
+                        <figure class="logo-box"><a href="index"><img src="assets/images/logo-2.png" alt=""></a></figure>
                     </div>
                     <div class="upper-right float-right clearfix">
                         <div class="header-info">
@@ -112,8 +112,8 @@
                                     </div>
                                     <div class="icon-box"><i class="flaticon-planet-earth"></i></div>
                                 </li>
-                            </ul>    
-                        </div> 
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -131,107 +131,107 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="current dropdown"><a href="index-2.html">الصفحة الرئيسية</a>
+                                    <li class="current dropdown"><a href="index-2">الصفحة الرئيسية</a>
                                         <ul>
-                                            <li><a href="index.html">الصفحة الرئيسية</a></li>
-                                            <li><a href="index-2.html">الصفحة الرئيسية الثانية</a></li>
-                                            <li><a href="index-3.html">الصفحة الرئيسية ثلاثة</a></li>
-                                            <li><a href="index-4.html">الصفحة الرئيسية أربعة</a></li>
-                                            <li><a href="index-5.html">الصفحة الرئيسية خمسة</a></li>
-                                            <li><a href="index-rtl.html">RTL الرئيسية</a></li>
-                                            <li><a href="index-onepage.html">الصفحة الرئيسية</a></li>
-                                            <li class="dropdown"><a href="index-2.html">نمط الرأس</a>
+                                            <li><a href="index">الصفحة الرئيسية</a></li>
+                                            <li><a href="index-2">الصفحة الرئيسية الثانية</a></li>
+                                            <li><a href="index-3">الصفحة الرئيسية ثلاثة</a></li>
+                                            <li><a href="index-4">الصفحة الرئيسية أربعة</a></li>
+                                            <li><a href="index-5">الصفحة الرئيسية خمسة</a></li>
+                                            <li><a href="index-rtl">RTL الرئيسية</a></li>
+                                            <li><a href="index-onepage">الصفحة الرئيسية</a></li>
+                                            <li class="dropdown"><a href="index-2">نمط الرأس</a>
                                                 <ul>
-                                                    <li><a href="index.html">رأس نمط واحد</a></li>
-                                                    <li><a href="index-2.html">نمط الرأس الثاني</a></li>
-                                                    <li><a href="index-3.html">رأس نمط ثلاثة</a></li>
-                                                    <li><a href="index-4.html">رأس نمط أربعة</a></li>
-                                                    <li><a href="index-5.html">رأس نمط خمسة</a></li>
+                                                    <li><a href="index">رأس نمط واحد</a></li>
+                                                    <li><a href="index-2">نمط الرأس الثاني</a></li>
+                                                    <li><a href="index-3">رأس نمط ثلاثة</a></li>
+                                                    <li><a href="index-4">رأس نمط أربعة</a></li>
+                                                    <li><a href="index-5">رأس نمط خمسة</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
-                                    </li> 
-                                    <li class="dropdown"><a href="index-2.html">صفحات</a>
+                                    </li>
+                                    <li class="dropdown"><a href="index-2">صفحات</a>
                                         <ul>
-                                            <li><a href="service.html">خدمات</a></li>
-                                            <li><a href="service-details.html">تفاصيل الخدمة</a></li>
-                                            <li><a href="research.html">ابحاث</a></li>
-                                            <li><a href="research-details.html">تفاصيل البحث</a></li>
-                                            <li><a href="books.html">كتبنا</a></li>
-                                            <li><a href="error.html">صفحة الخطأ</a></li>
+                                            <li><a href="/service">خدمات</a></li>
+                                            <li><a href="service-details">تفاصيل الخدمة</a></li>
+                                            <li><a href="research">ابحاث</a></li>
+                                            <li><a href="research-details">تفاصيل البحث</a></li>
+                                            <li><a href="books">كتبنا</a></li>
+                                            <li><a href="error">صفحة الخطأ</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="index-2.html">الفريق</a>
+                                    <li class="dropdown"><a href="index-2">الفريق</a>
                                         <ul>
-                                            <li><a href="team.html">فريق الخبراء</a></li>
-                                            <li><a href="team-details.html">تفاصيل الفريق</a></li>
+                                            <li><a href="team">فريق الخبراء</a></li>
+                                            <li><a href="team-details">تفاصيل الفريق</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="index-2.html">عناصر</a>
+                                    <li class="dropdown"><a href="index-2">عناصر</a>
                                         <div class="megamenu">
                                             <div class="row clearfix">
                                                 <div class="col-lg-3 column">
                                                     <ul>
                                                         <li><h4>عناصر 1</h4></li>
-                                                        <li><a href="about-element-1.html">حوالي 01</a></li>
-                                                        <li><a href="about-element-2.html">حوالي 02</a></li>
-                                                        <li><a href="about-element-3.html">حوالي 03</a></li>
-                                                        <li><a href="about-element-4.html">حوالي 04</a></li>
-                                                        <li><a href="counter-element-1.html">حقيقة ممتعة 01</a></li>
-                                                        <li><a href="counter-element-2.html">حقيقة ممتعة 02</a></li>
-                                                        <li><a href="counter-element-3.html">حقيقة ممتعة 03</a></li>
-                                                        <li><a href="counter-element-4.html">حقيقة ممتعة 04</a></li>
+                                                        <li><a href="about-element-1">حوالي 01</a></li>
+                                                        <li><a href="about-element-2">حوالي 02</a></li>
+                                                        <li><a href="about-element-3">حوالي 03</a></li>
+                                                        <li><a href="about-element-4">حوالي 04</a></li>
+                                                        <li><a href="counter-element-1">حقيقة ممتعة 01</a></li>
+                                                        <li><a href="counter-element-2">حقيقة ممتعة 02</a></li>
+                                                        <li><a href="counter-element-3">حقيقة ممتعة 03</a></li>
+                                                        <li><a href="counter-element-4">حقيقة ممتعة 04</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-lg-3 column">
                                                     <ul>
                                                         <li><h4>عناصر 2</h4></li>
-                                                        <li><a href="service-element-1.html">الخدمة 01</a></li>
-                                                        <li><a href="service-element-2.html">الخدمة 02</a></li>
-                                                        <li><a href="service-element-3.html">الخدمة 03</a></li>
-                                                        <li><a href="service-element-4.html">الخدمة 04</a></li>
-                                                        <li><a href="technology-element.html">تقنية</a></li>
-                                                        <li><a href="skills-element-1.html">المهارات 01</a></li>
-                                                        <li><a href="skills-element-2.html">المهارات 02</a></li>
-                                                        <li><a href="appointment-element.html">نموذج موعد</a></li>
+                                                        <li><a href="service-element-1">الخدمة 01</a></li>
+                                                        <li><a href="service-element-2">الخدمة 02</a></li>
+                                                        <li><a href="service-element-3">الخدمة 03</a></li>
+                                                        <li><a href="service-element-4">الخدمة 04</a></li>
+                                                        <li><a href="technology-element">تقنية</a></li>
+                                                        <li><a href="skills-element-1">المهارات 01</a></li>
+                                                        <li><a href="skills-element-2">المهارات 02</a></li>
+                                                        <li><a href="appointment-element">نموذج موعد</a></li>
                                                     </ul>
-                                                </div> 
+                                                </div>
                                                 <div class="col-lg-3 column">
                                                     <ul>
                                                         <li><h4>عناصر 3</h4></li>
-                                                        <li><a href="news-element-1.html">أخبار 01</a></li>
-                                                        <li><a href="news-element-2.html">أخبار 02</a></li>
-                                                        <li><a href="news-element-3.html">أخبار 03</a></li>
-                                                        <li><a href="news-element-4.html">أخبار 04</a></li>
-                                                        <li><a href="news-element-5.html">أخبار 05</a></li>
-                                                        <li><a href="intro-element-1.html">مقدمة 01</a></li>
-                                                        <li><a href="intro-element-2.html">مقدمة 02</a></li>
-                                                        <li><a href="faq-element.html">عناصر أسئلة وأجوبة</a></li>
+                                                        <li><a href="news-element-1">أخبار 01</a></li>
+                                                        <li><a href="news-element-2">أخبار 02</a></li>
+                                                        <li><a href="news-element-3">أخبار 03</a></li>
+                                                        <li><a href="news-element-4">أخبار 04</a></li>
+                                                        <li><a href="news-element-5">أخبار 05</a></li>
+                                                        <li><a href="intro-element-1">مقدمة 01</a></li>
+                                                        <li><a href="intro-element-2">مقدمة 02</a></li>
+                                                        <li><a href="faq-element">عناصر أسئلة وأجوبة</a></li>
                                                     </ul>
-                                                </div> 
+                                                </div>
                                                 <div class="col-lg-3 column">
                                                     <ul>
                                                         <li><h4>عناصر 4</h4></li>
-                                                        <li><a href="team-element-1.html">فريق 01</a></li>
-                                                        <li><a href="team-element-2.html">فريق 02</a></li>
-                                                        <li><a href="working-element-1.html">عملية العمل 01</a></li>
-                                                        <li><a href="working-element-2.html">عملية العمل 02</a></li>
-                                                        <li><a href="project-element-1.html">دراسات الحالة 01</a></li>
-                                                        <li><a href="project-element-2.html">دراسات الحالة 02</a></li>
-                                                        <li><a href="project-element-3.html">دراسات الحالة 03</a></li>
-                                                        <li><a href="testimonial-element.html">شهادة</a></li>
+                                                        <li><a href="team-element-1">فريق 01</a></li>
+                                                        <li><a href="team-element-2">فريق 02</a></li>
+                                                        <li><a href="working-element-1">عملية العمل 01</a></li>
+                                                        <li><a href="working-element-2">عملية العمل 02</a></li>
+                                                        <li><a href="project-element-1">دراسات الحالة 01</a></li>
+                                                        <li><a href="project-element-2">دراسات الحالة 02</a></li>
+                                                        <li><a href="project-element-3">دراسات الحالة 03</a></li>
+                                                        <li><a href="testimonial-element">شهادة</a></li>
                                                     </ul>
-                                                </div>                                            
-                                            </div>                                                
+                                                </div>
+                                            </div>
                                         </div>
                                     </li>
-                                    <li class="dropdown"><a href="index-2.html">مدونة</a>
+                                    <li class="dropdown"><a href="index-2">مدونة</a>
                                         <ul>
-                                            <li><a href="blog.html">أحدث الأخبار</a></li>
-                                            <li><a href="blog-details.html">تفاصيل الأخبار</a></li>
+                                            <li><a href="blog">أحدث الأخبار</a></li>
+                                            <li><a href="blog-details">تفاصيل الأخبار</a></li>
                                         </ul>
-                                    </li>                              
-                                    <li><a href="contact.html">اتصل بنا</a></li>
+                                    </li>
+                                    <li><a href="contact">اتصل بنا</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -250,7 +250,7 @@
             <div class="auto-container">
                 <div class="outer-box clearfix">
                     <div class="logo-box pull-left">
-                        <figure class="logo"><a href="index.html"><img src="assets/images/small-logo.png" alt=""></a></figure>
+                        <figure class="logo"><a href="index"><img src="assets/images/small-logo.png" alt=""></a></figure>
                     </div>
                     <div class="menu-area pull-right">
                         <nav class="main-menu clearfix">
@@ -272,9 +272,9 @@
     <div class="mobile-menu">
         <div class="menu-backdrop"></div>
         <div class="close-btn"><i class="fas fa-times"></i></div>
-        
+
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.html"><img src="assets/images/mobile-logo.png" alt="" title=""></a></div>
+            <div class="nav-logo"><a href="index"><img src="assets/images/mobile-logo.png" alt="" title=""></a></div>
             <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
             <div class="contact-info text-right">
                 <h4>معلومات الاتصال</h4>
@@ -286,11 +286,11 @@
             </div>
             <div class="social-links text-right">
                 <ul class="clearfix">
-                    <li><a href="index.html"><span class="fab fa-twitter"></span></a></li>
-                    <li><a href="index.html"><span class="fab fa-facebook-square"></span></a></li>
-                    <li><a href="index.html"><span class="fab fa-pinterest-p"></span></a></li>
-                    <li><a href="index.html"><span class="fab fa-instagram"></span></a></li>
-                    <li><a href="index.html"><span class="fab fa-youtube"></span></a></li>
+                    <li><a href="index"><span class="fab fa-twitter"></span></a></li>
+                    <li><a href="index"><span class="fab fa-facebook-square"></span></a></li>
+                    <li><a href="index"><span class="fab fa-pinterest-p"></span></a></li>
+                    <li><a href="index"><span class="fab fa-instagram"></span></a></li>
+                    <li><a href="index"><span class="fab fa-youtube"></span></a></li>
                 </ul>
             </div>
         </nav>
@@ -310,11 +310,11 @@
                                 <h1>اجعل الحياة أسهل</h1>
                                 <p>الموظفون المؤهلون ذوو الخبرة في الخدمات التي نقدمها مقابل تكلفة أكثر ريسونابلي مع الحب ، ما عليك سوى استكشاف المزيد!</p>
                                 <div class="btn-box">
-                                    <a href="index-2.html" class="theme-btn style-two">اقرأ أكثر</a>
+                                    <a href="index-2" class="theme-btn style-two">اقرأ أكثر</a>
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
             <div class="slide-item">
@@ -327,11 +327,11 @@
                                 <h1>اجعل الحياة أسهل</h1>
                                 <p>الموظفون المؤهلون ذوو الخبرة في الخدمات التي نقدمها مقابل تكلفة أكثر ريسونابلي مع الحب ، ما عليك سوى استكشاف المزيد!</p>
                                 <div class="btn-box">
-                                    <a href="index-2.html" class="theme-btn style-two">اقرأ أكثر</a>
+                                    <a href="index-2" class="theme-btn style-two">اقرأ أكثر</a>
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
             <div class="slide-item">
@@ -344,11 +344,11 @@
                                 <h1>اجعل الحياة أسهل</h1>
                                 <p>الموظفون المؤهلون ذوو الخبرة في الخدمات التي نقدمها مقابل تكلفة أكثر ريسونابلي مع الحب ، ما عليك سوى استكشاف المزيد!</p>
                                 <div class="btn-box">
-                                    <a href="index-2.html" class="theme-btn style-two">اقرأ أكثر</a>
+                                    <a href="index-2" class="theme-btn style-two">اقرأ أكثر</a>
                                 </div>
                             </div>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
         </div>
@@ -363,21 +363,21 @@
                 <div class="single-item">
                     <div class="inner-box">
                         <div class="icon-box"><i class="flaticon-allergy"></i></div>
-                        <h3><a href="service-details.html">علم المناعة</a></h3>
+                        <h3><a href="service-details">علم المناعة</a></h3>
                         <p>Excepteur هي ocecat cupidatatnon قد تكون على خطأ الأكاذيب على quiofficia العقول الناعمة إلى التخلي عنه.</p>
                     </div>
                 </div>
                 <div class="single-item">
                     <div class="inner-box">
                         <div class="icon-box"><i class="flaticon-molecular"></i></div>
-                        <h3><a href="service-details.html">البيولوجيا الجزيئية</a></h3>
+                        <h3><a href="service-details">البيولوجيا الجزيئية</a></h3>
                         <p>Excepteur هي ocecat cupidatatnon قد تكون على خطأ الأكاذيب على quiofficia العقول الناعمة إلى التخلي عنه.</p>
                     </div>
                 </div>
                 <div class="single-item">
                     <div class="inner-box">
                         <div class="icon-box"><i class="flaticon-user-experience"></i></div>
-                        <h3><a href="service-details.html">أمراض القلب والأوعية الدموية</a></h3>
+                        <h3><a href="service-details">أمراض القلب والأوعية الدموية</a></h3>
                         <p>Excepteur هي ocecat cupidatatnon قد تكون على خطأ الأكاذيب على quiofficia العقول الناعمة إلى التخلي عنه.</p>
                     </div>
                 </div>
@@ -418,7 +418,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="btn-box"><a href="index.html" class="theme-btn style-one">المزيد عنا</a></div>
+                            <div class="btn-box"><a href="index" class="theme-btn style-one">المزيد عنا</a></div>
                         </div>
                     </div>
                 </div>
@@ -454,7 +454,7 @@
                     <div class="service-block-two wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-microscope"></i></div>
-                            <h4><a href="service-details.html">اختبار علم الأمراض</a></h4>
+                            <h4><a href="service-details">اختبار علم الأمراض</a></h4>
                             <p>أبجد هوز الجزر حساء الطماطم، ولكن لا occaecat الجامعية الوقت وحيوية.</p>
                         </div>
                     </div>
@@ -463,7 +463,7 @@
                     <div class="service-block-two wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-test-tube"></i></div>
-                            <h4><a href="service-details.html">البحوث الكيميائية</a></h4>
+                            <h4><a href="service-details">البحوث الكيميائية</a></h4>
                             <p>أبجد هوز الجزر حساء الطماطم، ولكن لا occaecat الجامعية الوقت وحيوية.</p>
                         </div>
                     </div>
@@ -472,7 +472,7 @@
                     <div class="service-block-two wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-research"></i></div>
-                            <h4><a href="service-details.html">المجهر المتقدم</a></h4>
+                            <h4><a href="service-details">المجهر المتقدم</a></h4>
                             <p>أبجد هوز الجزر حساء الطماطم، ولكن لا occaecat الجامعية الوقت وحيوية.</p>
                         </div>
                     </div>
@@ -481,7 +481,7 @@
                     <div class="service-block-two wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-laboratory-1"></i></div>
-                            <h4><a href="service-details.html">مختبرات الرعاية الصحية</a></h4>
+                            <h4><a href="service-details">مختبرات الرعاية الصحية</a></h4>
                             <p>أبجد هوز الجزر حساء الطماطم، ولكن لا occaecat الجامعية الوقت وحيوية.</p>
                         </div>
                     </div>
@@ -490,7 +490,7 @@
                     <div class="service-block-two wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-biology-1"></i></div>
-                            <h4><a href="service-details.html">اختبار البيئة</a></h4>
+                            <h4><a href="service-details">اختبار البيئة</a></h4>
                             <p>أبجد هوز الجزر حساء الطماطم، ولكن لا occaecat الجامعية الوقت وحيوية.</p>
                         </div>
                     </div>
@@ -499,13 +499,13 @@
                     <div class="service-block-two wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="icon-box"><i class="flaticon-test-tube-1"></i></div>
-                            <h4><a href="service-details.html">إعداد عينة</a></h4>
+                            <h4><a href="service-details">إعداد عينة</a></h4>
                             <p>أبجد هوز الجزر حساء الطماطم، ولكن لا occaecat الجامعية الوقت وحيوية.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="more-text"><p>لا تتردد ، اتصل بنا للحصول على مساعدة وخدمات أفضل.<a href="service.html">استكشاف كل التكنولوجيا</a></p></div>
+            <div class="more-text"><p>لا تتردد ، اتصل بنا للحصول على مساعدة وخدمات أفضل.<a href="/service">استكشاف كل التكنولوجيا</a></p></div>
         </div>
     </section>
     <!-- service-style-two end -->
@@ -569,15 +569,15 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
-                                <div class="link"><a href="team-details.html"><i class="fas fa-link"></i></a></div>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details.html">مارتن طومسون</a></h3>
+                                <h3><a href="team-details">مارتن طومسون</a></h3>
                                 <span class="designation">فني مختبر</span>
                             </div>
                         </div>
@@ -589,15 +589,15 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
-                                <div class="link"><a href="team-details.html"><i class="fas fa-link"></i></a></div>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details.html">ميلفورد رونولف</a></h3>
+                                <h3><a href="team-details">ميلفورد رونولف</a></h3>
                                 <span class="designation">رئيس الميكروبيولوجي</span>
                             </div>
                         </div>
@@ -609,15 +609,15 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
-                                <div class="link"><a href="team-details.html"><i class="fas fa-link"></i></a></div>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details.html">كلارابيل سامبر</a></h3>
+                                <h3><a href="team-details">كلارابيل سامبر</a></h3>
                                 <span class="designation">كبير علماء التخدير</span>
                             </div>
                         </div>
@@ -629,15 +629,15 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-4.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
-                                <div class="link"><a href="team-details.html"><i class="fas fa-link"></i></a></div>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details.html">هنرييت ساترفيلد</a></h3>
+                                <h3><a href="team-details">هنرييت ساترفيلد</a></h3>
                                 <span class="designation">النباتي</span>
                             </div>
                         </div>
@@ -796,19 +796,19 @@
                                 <div class="overlay-box-1"></div>
                                 <div class="overlay-box-2"></div>
                                 <img src="assets/images/news/news-4.jpg" alt="">
-                                <a href="blog-details.html"><i class="fas fa-link"></i></a>
+                                <a href="blog-details"><i class="fas fa-link"></i></a>
                             </figure>
                             <div class="lower-content">
                                 <div class="upper-box">
                                     <ul class="post-info clearfix">
-                                        <li><i class="fas fa-comments"></i><a href="blog-details.html">تعليقات 47</a></li>
+                                        <li><i class="fas fa-comments"></i><a href="blog-details">تعليقات 47</a></li>
                                         <li><i class="far fa-calendar-alt"></i>يناير 13, 2020</li>
                                     </ul>
-                                    <h3><a href="blog-details.html">طرق لإخباركم بمعاناة من سكيون</a></h3>
+                                    <h3><a href="blog-details">طرق لإخباركم بمعاناة من سكيون</a></h3>
                                 </div>
                                 <div class="lower-box clearfix">
-                                    <div class="link"><a href="blog-details.html">قراءة المزيد</a></div>
-                                    <div class="admin"><i class="fas fa-user"></i><a href="blog-details.html">بواسطة الادارية</a></div>
+                                    <div class="link"><a href="blog-details">قراءة المزيد</a></div>
+                                    <div class="admin"><i class="fas fa-user"></i><a href="blog-details">بواسطة الادارية</a></div>
                                 </div>
                             </div>
                         </div>
@@ -817,33 +817,33 @@
                 <div class="col-lg-6 col-md-12 col-sm-12 news-block">
                     <div class="news-block-two">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-5.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-5.jpg" alt=""></a></figure>
                             <div class="inner">
                                 <ul class="post-info clearfix">
-                                    <li><i class="fas fa-comments"></i><a href="blog-details.html">تعليقات 47</a></li>
+                                    <li><i class="fas fa-comments"></i><a href="blog-details">تعليقات 47</a></li>
                                     <li><i class="far fa-calendar-alt"></i>يناير 13, 2020</li>
                                 </ul>
-                                <h3><a href="blog-details.html">هل تريد أن تتبع بسرعة عمليات مختبرك</a></h3>
+                                <h3><a href="blog-details">هل تريد أن تتبع بسرعة عمليات مختبرك</a></h3>
                                 <p>نحن نقدم قدرات أنابيب عملية كاملة للصناعة من اللب والورق.</p>
                             </div>
                         </div>
                     </div>
                     <div class="news-block-two">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="blog-details.html"><img src="assets/images/news/news-6.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-6.jpg" alt=""></a></figure>
                             <div class="inner">
                                 <ul class="post-info clearfix">
-                                    <li><i class="fas fa-comments"></i><a href="blog-details.html">تعليقات 47</a></li>
+                                    <li><i class="fas fa-comments"></i><a href="blog-details">تعليقات 47</a></li>
                                     <li><i class="far fa-calendar-alt"></i>يناير 12, 2020</li>
                                 </ul>
-                                <h3><a href="blog-details.html">تعلم: تشغيل بنك الدم وإدارته</a></h3>
+                                <h3><a href="blog-details">تعلم: تشغيل بنك الدم وإدارته</a></h3>
                                 <p>نحن نقدم قدرات أنابيب عملية كاملة للصناعة من اللب والورق.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="more-text"><p>لا تتردد ، اتصل بنا للحصول على مساعدة أفضل وبلوق. <a href="blog.html">استكشاف جميع أحدث الأخبار.</a></p></div>
+            <div class="more-text"><p>لا تتردد ، اتصل بنا للحصول على مساعدة أفضل وبلوق. <a href="blog">استكشاف جميع أحدث الأخبار.</a></p></div>
         </div>
     </section>
     <!-- news-style-two end -->
@@ -856,31 +856,31 @@
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-1.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-1.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-1.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-2.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-2.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-2.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-3.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-3.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-3.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-4.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-4.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-4.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/brand-5.png" alt="Awesome Image"></a>
                     <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-5.png" alt="Awesome Image"></a>    
+                        <a href="#"><img src="assets/images/clients/overlay-brand-5.png" alt="Awesome Image"></a>
                     </div>
                 </figure>
             </div>
@@ -900,7 +900,7 @@
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12 col-sm-12 form-column">
-                    <form action="index.html" method="post" class="newsletter-form">
+                    <form action="index" method="post" class="newsletter-form">
                         <div class="form-group">
                             <input type="email" name="email" placeholder="أدخل بريدك الالكتروني" required="">
                             <button class="theme-btn style-two" type="submit">إشترك الآن!</button>
@@ -922,17 +922,17 @@
                     <div class="row clearfix">
                         <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                             <div class="footer-widget logo-widget">
-                                <figure class="footer-logo"><a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a></figure>
+                                <figure class="footer-logo"><a href="index"><img src="assets/images/footer-logo.png" alt=""></a></figure>
                                 <div class="text">
                                     <p>نحن نقدم الحل الأمثل لجميع أنواع المختبرات ومواقع الإدارة القائمة على المختبرات. حزمة كاملة للحصول على أفضل خدمات المختبر عبر الإنترنت.</p>
                                 </div>
                                 <div class="social-inner">
                                     <h3>Follow Us:</h3>
                                     <ul class="social-links clearfix">
-                                        <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="index.html"><i class="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="index.html"><i class="fab fa-linkedin-in"></i></a></li>
+                                        <li><a href="index"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="index"><i class="fab fa-google-plus-g"></i></a></li>
+                                        <li><a href="index"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="index"><i class="fab fa-linkedin-in"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -944,11 +944,11 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="clearfix">
-                                        <li><a href="index.html">معلومات عنا</a></li>
-                                        <li><a href="index.html">خدماتنا</a></li>
-                                        <li><a href="index.html">فريقنا</a></li>
-                                        <li><a href="index.html">جهات الاتصال</a></li>
-                                        <li><a href="index.html">ابحاث</a></li>
+                                        <li><a href="index">معلومات عنا</a></li>
+                                        <li><a href="index">خدماتنا</a></li>
+                                        <li><a href="index">فريقنا</a></li>
+                                        <li><a href="index">جهات الاتصال</a></li>
+                                        <li><a href="index">ابحاث</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -960,14 +960,14 @@
                                 </div>
                                 <div class="post-inner">
                                     <div class="post">
-                                        <figure class="image-box"><a href="blog-details.html"><img src="assets/images/resource/post-1.jpg" alt=""></a></figure>
+                                        <figure class="image-box"><a href="blog-details"><img src="assets/images/resource/post-1.jpg" alt=""></a></figure>
                                         <p><i class="fas fa-calendar-alt"></i>فبراير 05, 2020</p>
-                                        <h5><a href="blog-details.html">اختبارات مع مختبر التمريض Implicat فني</a></h5>
+                                        <h5><a href="blog-details">اختبارات مع مختبر التمريض Implicat فني</a></h5>
                                     </div>
                                     <div class="post">
-                                        <figure class="image-box"><a href="blog-details.html"><img src="assets/images/resource/post-2.jpg" alt=""></a></figure>
+                                        <figure class="image-box"><a href="blog-details"><img src="assets/images/resource/post-2.jpg" alt=""></a></figure>
                                         <p><i class="fas fa-calendar-alt"></i>فبراير 06, 2020</p>
-                                        <h5><a href="blog-details.html">تجهيز مختبر الباحثين في البلدان النامية.</a></h5>
+                                        <h5><a href="blog-details">تجهيز مختبر الباحثين في البلدان النامية.</a></h5>
                                     </div>
                                 </div>
                             </div>
@@ -979,11 +979,11 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="clearfix">
-                                        <li><a href="index.html">علمي</a></li>
-                                        <li><a href="index.html">كيمياء</a></li>
-                                        <li><a href="index.html">أحجار الكريمة</a></li>
-                                        <li><a href="index.html">علم الطب الشرعي</a></li>
-                                        <li><a href="index.html">علم المناعة</a></li>
+                                        <li><a href="index">علمي</a></li>
+                                        <li><a href="index">كيمياء</a></li>
+                                        <li><a href="index">أحجار الكريمة</a></li>
+                                        <li><a href="index">علم الطب الشرعي</a></li>
+                                        <li><a href="index">علم المناعة</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -995,7 +995,7 @@
         <div class="footer-bottom centred">
             <div class="auto-container">
                 <div class="copyright">
-                    <p>حقوق النشر &copy; 2020 <a href="index.html">Losalamos</a>. كل الحقوق محفوظة.</p>
+                    <p>حقوق النشر &copy; 2020 <a href="index">Losalamos</a>. كل الحقوق محفوظة.</p>
                 </div>
             </div>
         </div>
