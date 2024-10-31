@@ -36,11 +36,11 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
                     <div class="content-box clearfix">
                         <div class="title pull-left">
-                            <h1>Service 01</h1>
+                            <h1>Sumber Daya</h1>
                         </div>
                         <ul class="bread-crumb pull-right clearfix">
                             <li><a href="index">Home</a></li>
-                            <li>Elements</li>
+                            <li>Sumber Daya</li>
                         </ul>
                     </div>
                 </div>

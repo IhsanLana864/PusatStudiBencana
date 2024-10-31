@@ -51,144 +51,143 @@
     </section>
     <!--End Page Title-->
 
-
-    <!-- service-style-four -->
-    <section class="service-style-four service-page">
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-four wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-5.jpg" alt=""></a></figure>
-                            <div class="lower-content">
-                                <div class="inner">
-                                    <div class="icon-box"><i class="flaticon-microscope-1"></i></div>
-                                    <h3><a href="service-details">Pathology Testing</a></h3>
-                                    <p>Lorem ipsum dolor amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                    <div class="link"><a href="service-details">Read More <i class="fas fa-angle-double-right"></i></a></div>
-                                </div>
+<!-- service-style-four -->
+<section class="service-style-four service-page">
+    <div class="auto-container">
+        <div class="row clearfix">
+            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                <div class="service-block-four wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
+                    <div class="inner-box">
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
+                        <div class="lower-content">
+                            <div class="inner">
+                                <div class="icon-box"><i class="flaticon-research"></i></div>
+                                <h3><a href="service-details">Riset & Pengembangan</a></h3>
+                                <p>Pusat Studi Bencana IPB melakukan riset mendalam dalam bidang mitigasi dan respons bencana guna mendukung kebijakan berbasis bukti di Indonesia.</p>
+                                <div class="link"><a href="service-details">Baca Selengkapnya <i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-four wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-6.jpg" alt=""></a></figure>
-                            <div class="lower-content">
-                                <div class="inner">
-                                    <div class="icon-box"><i class="flaticon-test-tube"></i></div>
-                                    <h3><a href="service-details">Chemical Research</a></h3>
-                                    <p>Lorem ipsum dolor amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                    <div class="link"><a href="service-details">Read More <i class="fas fa-angle-double-right"></i></a></div>
-                                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                <div class="service-block-four wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <div class="inner-box">
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
+                        <div class="lower-content">
+                            <div class="inner">
+                                <div class="icon-box"><i class="flaticon-test-tube"></i></div>
+                                <h3><a href="service-details">Pendidikan & Pelatihan</a></h3>
+                                <p>Kami menyediakan pelatihan praktis tentang mitigasi bencana, termasuk pelatihan kesiapsiagaan untuk meningkatkan kemampuan masyarakat menghadapi bencana.</p>
+                                <div class="link"><a href="service-details">Baca Selengkapnya <i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-four wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-7.jpg" alt=""></a></figure>
-                            <div class="lower-content">
-                                <div class="inner">
-                                    <div class="icon-box"><i class="flaticon-research"></i></div>
-                                    <h3><a href="service-details">Advanced Microscopy</a></h3>
-                                    <p>Lorem ipsum dolor amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                    <div class="link"><a href="service-details">Read More <i class="fas fa-angle-double-right"></i></a></div>
-                                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                <div class="service-block-four wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    <div class="inner-box">
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
+                        <div class="lower-content">
+                            <div class="inner">
+                                <div class="icon-box"><i class="flaticon-microscope"></i></div>
+                                <h3><a href="service-details">Pengembangan Sistem Informasi</a></h3>
+                                <p>Kami mengembangkan sistem informasi dan aplikasi berbasis digital untuk memonitor dan merespons potensi bencana di berbagai daerah.</p>
+                                <div class="link"><a href="service-details">Baca Selengkapnya <i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-four wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-8.jpg" alt=""></a></figure>
-                            <div class="lower-content">
-                                <div class="inner">
-                                    <div class="icon-box"><i class="flaticon-laboratory-1"></i></div>
-                                    <h3><a href="service-details">Healthcare Labs</a></h3>
-                                    <p>Lorem ipsum dolor amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                    <div class="link"><a href="service-details">Read More <i class="fas fa-angle-double-right"></i></a></div>
-                                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                <div class="service-block-four wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
+                    <div class="inner-box">
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-8.jpg" alt=""></a></figure>
+                        <div class="lower-content">
+                            <div class="inner">
+                                <div class="icon-box"><i class="flaticon-laboratory-1"></i></div>
+                                <h3><a href="service-details">Kemitraan & Kolaborasi</a></h3>
+                                <p>Pusat Studi Bencana IPB aktif berkolaborasi dengan pemerintah, NGO, dan masyarakat dalam upaya kesiapsiagaan dan mitigasi bencana.</p>
+                                <div class="link"><a href="service-details">Baca Selengkapnya<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-four wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-9.jpg" alt=""></a></figure>
-                            <div class="lower-content">
-                                <div class="inner">
-                                    <div class="icon-box"><i class="flaticon-biology-1"></i></div>
-                                    <h3><a href="service-details">Environmental Testing</a></h3>
-                                    <p>Lorem ipsum dolor amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                    <div class="link"><a href="service-details">Read More <i class="fas fa-angle-double-right"></i></a></div>
-                                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                <div class="service-block-four wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <div class="inner-box">
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-5.jpg" alt=""></a></figure>
+                        <div class="lower-content">
+                            <div class="inner">
+                                <div class="icon-box"><i class="flaticon-biology"></i></div>
+                                <h3><a href="service-details">Kajian Kebijakan</a></h3>
+                                <p>Kami melakukan analisis kebijakan terkait mitigasi dan penanggulangan bencana untuk mendukung pengambilan keputusan yang tepat.</p>
+                                <div class="link"><a href="service-details">Baca Selengkapnya <i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-four wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-10.jpg" alt=""></a></figure>
-                            <div class="lower-content">
-                                <div class="inner">
-                                    <div class="icon-box"><i class="flaticon-test-tube-1"></i></div>
-                                    <h3><a href="service-details">Sample Preparation</a></h3>
-                                    <p>Lorem ipsum dolor amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                    <div class="link"><a href="service-details">Read More <i class="fas fa-angle-double-right"></i></a></div>
-                                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                <div class="service-block-four wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    <div class="inner-box">
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-6.jpg" alt=""></a></figure>
+                        <div class="lower-content">
+                            <div class="inner">
+                                <div class="icon-box"><i class="flaticon-test-tube"></i></div>
+                                <h3><a href="service-details">Pemantauan Bencana</a></h3>
+                                <p>Pusat Studi Bencana IPB berperan dalam pemantauan aktif dan analisis data untuk memperkirakan dan mengurangi dampak bencana.</p>
+                                <div class="link"><a href="service-details">Baca Selengkapnya <i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- service-style-four end -->
+    </div>
+</section>
+<!-- service-style-four end -->
 
 
-    <!-- shediul-section -->
-    <section class="shediul-section" style="background-image: url(assets/images/background/shediul-bg.jpg);">
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="col-lg-7 col-md-12 col-sm-12 content-column">
-                    <div class="content-box">
-                        <h2>With Over a Decade of Experience.</h2>
-                        <p>We’ll Ensure You Always Get The Best Results.</p>
-                        <span class="phone"><a href="tel:0112343874444">+(01)1234 387 4444</a></span>
-                        <div class="btn-box"><a href="contact" class="theme-btn style-one">Hubungi Kami</a></div>
-                    </div>
+ <!-- shediul-section -->
+<section class="shediul-section" style="background-image: url(assets/images/background/shediul-bg.jpg);">
+    <div class="auto-container">
+        <div class="row clearfix">
+            <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                <div class="content-box">
+                    <h2>Dengan Pengalaman Mendalam dalam Penanggulangan Bencana</h2>
+                    <p>Kami Berkomitmen Memberikan Hasil Terbaik dalam Setiap Penanganan Bencana.</p>
+                    <span class="phone"><a href="tel:02112345678">0251-8319169</a></span>
+                    <div class="btn-box"><a href="contact" class="theme-btn style-one">Hubungi Kami</a></div>
                 </div>
-                <div class="col-lg-5 col-md-12 col-sm-12 shediul-column">
-                    <div class="shediul-inner clearfix">
-                        <div class="shediul-box">
-                            <div class="sec-title">
-                                <p>Laboratory Timing</p>
-                                <h2>Opening Hours</h2>
-                                <span class="separator"></span>
-                            </div>
-                            <ul class="shediul-list clearfix">
-                                <li><p>Monday</p><i></i><span>10.00 - 18.00</span></li>
-                                <li><p>Tuesday</p><i></i><span>10.00 - 18.00</span></li>
-                                <li><p>Wednesday</p><i></i><span>10.00 - 18.00</span></li>
-                                <li><p>Thursday</p><i></i><span>10.00 - 18.00</span></li>
-                                <li><p>Friday</p><i></i><span>10.00 - 18.00</span></li>
-                                <li><p>Saturday</p><i></i><span>10.00 - 15.00</span></li>
-                                <li><p>Sunday</p><i></i><span>10.00 - 15.00</span></li>
-                            </ul>
-                            <div class="btn-box centred"><a href="index-5" class="theme-btn style-two">BOOK APPOINMENT</a></div>
+            </div>
+            <div class="col-lg-5 col-md-12 col-sm-12 shediul-column">
+                <div class="shediul-inner clearfix">
+                    <div class="shediul-box">
+                        <div class="sec-title">
+                            <p>Jam Operasional</p>
+                            <h2>Waktu Pelayanan</h2>
+                            <span class="separator"></span>
                         </div>
+                        <ul class="shediul-list clearfix">
+                            <li><p>Senin</p><i></i><span>08.00 - 17.00</span></li>
+                            <li><p>Selasa</p><i></i><span>08.00 - 17.00</span></li>
+                            <li><p>Rabu</p><i></i><span>08.00 - 17.00</span></li>
+                            <li><p>Kamis</p><i></i><span>08.00 - 17.00</span></li>
+                            <li><p>Jumat</p><i></i><span>08.00 - 17.00</span></li>
+                            <li><p>Sabtu</p><i></i><span>08.00 - 12.00</span></li>
+                            <li><p>Minggu</p><i></i><span>Tutup</span></li>
+                        </ul>
+                        <div class="btn-box centred"><a href="index-5" class="theme-btn style-two">Buat Janji</a></div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- shediul-section end -->
+    </div>
+</section>
+<!-- shediul-section end -->
 
 
     <!-- clients-section -->
@@ -246,14 +245,14 @@
                     <div id="content_block_04">
                         <div class="form-inner">
                             <div class="sec-title left">
-                                <p>Online Appoinment</p>
-                                <h2>Make An Appointment</h2>
+                                <p>Formulir Komentar Pengguna</p>
+                                <h2>Berikan Pendapat Anda</h2>
                                 <span class="separator"></span>
                             </div>
                             <form action="index" class="appointment-form">
                                 <div class="form-group">
                                     <i class="fas fa-user"></i>
-                                    <input type="text" name="name" placeholder="Name" required="">
+                                    <input type="text" name="name" placeholder="Nama" required="">
                                 </div>
                                 <div class="form-group">
                                     <i class="fas fa-envelope"></i>
@@ -261,18 +260,20 @@
                                 </div>
                                 <div class="form-group">
                                     <i class="fas fa-file-alt"></i>
-                                    <input type="text" name="subject" placeholder="Subject" required="">
+                                    <input type="text" name="subject" placeholder="Subjek" required="">
                                 </div>
                                 <div class="form-group">
-                                    <textarea name="message" placeholder="Tell us about Pasent"></textarea>
+                                    <textarea name="message" placeholder="Beritahu kami tentang pendapat Anda"></textarea>
                                 </div>
                                 <div class="form-group message-btn">
-                                    <button type="submit" class="theme-btn style-one">Submit Query</button>
+                                    <button type="submit" class="theme-btn style-one">Kirim Komentar</button>
+                                </div>
+                                <div class="form-group">
                                     <div class="custom-controls-stacked">
                                         <label class="custom-control material-checkbox">
                                             <input type="checkbox" class="material-control-input">
                                             <span class="material-control-indicator"></span>
-                                            <span class="description">I agree that my submitted data is <br />being collected and stored.</span>
+                                            <span class="description">Saya setuju bahwa data yang saya kirimkan dikumpulkan dan disimpan.</span>
                                         </label>
                                     </div>
                                 </div>
