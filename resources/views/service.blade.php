@@ -38,11 +38,11 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
                     <div class="content-box clearfix">
                         <div class="title pull-left">
-                            <h1>Services</h1>
+                            <h1>Tentang Kami</h1>
                         </div>
                         <ul class="bread-crumb pull-right clearfix">
                             <li><a href="index">Home</a></li>
-                            <li>Services</li>
+                            <li>Tentang Kami</li>
                         </ul>
                     </div>
                 </div>
