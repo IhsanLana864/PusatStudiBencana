@@ -35,13 +35,15 @@
             <div class="row clearfix">
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
                     <div class="content-box clearfix">
-                        <div class="title pull-left">
-                            <h1>Sumber Daya</h1>
+                        <div class="content-box clearfix">
+                            <div class="title pull-left">
+                                <h1>Pusat Studi Bencana</h1>
+                            </div>
+                            <ul class="bread-crumb pull-right clearfix">
+                                <li><a href="index">Home</a></li>
+                                <li>Pusat Studi Bencana</li>
+                            </ul>
                         </div>
-                        <ul class="bread-crumb pull-right clearfix">
-                            <li><a href="index">Home</a></li>
-                            <li>Sumber Daya</li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -60,9 +62,9 @@
                         <div class="inner-box">
                             <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="service-details">Pathology Testing</a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                <div class="link"><a href="service-details">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <h3><a href="service-details">Penelitian Kebencanaan</a></h3>
+                                <p>Melakukan penelitian mendalam terkait bencana alam dan dampaknya untuk meningkatkan kesiapsiagaan masyarakat.</p>
+                                <div class="link"><a href="service-details">Baca Selengkapnya<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -72,9 +74,9 @@
                         <div class="inner-box">
                             <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="service-details">Chemical Research</a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                <div class="link"><a href="service-details">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <h3><a href="service-details">Pendidikan Kebencanaan</a></h3>
+                                <p>Menyediakan pelatihan dan pendidikan untuk meningkatkan pengetahuan masyarakat mengenai penanggulangan bencana.</p>
+                                <div class="link"><a href="service-details">Baca Selengkapnya<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -84,9 +86,9 @@
                         <div class="inner-box">
                             <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="service-details">Advanced Microscopy</a></h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt.</p>
-                                <div class="link"><a href="service-details">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <h3><a href="service-details">Pengabdian Masyarakat</a></h3>
+                                <p>Bekerja sama dengan masyarakat untuk membantu dalam mitigasi dan kesiapsiagaan menghadapi potensi bencana.</p>
+                                <div class="link"><a href="service-details">Baca Selengkapnya<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -98,27 +100,7 @@
 
 
     <!-- newsletter-section -->
-    <section class="newsletter-section bg-color-3">
-        <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-7.png);"></div>
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
-                    <div class="inner-box">
-                        <h2>Subscribe Newsletter</h2>
-                        <p>Stay in touch with us to get latest news and discount coupons</p>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-12 col-sm-12 form-column">
-                    <form action="index" method="post" class="newsletter-form">
-                        <div class="form-group">
-                            <input type="email" name="email" placeholder="Enter Your Email" required="">
-                            <button class="theme-btn style-one" type="submit">Subscribe Now!</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section>
+
     <!-- newsletter-section end -->
 
 @include('layouts.footer')

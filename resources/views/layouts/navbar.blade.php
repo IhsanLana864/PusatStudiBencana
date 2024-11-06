@@ -43,7 +43,7 @@
                                 <ul class="navigation clearfix">
                                     <li class="current"><a href="index">Home</a>
                                     </li>
-                                    <li class="dropdown"><a href="index">Profile</a>
+                                    <li class="dropdown"><a href="service">Profile</a>
                                         <ul>
                                             <li><a href="/service">Tentang Kami</a></li>
                                             <li><a href="/service-element-1">Sumber Daya</a></li>

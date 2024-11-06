@@ -60,8 +60,8 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 form-column">
                     <div class="form-inner">
                         <div class="sec-title left">
-                            <p>Drop Us Line</p>
-                            <h2>We’d Love To Hear From You.</h2>
+                            <p>Hubungi Kami</p>
+                            <h2>Kami Senang Mendengar Dari Anda.</h2>
                             <span class="separator"></span>
                         </div>
                         <form method="post" action="sendemail.php" id="contact-form" class="contact-form">
@@ -82,7 +82,7 @@
                                     <textarea name="message" placeholder="Message"></textarea>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
-                                    <button type="submit" class="theme-btn style-one" name="submit-form">Submit Now</button>
+                                    <button type="submit" class="theme-btn style-one" name="submit-form">Kirim Sekarang</button>
                                 </div>
                             </div>
                         </form>
@@ -91,29 +91,29 @@
                 <div class="col-lg-4 col-md-12 col-sm-12 info-column">
                     <div class="info-inner">
                         <div class="sec-title left">
-                            <p>Contact Info</p>
-                            <h2>Contact With Us </h2>
+                            <p>Informasi Kontak</p>
+                            <h2>Kontak Kami</h2>
                             <span class="separator"></span>
                         </div>
                         <ul class="info-box clearfix">
                             <li>
                                 <div class="icon-box"><i class="flaticon-call"></i></div>
-                                <h5>Phone No.</h5>
-                                <p><a href="tel:1800123456">(+1) 800 123 456</a></p>
+                                <h5>Nomor Telepon</h5>
+                                <p><a href="tel:02518319169">0251-8319169</a></p>
                             </li>
                             <li>
                                 <div class="icon-box"><i class="flaticon-circular-clock"></i></div>
-                                <h5>Opening Hours</h5>
+                                <h5>Jam Operasional</h5>
                                 <p>8:00 am - 6:00 pm</p>
                             </li>
                             <li>
                                 <div class="icon-box"><i class="flaticon-worldwide"></i></div>
-                                <h5>Address</h5>
-                                <p>E44, Design Street, Web Corner Melbourne.</p>
+                                <h5>Alamat</h5>
+                                <p>Gedung LPPM, IPB University, Kampus IPB Baranangsiang.</p>
                             </li>
                         </ul>
                         <div class="follow-box">
-                            <h5>Follow Us:</h5>
+                            <h5>Ikuti Kami:</h5>
                             <ul class="social-links clearfix">
                                 <li><a href="contact"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="contact"><i class="fab fa-twitter"></i></a></li>
@@ -157,24 +157,6 @@
     <!-- newsletter-section -->
     <section class="newsletter-section bg-color-3">
         <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-7.png);"></div>
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
-                    <div class="inner-box">
-                        <h2>Subscribe Newsletter</h2>
-                        <p>Stay in touch with us to get latest news and discount coupons</p>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-12 col-sm-12 form-column">
-                    <form action="index" method="post" class="newsletter-form">
-                        <div class="form-group">
-                            <input type="email" name="email" placeholder="Enter Your Email" required="">
-                            <button class="theme-btn style-one" type="submit">Subscribe Now!</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
     </section>
     <!-- newsletter-section end -->
 

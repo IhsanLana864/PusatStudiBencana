@@ -80,7 +80,7 @@
     <div class="footer-bottom centred">
         <div class="auto-container">
             <div class="copyright">
-                <p>Copyright &copy; 2024 <a href="index.html">Losalamos</a>. All rights reserved.</p>
+                <p>Copyright&copy; 2024 <a href="index.html">Pusat Studi Bencana IPB</a>. Semua hak cipta dilindungi.</p>
             </div>
         </div>
     </div>

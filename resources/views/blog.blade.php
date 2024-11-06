@@ -38,184 +38,107 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
                     <div class="content-box clearfix">
                         <div class="title pull-left">
-                            <h1>Latest News</h1>
+                            <h1>Profil Pusat Studi Bencana</h1>
                         </div>
                         <ul class="bread-crumb pull-right clearfix">
-                            <li><a href="index">Home</a></li>
-                            <li>News</li>
+                            <li><a href="index">Beranda</a></li>
+                            <li>Profil</li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!--End Page Title-->
+        </section>
+        <!--End Page Title-->
 
 
-    <!-- our-blog -->
-    <section class="our-blog sidebar-page-container">
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="col-lg-8 col-md-12 col-sm-12 content-side">
-                    <div class="our-blog-content">
-                        <div class="news-block-three">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-7.jpg" alt=""></a></figure>
-                                <div class="lower-content">
-                                    <ul class="post-info clearfix">
-                                        <li><i class="fas fa-comments"></i><a href="blog">Comments 47</a></li>
-                                        <li><i class="fas fa-calendar-alt"></i>July 28, 2019</li>
-                                        <li><i class="fas fa-user"></i><a href="blog">By Admin</a></li>
-                                    </ul>
-                                    <h3><a href="blog-details">Ways To Tell Youre Suffering To From An Skion</a></h3>
-                                    <p>We provide complete process piping capabilities for industrial from paper. Laboratories used for scientific research take many forms because of the differing requirements of specialists.</p>
-                                    <div class="btn-box"><a href="blog-details" class="theme-btn style-one">READ MORE</a></div>
+        <!-- Profil PSB -->
+        <section class="our-blog sidebar-page-container">
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <div class="col-lg-8 col-md-12 col-sm-12 content-side">
+                        <div class="our-blog-content">
+                            <!-- Profil Sekilas -->
+                            <div class="news-block-three">
+                                <div class="inner-box">
+                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-7.jpg" alt=""></a></figure>
+                                    <div class="lower-content">
+                                        <h3><a href="blog-details">Profil Sekilas Pusat Studi Bencana</a></h3>
+                                        <p>Pusat Studi Bencana (PSB) IPB University adalah lembaga di bawah naungan Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) yang berfokus pada kajian penanggulangan bencana secara holistik. PSB bertujuan untuk mengembangkan strategi komprehensif dan integratif dalam meningkatkan efektivitas dan efisiensi penanggulangan bencana.</p>
+                                        <div class="btn-box"><a href="blog-details" class="theme-btn style-one">BACA SELENGKAPNYA</a></div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="news-block-three">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-8.jpg" alt=""></a></figure>
-                                <div class="lower-content">
-                                    <ul class="post-info clearfix">
-                                        <li><i class="fas fa-comments"></i><a href="blog">Comments 30</a></li>
-                                        <li><i class="fas fa-calendar-alt"></i>July 27, 2019</li>
-                                        <li><i class="fas fa-user"></i><a href="blog">By Admin</a></li>
-                                    </ul>
-                                    <h3><a href="blog-details">Do You Want To Fast Track your Lab Operations</a></h3>
-                                    <p>We provide complete process piping capabilities for industrial from paper. Laboratories used for scientific research take many forms because of the differing requirements of specialists.</p>
-                                    <div class="btn-box"><a href="blog-details" class="theme-btn style-one">READ MORE</a></div>
+
+                            <!-- Program Sekilas -->
+                            <div class="news-block-three">
+                                <div class="inner-box">
+                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-8.jpg" alt=""></a></figure>
+                                    <div class="lower-content">
+                                        <h3><a href="blog-details">Program Pusat Studi Bencana</a></h3>
+                                        <p><strong>Pencegahan Bencana:</strong> PSB IPB mengembangkan berbagai program pencegahan bencana yang bertujuan untuk mengurangi risiko dan dampak bencana. Program ini meliputi kajian kebijakan dan program pembangunan yang berisiko menimbulkan bencana, serta optimalisasi ilmu pengetahuan dan teknologi (iptek) untuk pencegahan bencana.</p>
+                                        <p><strong>Tanggap Darurat:</strong> PSB IPB berperan aktif dalam memberikan bantuan dan dukungan kepada masyarakat yang terdampak bencana, termasuk pengembangan strategi dan metode penanganan berbasis masyarakat serta pelatihan bagi relawan dan petugas tanggap darurat.</p>
+                                        <p><strong>Rehabilitasi dan Rekonstruksi:</strong> Setelah bencana terjadi, PSB fokus pada pemulihan kondisi masyarakat dan wilayah yang terdampak dengan pengembangan model pemulihan berbasis sumber daya alam dan pemberdayaan masyarakat untuk ketahanan bencana di masa depan.</p>
+                                        <div class="btn-box"><a href="blog-details" class="theme-btn style-one">BACA SELENGKAPNYA</a></div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="news-block-three">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-9.jpg" alt=""></a></figure>
-                                <div class="lower-content">
-                                    <ul class="post-info clearfix">
-                                        <li><i class="fas fa-comments"></i><a href="blog">Comments 40</a></li>
-                                        <li><i class="fas fa-calendar-alt"></i>July 26, 2019</li>
-                                        <li><i class="fas fa-user"></i><a href="blog">By Admin</a></li>
-                                    </ul>
-                                    <h3><a href="blog-details">Learn: Blood Bank Operations & Management</a></h3>
-                                    <p>We provide complete process piping capabilities for industrial from paper. Laboratories used for scientific research take many forms because of the differing requirements of specialists.</p>
-                                    <div class="btn-box"><a href="blog-details" class="theme-btn style-one">READ MORE</a></div>
-                                </div>
+
+                            <div class="pagination-wrapper centred">
+                                <ul class="pagination clearfix">
+                                    <li class="prev-btn"><a href="blog"><i class="fas fa-long-arrow-alt-left"></i>&nbsp;&nbsp;SEBELUMNYA</a></li>
+                                    <li><a href="blog">1</a></li>
+                                    <li><a href="blog">2</a></li>
+                                    <li><a href="blog" class="active">3</a></li>
+                                    <li><a href="blog">4</a></li>
+                                    <li><a href="blog">5</a></li>
+                                    <li class="next-btn"><a href="blog">Selanjutnya&nbsp;&nbsp;<i class="fas fa-long-arrow-alt-right"></i></a></li>
+                                </ul>
                             </div>
-                        </div>
-                        <div class="news-block-three">
-                            <div class="inner-box">
-                                <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-10.jpg" alt=""></a></figure>
-                                <div class="lower-content">
-                                    <ul class="post-info clearfix">
-                                        <li><i class="fas fa-comments"></i><a href="blog">Comments 45</a></li>
-                                        <li><i class="fas fa-calendar-alt"></i>July 25, 2019</li>
-                                        <li><i class="fas fa-user"></i><a href="blog">By Admin</a></li>
-                                    </ul>
-                                    <h3><a href="blog-details">Behind the Scenes of Clinical Research Procedures</a></h3>
-                                    <p>We provide complete process piping capabilities for industrial from paper. Laboratories used for scientific research take many forms because of the differing requirements of specialists.</p>
-                                    <div class="btn-box"><a href="blog-details" class="theme-btn style-one">READ MORE</a></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="pagination-wrapper centred">
-                            <ul class="pagination clearfix">
-                                <li class="prev-btn"><a href="blog"><i class="fas fa-long-arrow-alt-left"></i>&nbsp;&nbsp;PREV</a></li>
-                                <li><a href="blog">1</a></li>
-                                <li><a href="blog">2</a></li>
-                                <li><a href="blog" class="active">3</a></li>
-                                <li><a href="blog">4</a></li>
-                                <li><a href="blog">5</a></li>
-                                <li class="next-btn"><a href="blog">Next&nbsp;&nbsp;<i class="fas fa-long-arrow-alt-right"></i></a></li>
-                            </ul>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
-                    <div class="sidebar blog-sidebar">
-                        <div class="sidebar-widget sidebar-search">
-                            <div class="search-form">
-                                <form action="blog" method="post">
-                                    <div class="form-group">
-                                        <input type="search" name="search-field" placeholder="Search........" required="">
-                                        <button type="submit"><i class="fas fa-search"></i></button>
+
+                    <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
+                        <div class="sidebar blog-sidebar">
+                            <div class="sidebar-widget sidebar-search">
+                                <div class="search-form">
+                                    <form action="blog" method="post">
+                                        <div class="form-group">
+                                            <input type="search" name="search-field" placeholder="Cari........" required="">
+                                            <button type="submit"><i class="fas fa-search"></i></button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="sidebar-widget sidebar-categories">
+                                <div class="widget-title">
+                                    <h3>Kategori</h3>
+                                </div>
+                                <div class="widget-content">
+                                    <ul class="categories-list clearfix">
+                                        <li><a href="blog-details">Pencegahan Bencana <span>3</span></a></li>
+                                        <li><a href="blog-details">Tanggap Darurat <span>2</span></a></li>
+                                        <li><a href="blog-details" class="active">Rehabilitasi <span>2</span></a></li>
+                                        <li><a href="blog-details">Pemulihan Masyarakat <span>1</span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="sidebar-widget sidebar-post">
+                                <div class="widget-title">
+                                    <h3>Posting Terbaru</h3>
+                                </div>
+                                <div class="post-inner">
+                                    <div class="post">
+                                        <figure class="image-box"><a href="blog-details"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
+                                        <h4><a href="blog-details">Cara Menanggulangi Bencana Alam</a></h4>
+                                        <p>Feb 1, 2020</p>
                                     </div>
-                                </form>
-                            </div>
-                        </div>
-                        <div class="sidebar-widget sidebar-categories">
-                            <div class="widget-title">
-                                <h3>Categories</h3>
-                            </div>
-                            <div class="widget-content">
-                                <ul class="categories-list clearfix">
-                                    <li><a href="blog-details">Chemistry <span>3</span></a></li>
-                                    <li><a href="blog-details">Biosafety <span>2</span></a></li>
-                                    <li><a href="blog-details" class="active">Biosafety <span>2</span></a></li>
-                                    <li><a href="blog-details">Biochemistry <span>1</span></a></li>
-                                    <li><a href="blog-details">Forensic science <span>3</span></a></li>
-                                    <li><a href="blog-details">Commercial <span>1</span></a></li>
-                                    <li><a href="blog-details">Artificial intelligence <span>1</span></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="sidebar-widget sidebar-post">
-                            <div class="widget-title">
-                                <h3>Recent Posts</h3>
-                            </div>
-                            <div class="post-inner">
-                                <div class="post">
-                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
-                                    <h4><a href="blog-details">How Much Aspirin to Take For Stroke</a></h4>
-                                    <p>Feb 1, 2020</p>
                                 </div>
-                                <div class="post">
-                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/news/post-2.jpg" alt=""></a></figure>
-                                    <h4><a href="blog-details">Implant Surgical Equipment Technology</a></h4>
-                                    <p>Feb 2, 2020</p>
-                                </div>
-                                <div class="post">
-                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/news/post-3.jpg" alt=""></a></figure>
-                                    <h4><a href="blog-details">The Benefits of Middle-Age Fitness</a></h4>
-                                    <p>Feb 3, 2020</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="sidebar-widget sidebar-archives">
-                            <div class="widget-title">
-                                <h3>Post Archives</h3>
-                            </div>
-                            <div class="widget-content">
-                                <ul class="archives-lits clearfix">
-                                    <li><a href="blog">January</a><i></i><span>(18)</span></li>
-                                    <li><a href="blog">February</a><i></i><span>(31)</span></li>
-                                    <li><a href="blog">March</a><i></i><span>(22)</span></li>
-                                    <li><a href="blog">April</a><i></i><span>(16)</span></li>
-                                    <li><a href="blog">May</a><i></i><span>(07)</span></li>
-                                    <li><a href="blog">June</a><i></i><span>(37)</span></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="sidebar-widget sidebar-tags">
-                            <div class="widget-title">
-                                <h3>Popular Tags</h3>
-                            </div>
-                            <div class="widget-content">
-                                <ul class="tags-list clearfix">
-                                    <li><a href="blog">Chemistry</a></li>
-                                    <li><a href="blog">Biosafety</a></li>
-                                    <li><a href="blog">Artificial intelligence</a></li>
-                                    <li><a href="blog">Biochemistry</a></li>
-                                    <li><a href="blog">Commercial</a></li>
-                                    <li><a href="blog">Forensic Science</a></li>
-                                    <li><a href="blog">Gemological</a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
     </section>
     <!-- our-blog end -->
 
