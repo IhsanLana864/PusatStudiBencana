@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Pusat Studi Bencana IPB </title>
+<title>Sumber Daya - PSB</title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -37,11 +37,11 @@
                     <div class="content-box clearfix">
                         <div class="content-box clearfix">
                             <div class="title pull-left">
-                                <h1>Pusat Studi Bencana</h1>
+                                <h1>Sumber Daya</h1>
                             </div>
                             <ul class="bread-crumb pull-right clearfix">
-                                <li><a href="index">Home</a></li>
-                                <li>Pusat Studi Bencana</li>
+                                <li><a href="/index">Home</a></li>
+                                <li><a href="/service-element-1">Sumber Daya</a></li>
                             </ul>
                         </div>
                     </div>
@@ -98,6 +98,179 @@
     </section>
     <!-- service-section end -->
 
+    <!-- team-section -->
+    <section class="team-section team-page-section">
+        <div class="auto-container">
+            <div class="sec-title dokumen">
+                <p>Pusat Studi Bencana IPB</p>
+                <h2>Team</h2>
+                <span class="separator"></span>
+            </div>
+            <div class="row clearfix">
+                <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <ul class="social-links clearfix">
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="team-details">Martin Tompson</a></h3>
+                                <span class="designation">Laboratory Technician</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="team-block-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
+                                <ul class="social-links clearfix">
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="team-details">Milford Runolf</a></h3>
+                                <span class="designation">Head microbiologist</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="team-block-one wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
+                                <ul class="social-links clearfix">
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="team-details">Clarabelle Samber</a></h3>
+                                <span class="designation">Senior Рathologist</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="team-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><img src="assets/images/team/team-4.jpg" alt=""></figure>
+                                <ul class="social-links clearfix">
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="team-details">Henriette Saterfield</a></h3>
+                                <span class="designation">Botanist</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><img src="assets/images/team/team-5.jpg" alt=""></figure>
+                                <ul class="social-links clearfix">
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="team-details">Martin Tompson</a></h3>
+                                <span class="designation">Laboratory Technician</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="team-block-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><img src="assets/images/team/team-6.jpg" alt=""></figure>
+                                <ul class="social-links clearfix">
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="team-details">Milford Runolf</a></h3>
+                                <span class="designation">Head microbiologist</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="team-block-one wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><img src="assets/images/team/team-7.jpg" alt=""></figure>
+                                <ul class="social-links clearfix">
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="team-details">Clarabelle Samber</a></h3>
+                                <span class="designation">Senior Рathologist</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="team-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><img src="assets/images/team/team-8.jpg" alt=""></figure>
+                                <ul class="social-links clearfix">
+                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                </ul>
+                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="team-details">Henriette Saterfield</a></h3>
+                                <span class="designation">Botanist</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- team-section end -->
 
     <!-- newsletter-section -->
 

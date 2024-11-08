@@ -9,7 +9,7 @@
                 <div class="top-inner clearfix">
                     <ul class="info top-left pull-left">
                         <li><i class="fas fa-phone-volume"></i><a href="tel:1234567890">0251-8319169</a></li>
-                        <li><i class="fas fa-envelope"></i><a href="mailto:pusatstudibencanaipb@gmail.com">psb.lppm@gmail.com</a></li>
+                        <li><i class="fas fa-envelope"></i><a href="psb.lppm@gmail.com">psb.lppm@gmail.com</a></li>
                     </ul>
                     <ul class="top-right pull-right">
                         <li class="work-time"><i class="fas fa-clock"></i>Working Hours - Mon - Fri: 8:30 - 18:00</li>
@@ -47,6 +47,7 @@
                                         <ul>
                                             <li><a href="/service">Tentang Kami</a></li>
                                             <li><a href="/service-element-1">Sumber Daya</a></li>
+                                            <li><a href="/dokumentasi">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="index">Artikel</a>

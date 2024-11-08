@@ -154,11 +154,8 @@
     <!-- google-map-section end -->
 
 
-    <!-- newsletter-section -->
-    <section class="newsletter-section bg-color-3">
-        <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-7.png);"></div>
-    </section>
-    <!-- newsletter-section end -->
+x
+
 
 
 @include('layouts.footer')
