@@ -109,30 +109,24 @@
                                     <div class="count-box"><span>01</span></div>
                                     <div class="inner">
                                         <h3><a href="index">Kajian Penanggulangan Bencana</a></h3>
-                                        <p>PSB IPB melakukan kajian mendalam mengenai berbagai aspek penanggulangan bencana,
-                                            termasuk identifikasi risiko, analisis kerentanan, dan pengembangan strategi mitigasi.
-                                            Kajian ini bertujuan untuk memberikan rekomendasi
-                                            kebijakan yang berbasis ilmiah dan dapat diimplementasikan oleh pemerintah dan masyarakat.</p>
+                                        <p>PSB IPB mengkaji risiko bencana, analisis kerentanan, dan strategi mitigasi untuk memberikan rekomendasi kebijakan berbasis ilmiah yang bisa diterapkan oleh pemerintah dan masyarakat.</p>
                                     </div>
                                 </div>
                                 <div class="single-item">
                                     <div class="count-box"><span>02</span></div>
                                     <div class="inner">
                                         <h3><a href="index">Pengembangan Strategi Komprehensif</a></h3>
-                                        <p>PSB IPB mengembangkan strategi komprehensif yang mencakup seluruh tahapan penanggulangan bencana,
-                                            mulai dari pencegahan, tanggap darurat, hingga rehabilitasi dan rekonstruksi. Strategi ini dirancang untuk meningkatkan
-                                            koordinasi antar lembaga dan memastikan bahwa setiap langkah penanggulangan bencana dilakukan secara efektif dan efisien.</p>
+                                        <p>PSB IPB merancang strategi menyeluruh untuk penanggulangan bencana yang meliputi pencegahan, tanggap darurat, rehabilitasi, dan rekonstruksi, guna meningkatkan koordinasi dan efektivitas.</p>
                                     </div>
                                 </div>
                                 <div class="single-item">
                                     <div class="count-box"><span>03</span></div>
                                     <div class="inner">
                                         <h3><a href="index">Integrasi Ilmu Pengetahuan dan Teknologi</a></h3>
-                                        <p>PSB IPB memanfaatkan ilmu pengetahuan dan teknologi terkini dalam setiap aspek penanggulangan bencana.
-                                        Ini termasuk penggunaan teknologi informasi untuk pemantauan dan deteksi dini bencana, serta pengembangan
-                                        metode inovatif untuk mitigasi dan penanganan bencana. Integrasi ini bertujuan untuk meningkatkan kesiapsiagaan
-                                        dan responsivitas terhadap bencana.</p>
+                                        <p>PSB IPB memanfaatkan teknologi untuk pemantauan dan deteksi dini, serta mengembangkan metode inovatif untuk meningkatkan kesiapsiagaan dan respons terhadap bencana.</p>
                                     </div>
+                                </div>
+
                                 </div>
                             </div>
                         </div>

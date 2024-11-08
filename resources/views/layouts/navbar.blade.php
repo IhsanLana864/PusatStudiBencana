@@ -59,7 +59,7 @@
                                 </ul>
                             </div>
                         </nav>
-                        <div class="btn-box"><a href="Signin.blade.php" class="theme-btn style-one">Login/Sign in</a></div>
+                        <div class="btn-box"><a href="/login" class="theme-btn style-one">Login/Sign in</a></div>
                     </div>
                 </div>
             </div>

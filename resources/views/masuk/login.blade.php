@@ -14,6 +14,8 @@
         <link href="assets/css/login/bootstrap.min.css" rel="stylesheet" type="text/css">
         <link href="assets/css/login/login_icons.css" rel="stylesheet" type="text/css">
         <link href="assets/css/login/login_style.css" rel="stylesheet" type="text/css">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css" rel="stylesheet" type="text/css">
+
 
     </head>
     <body>
@@ -27,11 +29,11 @@
             <div class="card-body">
 
                 <div class="text-center">
-                    <a href="/login" class="logo logo-admin"><img src="assets/images/logopsb.jpg" height="20" alt="logo"></a>
+                    <a href="/login" class="logo logo-admin"><img src="assets/images/logopsbbiru.png" height="20" alt="logo"></a>
                 </div>
 
                 <div class="px-3 pb-3">
-                    <form class="form-horizontal m-t-20" action="index.html">
+                    <form class="form-horizontal m-t-20" action="/login">
 
                         <div class="form-group row">
                             <div class="col-12">
@@ -62,10 +64,10 @@
 
                         <div class="form-group m-t-10 mb-0 row">
                             <div class="col-sm-7 m-t-20">
-                                <a href="pages-recoverpw.html" class="text-muted"><i class="mdi mdi-lock"></i> <small>Forgot your password ?</small></a>
+                                <a href="url('masuk.recovery')" class="text-muted"><i class="mdi mdi-lock"></i> <small>Forgot your password ?</small></a>
                             </div>
                             <div class="col-sm-5 m-t-20">
-                                <a href="pages-register.html" class="text-muted"><i class="mdi mdi-account-circle"></i> <small>Create an account ?</small></a>
+                                <a href="/register" class="text-muted"><i class="mdi mdi-account-circle"></i> <small>Create an account ?</small></a>
                             </div>
                         </div>
                     </form>
