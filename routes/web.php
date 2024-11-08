@@ -122,3 +122,24 @@ Route::get('/working-element-1', function () {
 Route::get('/working-element-2', function () {
     return view('working-element-2');
 });
+
+
+//ROUTE ADMIN
+Route::get('/admin', function () {
+    return view('admin.index');
+});
+
+// Route untuk CRUD Artikel
+Route::get('/admin/artikel', function () {
+    return view('admin.artikel');
+});
+
+// Route untuk CRUD Dokumentasi
+Route::get('/admin/dokumentasi', function () {
+    return view('admin.dokumentasi');
+});
+
+// Route untuk Logout
+Route::get('/admin/logout', function () {
+    return redirect('/index');
+});
