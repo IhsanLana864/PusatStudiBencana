@@ -24,6 +24,10 @@
             <i data-lucide="book-open"></i>
             <span>Dokumentasi</span>
         </a>
+        <a href="{{ url('/admin/komentar') }}">
+            <i data-lucide="Message-Circle-More"></i>
+            <span>Komentar</span>
+        </a>
         <a href="#" onclick="confirmLogout()">
             <i data-lucide="log-out"></i>
             <span>Logout</span>

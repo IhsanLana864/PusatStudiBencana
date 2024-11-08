@@ -134,6 +134,10 @@ Route::get('/admin/artikel', function () {
     return view('admin.artikel');
 });
 
+Route::get('/admin/komentar', function () {
+    return view('admin.komentar');
+});
+
 // Route untuk CRUD Dokumentasi
 Route::get('/admin/dokumentasi', function () {
     return view('admin.dokumentasi');
