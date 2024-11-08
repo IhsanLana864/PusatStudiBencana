@@ -29,7 +29,7 @@
             <span>Logout</span>
         </a>
     </div>
-    
+
     <div class="content">
         <!-- Kondisi untuk menampilkan banner hanya di /admin -->
         @if(request()->is('admin'))

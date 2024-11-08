@@ -143,3 +143,22 @@ Route::get('/admin/dokumentasi', function () {
 Route::get('/admin/logout', function () {
     return redirect('/index');
 });
+
+
+
+//ROUTE Login
+Route::get('/login', function () {
+    return view('masuk.login');
+});
+
+// Route untuk registered
+Route::get('/register', function () {
+    return view('masuk.register');
+});
+
+// Route untuk recovery
+Route::get('/login/recovery', function () {
+    return view('masuk.recovery');
+});
+
+
