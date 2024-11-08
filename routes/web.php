@@ -85,16 +85,14 @@ Route::get('/research-details', function () {
 Route::get('/research', function () {
     return view('ini');
 });
-Route::get('/Sumberdaya', function () {
-    return view('Sumberdaya');
-});
+
 Route::get('/Tentangkami', function () {
     return view('Tentangkami');
 });
 Route::get('/service', function () {
     return view('service');
 });
-Route::get('/service-element-1', function () {
+Route::get('/sumber-daya', function () {
     return view('service-element-1');
 });
 Route::get('/service-element-2', function () {

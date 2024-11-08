@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Dokum - Pusat Studi Bencana IPB </title>
+<title>Dokumentasi - Pusat Studi Bencana IPB </title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -37,7 +37,7 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
                     <div class="content-box clearfix">
                         <div class="title pull-left">
-                            <h1>Research</h1>
+                            <h1>Dokumentasi</h1>
                         </div>
                         <ul class="bread-crumb pull-right clearfix">
                             <li><a href="index">Home</a></li>

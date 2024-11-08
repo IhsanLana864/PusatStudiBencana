@@ -28,8 +28,7 @@
 
 </head>
 
-@include('layouts.navbar');
-
+@include('layouts.navbar')
 
     <!--Page Title-->
     <section class="page-title" style="background-image: url(assets/images/background/page-title.jpg);">
