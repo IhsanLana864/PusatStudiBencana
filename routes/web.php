@@ -6,10 +6,10 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-    // // contoh route example
-    // Route::get('/akunsaya', function () {
-    //     return view('example');
-    // })->name('example');
+// // contoh route example
+// Route::get('/akunsaya', function () {
+//     return view('example');
+// })->name('example');
 Route::get('/', function () {
     return view('index');
 });
@@ -50,6 +50,11 @@ Route::get('/faq-element', function () {
 Route::get('/index', function () {
     return view('index');
 });
+
+Route::get('/dokumentasi', function () {
+    return view('docum');
+});
+
 Route::get('/intro-element-1.', function () {
     return view('intro-element-1');
 });
@@ -88,9 +93,9 @@ Route::get('/Tentangkami', function () {
 });
 Route::get('/service', function () {
     return view('service');
-    });
+});
 Route::get('/service-element-1', function () {
-return view('service-element-1');
+    return view('service-element-1');
 });
 Route::get('/service-element-2', function () {
     return view('service-element-2');
@@ -160,5 +165,3 @@ Route::get('/register', function () {
 Route::get('/login/recovery', function () {
     return view('masuk.recovery');
 });
-
-
