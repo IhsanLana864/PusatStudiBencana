@@ -30,11 +30,10 @@
                             </div>
                             <div class="widget-content">
                                 <ul class="clearfix">
-                                    <li><a href="index">Tentang Kami</a></li>
-                                    <li><a href="index">Layanan Kami</a></li>
-                                    <li><a href="index">Tim Kami</a></li>
-                                    <li><a href="index">Kontak</a></li>
-                                    <li><a href="index">Penelitian</a></li>
+                                    <li><a href="/index">Home</a></li>
+                                    <li><a href="/tentang-kami">Profile</a></li>
+                                    <li><a href="/artikel">Artikel</a></li>
+                                    <li><a href="/contact">Hubungi Kami</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -46,14 +45,14 @@
                             </div>
                             <div class="post-inner">
                                 <div class="post">
-                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/resource/post-1.jpg" alt=""></a></figure>
+                                    <figure class="image-box"><a href="/berita"><img src="assets/images/resource/post-1.jpg" alt=""></a></figure>
                                     <p><i class="fas fa-calendar-alt"></i>Feb 05, 2024</p>
-                                    <h5><a href="blog-details">Pengujian dengan Implikasi Keperawatan untuk Teknisi Laboratorium</a></h5>
+                                    <h5><a href="/berita">Pengujian dengan Implikasi Keperawatan untuk Teknisi Laboratorium</a></h5>
                                 </div>
                                 <div class="post">
-                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/resource/post-2.jpg" alt=""></a></figure>
+                                    <figure class="image-box"><a href="/berita"><img src="assets/images/resource/post-2.jpg" alt=""></a></figure>
                                     <p><i class="fas fa-calendar-alt"></i>Feb 06, 2024</p>
-                                    <h5><a href="blog-details">Memfasilitasi Peneliti di Laboratorium yang Berkembang</a></h5>
+                                    <h5><a href="/berita">Memfasilitasi Peneliti di Laboratorium yang Berkembang</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -65,10 +64,11 @@
                             </div>
                             <div class="widget-content">
                                 <ul class="clearfix">
-                                    <li><a href="index">Home</a></li>
-                                    <li><a href="index">Profile</a></li>
-                                    <li><a href="index">Artikel</a></li>
-                                    <li><a href="contact">Hubungi Kami</a></li>
+                                    <li><a href="/tentang-kami">Tentang Kami</a></li>
+                                    <li><a href="/sumber-daya">Sumber Daya</a></li>
+                                    <li><a href="/docum">Dokumentasi</a></li>
+                                    <li><a href="/artikel">Artikel</a></li>
+                                    <li><a href="/contact">Hubungi Kami</a></li>
                                 </ul>
                             </div>
                         </div>
