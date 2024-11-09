@@ -42,8 +42,8 @@
                             <h1>Hubungi Kami</h1>
                         </div>
                         <ul class="bread-crumb pull-right clearfix">
-                            <li><a href="index">Home</a></li>
-                            <li>Contact</li>
+                            <li><a href="/index">Home</a></li>
+                            <li><a href="/contact">Contact</a></li>
                         </ul>
                     </div>
                 </div>
@@ -115,10 +115,10 @@
                         <div class="follow-box">
                             <h5>Ikuti Kami:</h5>
                             <ul class="social-links clearfix">
-                                <li><a href="contact"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="contact"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="contact"><i class="fab fa-google-plus-g"></i></a></li>
-                                <li><a href="contact"><i class="fab fa-pinterest-p"></i></a></li>
+                                <li><a href="https://www.facebook.com/197139333803945/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="mailto:psb.lppm@gmail.com"><i class="fab fa-google-plus-g"></i></a></li>
+                                <li><a href="https://www.instagram.com/psb_ipb"><span class="fab fa-instagram"></span></a></li>
+                                <li><a href="https://x.com/IpbPsb"><i class="fab fa-twitter"></i></a></li>
                             </ul>
                         </div>
                     </div>

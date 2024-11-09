@@ -203,12 +203,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="service-details">Pencegahan Bencana</a></h3>
+                                <h3><a href="/tentang-kami">Pencegahan Bencana</a></h3>
                                 <p>PSB IPB mengembangkan program untuk mengurangi risiko dan dampak bencana melalui kajian kebijakan,
                                 optimalisasi iptek, serta edukasi dan pelatihan masyarakat.</p>
-                                <div class="link"><a href="service-details">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <div class="link"><a href="/tentang-kami">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -216,12 +216,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="service-details">Tanggap Darurat</a></h3>
+                                <h3><a href="/tentang-kami">Tanggap Darurat</a></h3>
                                 <p>PSB IPB aktif memberikan bantuan dan dukungan saat bencana, mengembangkan strategi berbasis masyarakat,
                                 dan menyediakan pelatihan bagi relawan dan petugas.</p>
-                                <div class="link"><a href="service-details">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <div class="link"><a href="/tentang-kami">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -229,17 +229,17 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="service-details">Rehabilitasi dan Rekonstruksi</a></h3>
+                                <h3><a href="/tentang-kami">Rehabilitasi dan Rekonstruksi</a></h3>
                                 <p>PSB IPB fokus pada pemulihan pasca bencana dengan model berbasis sumber daya alam dan ekonomi lokal, serta pemberdayaan masyarakat.</p>
-                                <div class="link"><a href="service-details">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <div class="link"><a href="/tentang-kami">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="more-btn"><a href="/service" class="theme-btn style-one">Pelayanan Kami</a></div>
+            <div class="more-btn"><a href="/tentang-kami" class="theme-btn style-one">Pelayanan Kami</a></div>
         </div>
     </section>
     <!-- service-section end -->
@@ -305,7 +305,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-1.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">PENCEGAHAN BENCANA</a></h3>
+                                        <h3><a href="/docum">PENCEGAHAN BENCANA</a></h3>
                                         <span>Program Pengurangan Risiko Bencana</span>
                                     </div>
                                 </div>
@@ -318,7 +318,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-2.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">TANGGAP DARURAT</a></h3>
+                                        <h3><a href="/docum">TANGGAP DARURAT</a></h3>
                                         <span>Program Dukungan dan Bantuan Bencana</span>
                                     </div>
                                 </div>
@@ -331,7 +331,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-3.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">REHABILITASI & REKONSTRUKSI</a></h3>
+                                        <h3><a href="/docum">REHABILITASI & REKONSTRUKSI</a></h3>
                                         <span>Program Pemulihan Pasca-Bencana</span>
                                     </div>
                                 </div>
@@ -344,7 +344,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-4.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">EDUKASI & PELATIHAN</a></h3>
+                                        <h3><a href="/docum">EDUKASI & PELATIHAN</a></h3>
                                         <span>Program Kesiapsiagaan Bencana</span>
                                     </div>
                                 </div>
@@ -357,7 +357,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-5.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">KOLABORASI</a></h3>
+                                        <h3><a href="/docum">KOLABORASI</a></h3>
                                         <span>Kerja Sama dengan Mitra Lokal dan Internasional</span>
                                     </div>
                                 </div>
@@ -370,14 +370,14 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-6.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">PENELITIAN</a></h3>
+                                        <h3><a href="/docum">PENELITIAN</a></h3>
                                         <span>Studi Penanggulangan Bencana yang Berbasis Bukti</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="more-btn"><a href="resource" class="theme-btn style-one">Lihat Selengkapnya</a></div>
+                    <div class="more-btn"><a href="/tentang-kami" class="theme-btn style-one">Lihat Selengkapnya</a></div>
                 </div>
             </section>
 
@@ -608,20 +608,20 @@
                             <div class="overlay-box-1"></div>
                             <div class="overlay-box-2"></div>
                             <img src="assets/images/news/news-1.jpg" alt="">
-                            <a href="blog-details"><i class="fas fa-link"></i></a>
+                            <a href="/berita"><i class="fas fa-link"></i></a>
                         </figure>
                         <div class="lower-content">
                             <div class="upper-box">
                                 <ul class="post-info clearfix">
-                                    <li><i class="fas fa-comments"></i><a href="blog-details">Komentar 47</a></li>
+                                    <li><i class="fas fa-comments"></i><a href="/tentang-kami">Komentar 47</a></li>
                                     <li><i class="far fa-calendar-alt"></i>Jan 13, 2024</li>
                                 </ul>
-                                <h3><a href="blog-details">Strategi Pencegahan Bencana Berbasis Masyarakat</a></h3>
+                                <h3><a href="/publikasi">Strategi Pencegahan Bencana Berbasis Masyarakat</a></h3>
                                 <p>PSB IPB mengembangkan program pencegahan untuk mengurangi risiko bencana melalui edukasi dan teknologi.</p>
                             </div>
                             <div class="lower-box clearfix">
-                                <div class="link"><a href="blog-details">BACA SELENGKAPNYA</a></div>
-                                <div class="admin"><i class="fas fa-user"></i><a href="blog-details">Oleh Admin</a></div>
+                                <div class="link"><a href="/publikasi">BACA SELENGKAPNYA</a></div>
+                                <div class="admin"><i class="fas fa-user"></i><a href="/berita">Oleh Admin</a></div>
                             </div>
                         </div>
                     </div>
@@ -634,20 +634,20 @@
                             <div class="overlay-box-1"></div>
                             <div class="overlay-box-2"></div>
                             <img src="assets/images/news/news-2.jpg" alt="">
-                            <a href="blog-details"><i class="fas fa-link"></i></a>
+                            <a href="/berita"><i class="fas fa-link"></i></a>
                         </figure>
                         <div class="lower-content">
                             <div class="upper-box">
                                 <ul class="post-info clearfix">
-                                    <li><i class="fas fa-comments"></i><a href="blog-details">Komentar 42</a></li>
+                                    <li><i class="fas fa-comments"></i><a href="/berita">Komentar 42</a></li>
                                     <li><i class="far fa-calendar-alt"></i>Jan 14, 2024</li>
                                 </ul>
-                                <h3><a href="blog-details">Membangun Kapasitas Relawan Tanggap Darurat</a></h3>
+                                <h3><a href="/berita">Membangun Kapasitas Relawan Tanggap Darurat</a></h3>
                                 <p>PSB IPB menyediakan pelatihan untuk meningkatkan kemampuan relawan dalam penanganan bencana.</p>
                             </div>
                             <div class="lower-box clearfix">
-                                <div class="link"><a href="blog-details">BACA SELENGKAPNYA</a></div>
-                                <div class="admin"><i class="fas fa-user"></i><a href="blog-details">Oleh Admin</a></div>
+                                <div class="link"><a href="/berita">BACA SELENGKAPNYA</a></div>
+                                <div class="admin"><i class="fas fa-user"></i><a href="/tentang-kami">Oleh Admin</a></div>
                             </div>
                         </div>
                     </div>
@@ -660,27 +660,27 @@
                             <div class="overlay-box-1"></div>
                             <div class="overlay-box-2"></div>
                             <img src="assets/images/news/news-3.jpg" alt="">
-                            <a href="blog-details"><i class="fas fa-link"></i></a>
+                            <a href="/berita"><i class="fas fa-link"></i></a>
                         </figure>
                         <div class="lower-content">
                             <div class="upper-box">
                                 <ul class="post-info clearfix">
-                                    <li><i class="fas fa-comments"></i><a href="blog-details">Komentar 40</a></li>
+                                    <li><i class="fas fa-comments"></i><a href="/berita">Komentar 40</a></li>
                                     <li><i class="far fa-calendar-alt"></i>Jan 15, 2024</li>
                                 </ul>
-                                <h3><a href="blog-details">Rehabilitasi Pasca-Bencana: Model Pemulihan Berkelanjutan</a></h3>
+                                <h3><a href="/berita">Rehabilitasi Pasca-Bencana: Model Pemulihan Berkelanjutan</a></h3>
                                 <p>PSB IPB fokus pada upaya pemulihan pasca-bencana dengan memberdayakan masyarakat dan memanfaatkan sumber daya lokal.</p>
                             </div>
                             <div class="lower-box clearfix">
-                                <div class="link"><a href="blog-details">BACA SELENGKAPNYA</a></div>
-                                <div class="admin"><i class="fas fa-user"></i><a href="blog-details">Oleh Admin</a></div>
+                                <div class="link"><a href="/berita">BACA SELENGKAPNYA</a></div>
+                                <div class="admin"><i class="fas fa-user"></i><a href="/tentang-kami">Oleh Admin</a></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="more-text"><p>Jangan ragu, <a href="blog">hubungi kami untuk bantuan dan informasi lebih lanjut.</a></p></div>
+        <div class="more-text"><p>Jangan ragu, <a href="/contact">hubungi kami untuk bantuan dan informasi lebih lanjut.</a></p></div>
     </div>
 </section>
 <!-- news-section end -->

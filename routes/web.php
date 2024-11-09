@@ -19,12 +19,19 @@ Route::get('/index', function () {
     return view('index');
 });
 
-Route::get('/artikel', function () {
-    return view('artikel');
+Route::get('/publikasi', function () {
+    return view('publikasi');
 });
 
 Route::get('/berita', function () {
     return view('berita');
+});
+
+Route::get('/event', function () {
+    return view('event');
+});
+Route::get('/artikel', function () {
+    return view('artikel');
 });
 
 Route::get('/docum', function () {

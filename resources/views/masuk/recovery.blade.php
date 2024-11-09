@@ -28,7 +28,7 @@
                 <div class="card-body">
 
                     <div class="text-center">
-                        <a href="index.html" class="logo logo-admin"><img src="assets/images/e-logo.png" height="20" alt="logo"></a>
+                        <a href="/index" class="logo logo-admin"><img src="assets/images/e-logo.png" height="20" alt="logo"></a>
                     </div>
 
                     <div class="p-3">
@@ -47,7 +47,7 @@
 
                             <div class="form-group text-center row m-t-20">
                                 <div class="col-12">
-                                    <button class="btn btn-danger btn-block waves-effect waves-light" type="submit">Send Email</button>
+                                    <button class="btn btn-primary btn-block waves-effect waves-light" type="submit">Send Email</button>
                                 </div>
                             </div>
 

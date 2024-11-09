@@ -32,7 +32,7 @@
                                 <ul class="clearfix">
                                     <li><a href="/index">Home</a></li>
                                     <li><a href="/tentang-kami">Profile</a></li>
-                                    <li><a href="/artikel">Artikel</a></li>
+                                    <li><a href="/publikasi">Artikel</a></li>
                                     <li><a href="/contact">Hubungi Kami</a></li>
                                 </ul>
                             </div>
@@ -67,7 +67,7 @@
                                     <li><a href="/tentang-kami">Tentang Kami</a></li>
                                     <li><a href="/sumber-daya">Sumber Daya</a></li>
                                     <li><a href="/docum">Dokumentasi</a></li>
-                                    <li><a href="/artikel">Artikel</a></li>
+                                    <li><a href="/publikasi">Artikel</a></li>
                                     <li><a href="/contact">Hubungi Kami</a></li>
                                 </ul>
                             </div>

@@ -28,7 +28,7 @@
                 <div class="card-body">
 
                     <div class="text-center">
-                        <a href="index.html" class="logo logo-admin"><img src="assets/images/e-logo.png" height="20" alt="logo"></a>
+                        <a href="/index" class="logo logo-admin"><img src="assets/images/logo.png" height="20" alt="logo"></a>
                     </div>
 
                     <div class="p-3">
@@ -63,13 +63,13 @@
 
                             <div class="form-group text-center row m-t-20">
                                 <div class="col-12">
-                                    <button class="btn btn-danger btn-block waves-effect waves-light" type="submit">Register</button>
+                                    <button class="btn btn-primary btn-block waves-effect waves-light" type="submit">Register</button>
                                 </div>
                             </div>
 
                             <div class="form-group m-t-10 mb-0 row">
                                 <div class="col-12 m-t-20 text-center">
-                                    <a href="pages-login.html" class="text-muted">Already have account?</a>
+                                    <a href="/login" class="text-muted">Already have account?</a>
                                 </div>
                             </div>
                         </form>

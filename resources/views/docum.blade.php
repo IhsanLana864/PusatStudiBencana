@@ -67,7 +67,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-1.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">PENCEGAHAN BENCANA</a></h3>
+                                        <h3><a href="/tentang-kami">PENCEGAHAN BENCANA</a></h3>
                                         <span>Program Pengurangan Risiko Bencana</span>
                                     </div>
                                 </div>
@@ -80,7 +80,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-2.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">TANGGAP DARURAT</a></h3>
+                                        <h3><a href="/tentang-kami">TANGGAP DARURAT</a></h3>
                                         <span>Program Dukungan dan Bantuan Bencana</span>
                                     </div>
                                 </div>
@@ -93,7 +93,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-3.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">REHABILITASI & REKONSTRUKSI</a></h3>
+                                        <h3><a href="/tentang-kami">REHABILITASI & REKONSTRUKSI</a></h3>
                                         <span>Program Pemulihan Pasca-Bencana</span>
                                     </div>
                                 </div>
@@ -106,7 +106,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-4.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">EDUKASI & PELATIHAN</a></h3>
+                                        <h3><a href="/tentang-kami">EDUKASI & PELATIHAN</a></h3>
                                         <span>Program Kesiapsiagaan Bencana</span>
                                     </div>
                                 </div>
@@ -119,7 +119,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-5.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">KOLABORASI</a></h3>
+                                        <h3><a href="/tentang-kami">KOLABORASI</a></h3>
                                         <span>Kerja Sama dengan Mitra Lokal dan Internasional</span>
                                     </div>
                                 </div>
@@ -132,7 +132,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-5.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">KOLABORASI</a></h3>
+                                        <h3><a href="/tentang-kami">KOLABORASI</a></h3>
                                         <span>Kerja Sama dengan Mitra Lokal dan Internasional</span>
                                     </div>
                                 </div>
@@ -145,7 +145,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-5.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">KOLABORASI</a></h3>
+                                        <h3><a href="/tentang-kami">KOLABORASI</a></h3>
                                         <span>Kerja Sama dengan Mitra Lokal dan Internasional</span>
                                     </div>
                                 </div>
@@ -158,7 +158,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-5.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">KOLABORASI</a></h3>
+                                        <h3><a href="/tentang-kami">KOLABORASI</a></h3>
                                         <span>Kerja Sama dengan Mitra Lokal dan Internasional</span>
                                     </div>
                                 </div>
@@ -171,7 +171,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-5.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">KOLABORASI</a></h3>
+                                        <h3><a href="/tentang-kami">KOLABORASI</a></h3>
                                         <span>Kerja Sama dengan Mitra Lokal dan Internasional</span>
                                     </div>
                                 </div>
@@ -184,7 +184,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-5.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">KOLABORASI</a></h3>
+                                        <h3><a href="/tentang-kami">KOLABORASI</a></h3>
                                         <span>Kerja Sama dengan Mitra Lokal dan Internasional</span>
                                     </div>
                                 </div>
@@ -197,7 +197,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-5.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">KOLABORASI</a></h3>
+                                        <h3><a href="/tentang-kami">KOLABORASI</a></h3>
                                         <span>Kerja Sama dengan Mitra Lokal dan Internasional</span>
                                     </div>
                                 </div>
@@ -210,7 +210,7 @@
                                     <div class="line-two"></div>
                                     <figure class="image-box"><img src="assets/images/gallery/project-6.jpg" alt=""></figure>
                                     <div class="content-box">
-                                        <h3><a href="research-details">PENELITIAN</a></h3>
+                                        <h3><a href="/tentang-kami">PENELITIAN</a></h3>
                                         <span>Studi Penanggulangan Bencana yang Berbasis Bukti</span>
                                     </div>
                                 </div>

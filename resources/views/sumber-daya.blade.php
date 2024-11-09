@@ -113,10 +113,10 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
                                 <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
@@ -133,10 +133,10 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-2.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
                                 <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
@@ -153,10 +153,10 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-3.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
                                 <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
@@ -173,10 +173,10 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-4.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
                                 <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
@@ -193,12 +193,12 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-5.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
-                                <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
+                                <div class="link"><a href="#"><i class="fas fa-link"></i></a></div>
                             </div>
                             <div class="lower-content">
                                 <h3><a href="team-details">Martin Tompson</a></h3>
@@ -213,10 +213,10 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-6.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
                                 <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
@@ -233,10 +233,10 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-7.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
                                 <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>
@@ -253,10 +253,10 @@
                             <div class="image-box">
                                 <figure class="image"><img src="assets/images/team/team-8.jpg" alt=""></figure>
                                 <ul class="social-links clearfix">
-                                    <li><a href="index-2"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="index-2"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                                 </ul>
                                 <div class="link"><a href="team-details"><i class="fas fa-link"></i></a></div>
                             </div>

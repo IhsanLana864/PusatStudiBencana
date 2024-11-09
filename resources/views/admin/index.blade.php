@@ -16,7 +16,7 @@
         <a href="{{ url('/admin') }}" style="text-decoration: none; color: inherit;">
             <h3>Menu</h3>
         </a>
-        <a href="{{ url('/admin/artikel') }}">
+        <a href="{{ url('/admin/publikasi') }}">
             <i data-lucide="file-text"></i>
             <span>Artikel</span>
         </a>

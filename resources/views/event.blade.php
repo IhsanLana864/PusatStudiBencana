@@ -36,11 +36,11 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
                     <div class="content-box clearfix">
                         <div class="title pull-left">
-                            <h1>Detail Berita</h1>
+                            <h1>Detail Event</h1>
                         </div>
                         <ul class="bread-crumb pull-right clearfix">
-                            <li><a href="/index">Beranda</a></li>
-                            <li>Profil</li>
+                            <li><a href="/event">Event</a></li>
+                            <li><a href="/index">Profil</a></li>
                         </ul>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                                 <div class="inner-box">
                                     <figure class="image-box"><a href="/publikasi"><img src="assets/images/news/news-8.jpg" alt=""></a></figure>
                                     <div class="lower-content">
-                                        <h5><a href="/publikasi"><strong>--BERITA</strong></a></h5>
+                                        <h5><a href="/publikasi"><strong>--Event</strong></a></h5>
                                         <h3><a href="/publikasi">Program Pusat Studi Bencana</a></h3>
                                         <p><strong>Pencegahan Bencana:</strong> Pusat Studi Bencana IPB berfokus pada pengembangan berbagai
                                             inisiatif pencegahan bencana untuk mengurangi risiko dan dampaknya terhadap masyarakat dan lingkungan.
@@ -121,8 +121,8 @@
                                 <div class="widget-content">
                                     <ul class="categories-list clearfix">
                                         <li><a href="/publikasi">Artikel <span>1</span></a></li>
-                                        <li><a href="/publikasi"class="active">Berita<span>2</span></a></li>
-                                        <li><a href="/publikasi">Event <span>3</span></a></li>
+                                        <li><a href="/publikasi">Berita<span>2</span></a></li>
+                                        <li><a href="/publikasi" class="active">Event <span>3</span></a></li>
                                     </ul>
                                 </div>
                             </div>

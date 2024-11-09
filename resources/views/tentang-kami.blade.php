@@ -40,8 +40,8 @@
                             <h1>Tentang Kami</h1>
                         </div>
                         <ul class="bread-crumb pull-right clearfix">
-                            <li><a href="index">Home</a></li>
-                            <li>Tentang Kami</li>
+                            <li><a href="/index">Home</a></li>
+                            <li><a href="/tentang-kami">Tentang Kami</a></li>
                         </ul>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                 <div class="service-block-four wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-research"></i></div>

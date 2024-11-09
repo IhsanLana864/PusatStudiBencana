@@ -29,8 +29,6 @@
 </head>
 
 @include('layouts.navbar')
-
-
     <!--Page Title-->
     <section class="page-title" style="background-image: url(assets/images/background/page-title.jpg);">
         <div class="auto-container">
@@ -38,10 +36,10 @@
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
                     <div class="content-box clearfix">
                         <div class="title pull-left">
-                            <h1>Profil Pusat Studi Bencana</h1>
+                            <h1>Detail Artikel</h1>
                         </div>
                         <ul class="bread-crumb pull-right clearfix">
-                            <li><a href="index">Beranda</a></li>
+                            <li><a href="/index">Beranda</a></li>
                             <li>Profil</li>
                         </ul>
                     </div>
@@ -59,28 +57,34 @@
                     <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                         <div class="our-blog-content">
                             <!-- Profil Sekilas -->
-                            <div class="news-block-three">
-                                <div class="inner-box">
-                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-7.jpg" alt=""></a></figure>
-                                    <div class="lower-content">
-                                        <h3><a href="blog-details">Profil Sekilas Pusat Studi Bencana</a></h3>
-                                        <p>Pusat Studi Bencana (PSB) IPB University adalah lembaga di bawah naungan Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) yang berfokus pada kajian penanggulangan bencana secara holistik. PSB bertujuan untuk mengembangkan strategi komprehensif dan integratif dalam meningkatkan efektivitas dan efisiensi penanggulangan bencana.</p>
-                                        <div class="btn-box"><a href="blog-details" class="theme-btn style-one">BACA SELENGKAPNYA</a></div>
-                                    </div>
-                                </div>
-                            </div>
 
                             <!-- Program Sekilas -->
                             <div class="news-block-three">
                                 <div class="inner-box">
-                                    <figure class="image-box"><a href="blog-details"><img src="assets/images/news/news-8.jpg" alt=""></a></figure>
+                                    <figure class="image-box"><a href="/publikasi"><img src="assets/images/news/news-8.jpg" alt=""></a></figure>
                                     <div class="lower-content">
-                                        <h3><a href="blog-details">Program Pusat Studi Bencana</a></h3>
-                                        <p><strong>Pencegahan Bencana:</strong> PSB IPB mengembangkan berbagai program pencegahan bencana yang bertujuan untuk mengurangi risiko dan dampak bencana. Program ini meliputi kajian kebijakan dan program pembangunan yang berisiko menimbulkan bencana, serta optimalisasi ilmu pengetahuan dan teknologi (iptek) untuk pencegahan bencana.</p>
-                                        <p><strong>Tanggap Darurat:</strong> PSB IPB berperan aktif dalam memberikan bantuan dan dukungan kepada masyarakat yang terdampak bencana, termasuk pengembangan strategi dan metode penanganan berbasis masyarakat serta pelatihan bagi relawan dan petugas tanggap darurat.</p>
-                                        <p><strong>Rehabilitasi dan Rekonstruksi:</strong> Setelah bencana terjadi, PSB fokus pada pemulihan kondisi masyarakat dan wilayah yang terdampak dengan pengembangan model pemulihan berbasis sumber daya alam dan pemberdayaan masyarakat untuk ketahanan bencana di masa depan.</p>
-                                        <div class="btn-box"><a href="blog-details" class="theme-btn style-one">BACA SELENGKAPNYA</a></div>
+                                        <h5><a href="/publikasi"><strong>--Artikel</strong></a></h5>
+                                        <h3><a href="/publikasi">Program Pusat Studi Bencana</a></h3>
+                                        <p><strong>Pencegahan Bencana:</strong> Pusat Studi Bencana IPB berfokus pada pengembangan berbagai
+                                            inisiatif pencegahan bencana untuk mengurangi risiko dan dampaknya terhadap masyarakat dan lingkungan.
+                                            Beberapa program utama meliputi penyusunan kajian risiko bencana yang berbasis pada data dan analisis ilmiah,
+                                            serta penyusunan rekomendasi kebijakan yang mendukung pembangunan berkelanjutan. PSB IPB juga memanfaatkan kemajuan
+                                            ilmu pengetahuan dan teknologi (iptek) untuk mendeteksi potensi bencana secara dini, mengembangkan sistem peringatan dini,
+                                            dan memberikan edukasi kepada masyarakat terkait tindakan pencegahan yang efektif.</p>
+                                        <p><strong>Tanggap Darurat:</strong> Dalam situasi darurat, PSB IPB memiliki peran penting sebagai koordinator lapangan yang
+                                            berfokus pada penyediaan bantuan langsung, seperti distribusi logistik dan dukungan medis. Selain itu, PSB IPB mengembangkan
+                                            strategi tanggap darurat berbasis masyarakat, yang melibatkan pelatihan intensif bagi para relawan dan petugas tanggap darurat
+                                            dalam penggunaan metode penanganan modern dan teknik penyelamatan. Program ini bertujuan untuk membangun kesiapsiagaan masyarakat
+                                            melalui simulasi evakuasi, pembentukan tim tanggap bencana lokal, dan peningkatan pemahaman masyarakat tentang pengelolaan risiko
+                                            bencana secara mandiri.</p>
+                                        <p><strong>Rehabilitasi dan Rekonstruksi:</strong> Pasca terjadinya bencana, fokus PSB IPB beralih pada pemulihan kondisi sosial-ekonomi
+                                            masyarakat serta rehabilitasi lingkungan yang rusak. Program rehabilitasi dan rekonstruksi dirancang dengan pendekatan berbasis s
+                                            umber daya alam untuk memaksimalkan keberlanjutan, seperti penggunaan bahan bangunan lokal dan metode konstruksi yang ramah lingk
+                                            ungan. Selain itu, PSB IPB juga mengedepankan pemberdayaan masyarakat, dengan memberikan pelatihan keterampilan yang mendukung
+                                            ketahanan ekonomi serta pembangunan infrastruktur komunitas yang lebih kuat. PSB IPB berkomitmen untuk menjadikan masyarakat lebih
+                                            tangguh dan siap menghadapi bencana di masa depan dengan membangun pemahaman dan keterampilan yang berkelanjutan.</p>
                                     </div>
+
                                 </div>
                             </div>
 
@@ -116,10 +120,9 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="categories-list clearfix">
-                                        <li><a href="blog-details">Pencegahan Bencana <span>3</span></a></li>
-                                        <li><a href="blog-details">Tanggap Darurat <span>2</span></a></li>
-                                        <li><a href="blog-details" class="active">Rehabilitasi <span>2</span></a></li>
-                                        <li><a href="blog-details">Pemulihan Masyarakat <span>1</span></a></li>
+                                        <li><a href="/publikasi" class="active">Artikel <span>1</span></a></li>
+                                        <li><a href="/publikasi">Berita<span>2</span></a></li>
+                                        <li><a href="/publikasi">Event <span>3</span></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -129,8 +132,8 @@
                                 </div>
                                 <div class="post-inner">
                                     <div class="post">
-                                        <figure class="image-box"><a href="blog-details"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
-                                        <h4><a href="blog-details">Cara Menanggulangi Bencana Alam</a></h4>
+                                        <figure class="image-box"><a href="/berita"><img src="assets/images/news/post-1.jpg" alt=""></a></figure>
+                                        <h4><a href="/publikasi">Cara Menanggulangi Bencana Alam</a></h4>
                                         <p>Feb 1, 2020</p>
                                     </div>
                                 </div>
@@ -139,36 +142,12 @@
                     </div>
                 </div>
             </div>
-    </section>
-    <!-- our-blog end -->
+        </section>
 
-
-    <!-- newsletter-section -->
-    <section class="newsletter-section bg-color-3">
-        <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-7.png);"></div>
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
-                    <div class="inner-box">
-                        <h2>Subscribe Newsletter</h2>
-                        <p>Stay in touch with us to get latest news and discount coupons</p>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-12 col-sm-12 form-column">
-                    <form action="index" method="post" class="newsletter-form">
-                        <div class="form-group">
-                            <input type="email" name="email" placeholder="Enter Your Email" required="">
-                            <button class="theme-btn style-one" type="submit">Subscribe Now!</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section>
     <!-- newsletter-section end -->
 
 
-@include ('layouts.footer')
+@include('layouts.footer')
 
 
 

@@ -41,7 +41,7 @@
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a href="/index">Home</a>
+                                    <li><a href="/index">Home</a>
                                     </li>
                                     <li class="dropdown"><a href="/tentang-kami">Profile</a>
                                         <ul>
@@ -50,13 +50,9 @@
                                             <li><a href="/docum">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="/artikel">Artikel</a>
-                                        <ul>
-                                            <li><a href="/artikel">Artikel Publikasi dan Event</a></li>
-                                            <li><a href="/berita">Detail Berita</a></li>
-                                        </ul>
+                                    <li><a href="/publikasi">Publikasi</a>
                                     </li>
-                                    <li><a href="contact">Hubungi Kami</a></li>
+                                    <li><a href="/contact">Hubungi Kami</a></li>
                                 </ul>
                             </div>
                         </nav>
