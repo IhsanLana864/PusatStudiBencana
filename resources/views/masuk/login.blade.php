@@ -26,8 +26,8 @@
 
 
 
-        
-{{--
+
+
     <!-- Begin page -->
     <div class="accountbg"></div>
     <div class="wrapper-page">
@@ -67,7 +67,7 @@
                             </div>
                             <div class="col-sm-5 m-t-20">
                             <a href="{{ route('register') }}" class="text-muted">
-                                <i class="mdi mdi-account-circle"></i> 
+                                <i class="mdi mdi-account-circle"></i>
                                 <small>Create an account?</small>
                             </a>
                         </div>
@@ -78,7 +78,7 @@
             </div>
         </div>
     </div>
- --}}
+
 
 
         <!-- jQuery  -->
