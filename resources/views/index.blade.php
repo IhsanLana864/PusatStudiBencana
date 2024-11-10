@@ -509,25 +509,28 @@
                                 <h2>Berikan Pendapat Anda</h2>
                                 <span class="separator"></span>
                             </div>
-                            <form action="index" class="appointment-form">
+                            <form action="{{ route('komentar.store') }}" method="POST" class="appointment-form">
+                                @csrf
                                 <div class="form-group">
                                     <i class="fas fa-user"></i>
-                                    <input type="text" name="name" placeholder="Nama" required="">
+                                    <input type="text" name="nama" placeholder="Nama" required>
                                 </div>
                                 <div class="form-group">
                                     <i class="fas fa-envelope"></i>
-                                    <input type="email" name="email" placeholder="Email" required="">
+                                    <input type="email" name="email" placeholder="Email" required>
                                 </div>
                                 <div class="form-group">
                                     <i class="fas fa-file-alt"></i>
-                                    <input type="text" name="subject" placeholder="Subjek" required="">
+                                    <input type="text" name="subjek" placeholder="Subjek" required>
                                 </div>
                                 <div class="form-group">
-                                    <textarea name="message" placeholder="Beritahu kami tentang pendapat Anda"></textarea>
+                                    <textarea name="pendapat" placeholder="Beritahu kami tentang pendapat Anda" required></textarea>
                                 </div>
                                 <div class="form-group message-btn">
                                     <button type="submit" class="theme-btn style-one">Kirim Komentar</button>
                                 </div>
+                            </form>
+
                                 <div class="form-group">
                                     <div class="custom-controls-stacked">
                                         <label class="custom-control material-checkbox">
