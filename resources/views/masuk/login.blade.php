@@ -21,6 +21,13 @@
     <body>
 
 
+
+
+
+
+
+        
+{{--
     <!-- Begin page -->
     <div class="accountbg"></div>
     <div class="wrapper-page">
@@ -76,7 +83,7 @@
             </div>
         </div>
     </div>
-
+ --}}
 
 
         <!-- jQuery  -->

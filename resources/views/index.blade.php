@@ -616,11 +616,11 @@
                                     <li><i class="fas fa-comments"></i><a href="/tentang-kami">Komentar 47</a></li>
                                     <li><i class="far fa-calendar-alt"></i>Jan 13, 2024</li>
                                 </ul>
-                                <h3><a href="/publikasi">Strategi Pencegahan Bencana Berbasis Masyarakat</a></h3>
+                                <h3><a href="/artikel">Strategi Pencegahan Bencana Berbasis Masyarakat</a></h3>
                                 <p>PSB IPB mengembangkan program pencegahan untuk mengurangi risiko bencana melalui edukasi dan teknologi.</p>
                             </div>
                             <div class="lower-box clearfix">
-                                <div class="link"><a href="/publikasi">BACA SELENGKAPNYA</a></div>
+                                <div class="link"><a href="/artikel">BACA SELENGKAPNYA</a></div>
                                 <div class="admin"><i class="fas fa-user"></i><a href="/berita">Oleh Admin</a></div>
                             </div>
                         </div>
