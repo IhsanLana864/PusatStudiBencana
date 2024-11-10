@@ -14,6 +14,7 @@
         <link href="assets/css/login/bootstrap.min.css" rel="stylesheet" type="text/css">
         <link href="assets/css/login/login_icons.css" rel="stylesheet" type="text/css">
         <link href="assets/css/login/login_style.css" rel="stylesheet" type="text/css">
+        <link href="{{ asset('assets/css/login/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
 
     </head>
 

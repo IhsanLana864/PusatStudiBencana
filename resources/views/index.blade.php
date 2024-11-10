@@ -377,7 +377,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="more-btn"><a href="/tentang-kami" class="theme-btn style-one">Lihat Selengkapnya</a></div>
+                    <div class="more-btn"><a href="/docum" class="theme-btn style-one">Lihat Selengkapnya</a></div>
                 </div>
             </section>
 
