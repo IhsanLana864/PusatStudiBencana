@@ -16,29 +16,34 @@
             </tr>
         </thead>
         <tbody>
-            <!-- Contoh data dummy -->
+            @foreach($dokumentasis as $dokumentasi)
             <tr>
-                <td>Judul Dokumentasi</td>
-                <td>Penjelasan singkat</td>
-                <td><img src="path/to/image.jpg" alt="Gambar Dokumentasi" width="50"></td>
+                <td>{{ $dokumentasi->judul }}</td>
+                <td>{{ Str::limit($dokumentasi->penjelasan, 50) }}</td>
+                <td><img src="{{ asset('storage/' . $dokumentasi->gambar) }}" alt="{{ $dokumentasi->judul }}" width="50"></td>
                 <td>
-                    <a href="#" class="btn btn-edit" onclick="showForm('editDokumentasiForm')">Edit</a>
-                    <a href="#" class="btn btn-delete" onclick="confirmDeletion()">Hapus</a>
+                    <a href="#" class="btn btn-edit" onclick="editDokumentasi({{ $dokumentasi->id }})">Edit</a>
+                    <form action="{{ route('admin.dokumentasi.destroy', $dokumentasi->id) }}" method="POST" class="form-delete" style="display:inline;">
+                        @csrf
+                        @method('DELETE')
+                        <button type="button" class="btn btn-delete" onclick="confirmDeletion(this)">Hapus</button>
+                    </form>
                 </td>
             </tr>
+            @endforeach
         </tbody>
     </table>
 
     <!-- Form Tambah Dokumentasi -->
     <div id="addDokumentasiForm" class="form-popup" style="display: none;">
         <h3>Tambah Dokumentasi</h3>
-        <form id="addDokumentasiFormElement" action="#" method="post" enctype="multipart/form-data">
+        <form id="addDokumentasiFormElement" action="{{ route('admin.dokumentasi.store') }}" method="post" enctype="multipart/form-data">
             @csrf
             <label for="judul">Judul:</label>
             <input type="text" id="judul" name="judul" required>
             
             <label for="penjelasan">Penjelasan Singkat:</label>
-            <input type="text" id="penjelasan" name="penjelasan" maxlength="5" required>
+            <textarea id="penjelasan" name="penjelasan" required></textarea>
             
             <label for="gambar">Gambar:</label>
             <input type="file" id="gambar" name="gambar" required>
@@ -51,13 +56,15 @@
     <!-- Form Edit Dokumentasi -->
     <div id="editDokumentasiForm" class="form-popup" style="display: none;">
         <h3>Edit Dokumentasi</h3>
-        <form id="editDokumentasiFormElement" action="#" method="post" enctype="multipart/form-data">
+        <form id="editDokumentasiFormElement" method="post" enctype="multipart/form-data">
             @csrf
+            @method('PUT') <!-- Gunakan PUT untuk update -->
+            
             <label for="editJudul">Judul:</label>
-            <input type="text" id="editJudul" name="judul" value="Judul Dokumentasi" required>
+            <input type="text" id="editJudul" name="judul" required>
             
             <label for="editPenjelasan">Penjelasan Singkat:</label>
-            <input type="text" id="editPenjelasan" name="penjelasan" value="Penjelasan singkat" maxlength="5" required>
+            <textarea id="editPenjelasan" name="penjelasan" required></textarea>
             
             <label for="editGambar">Gambar:</label>
             <input type="file" id="editGambar" name="gambar">
@@ -66,6 +73,7 @@
             <button type="button" class="btn" onclick="closeForm('editDokumentasiForm')">Batal</button>
         </form>
     </div>
+
 
     <script>
         function showForm(formId) {
@@ -76,7 +84,108 @@
             document.getElementById(formId).style.display = 'none';
         }
 
-        function confirmDeletion() {
+        function editDokumentasi(id) {
+            fetch(`/admin/dokumentasi/${id}/edit`)
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('editJudul').value = data.judul;
+                    document.getElementById('editPenjelasan').value = data.penjelasan;
+                    document.getElementById('editDokumentasiFormElement').action = `/admin/dokumentasi/${id}`;
+                    showForm('editDokumentasiForm');
+                });
+        }
+
+        document.getElementById('addDokumentasiFormElement').addEventListener('submit', function(e) {
+    e.preventDefault(); // Mencegah reload otomatis
+    if (this.checkValidity()) {
+        const formData = new FormData(this);
+        fetch(this.action, {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                closeForm('addDokumentasiForm'); // Tutup form tambah
+                Swal.fire({
+                    title: 'Sukses!',
+                    text: data.success,
+                    icon: 'success',
+                    confirmButtonText: 'OK'
+                }).then(() => {
+                    location.reload(); // Reload halaman untuk memperbarui data
+                });
+            } else {
+                throw new Error('Gagal menambahkan dokumentasi.');
+            }
+        })
+        .catch(error => {
+            Swal.fire({
+                title: 'Gagal!',
+                text: error.message || 'Gagal menambahkan dokumentasi.',
+                icon: 'error',
+                confirmButtonText: 'OK'
+            });
+        });
+    } else {
+        Swal.fire({
+            title: 'Error!',
+            text: 'Harap isi semua field yang diperlukan.',
+            icon: 'error',
+            confirmButtonText: 'OK'
+        });
+    }
+});
+
+        document.getElementById('editDokumentasiFormElement').addEventListener('submit', function(e) {
+            e.preventDefault(); // Mencegah reload otomatis
+            if (this.checkValidity()) {
+                const formData = new FormData(this);
+                formData.append('_method', 'PUT'); // Tambahkan method PUT
+
+                fetch(this.action, {
+                    method: 'POST',
+                    headers: {
+                        'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content')
+                    },
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        closeForm('editDokumentasiForm'); // Tutup form edit
+                        Swal.fire({
+                            title: 'Sukses!',
+                            text: data.success,
+                            icon: 'success',
+                            confirmButtonText: 'OK'
+                        }).then(() => {
+                            location.reload(); // Reload halaman untuk memperbarui data
+                        });
+                    } else {
+                        throw new Error('Gagal memperbarui dokumentasi.');
+                    }
+                })
+                .catch(error => {
+                    Swal.fire({
+                        title: 'Gagal!',
+                        text: error.message || 'Gagal memperbarui dokumentasi.',
+                        icon: 'error',
+                        confirmButtonText: 'OK'
+                    });
+                });
+            } else {
+                Swal.fire({
+                    title: 'Error!',
+                    text: 'Harap isi semua field yang diperlukan.',
+                    icon: 'error',
+                    confirmButtonText: 'OK'
+                });
+            }
+        });
+
+
+        function confirmDeletion(button) {
             Swal.fire({
                 title: 'Apakah Anda yakin?',
                 text: "Anda tidak akan dapat mengembalikan ini!",
@@ -88,74 +197,12 @@
                 cancelButtonText: 'Batal'
             }).then((result) => {
                 if (result.isConfirmed) {
-                    
-                    
-                    Swal.fire(
-                        'Terhapus!',
-                        'Dokumentasi telah dihapus.',
-                        'success'
-                    )
-                }
-            })
-        }
-
-        document.getElementById('addDokumentasiFormElement').addEventListener('submit', function(e) {
-            e.preventDefault();
-            if (this.checkValidity()) {
-                Swal.fire({
-                    title: 'Sukses!',
-                    text: 'Dokumentasi berhasil ditambahkan',
-                    icon: 'success',
-                    confirmButtonText: 'OK'
-                }).then((result) => {
-                    if (result.isConfirmed) {
-                        this.submit();
-                    }
-                });
-            } else {
-                Swal.fire({
-                    title: 'Error!',
-                    text: 'Harap isi semua field yang diperlukan',
-                    icon: 'error',
-                    confirmButtonText: 'OK'
-                });
-            }
-        });
-
-        document.getElementById('editDokumentasiFormElement').addEventListener('submit', function(e) {
-            e.preventDefault();
-            if (this.checkValidity()) {
-                Swal.fire({
-                    title: 'Sukses!',
-                    text: 'Dokumentasi berhasil diperbarui',
-                    icon: 'success',
-                    confirmButtonText: 'OK'
-                }).then((result) => {
-                    if (result.isConfirmed) {
-                        this.submit();
-                    }
-                });
-            } else {
-                Swal.fire({
-                    title: 'Error!',
-                    text: 'Harap isi semua field yang diperlukan',
-                    icon: 'error',
-                    confirmButtonText: 'OK'
-                });
-            }
-        });
-
-        function showSweetAlert(title, text, icon, confirmButtonText) {
-            return Swal.fire({
-                title: title,
-                text: text,
-                icon: icon,
-                confirmButtonText: confirmButtonText,
-                width: '300px',
-                customClass: {
-                    popup: 'small-popup'
+                    // Submit form terkait jika konfirmasi
+                    button.closest('form').submit();
                 }
             });
         }
+
+
     </script>
 @endsection

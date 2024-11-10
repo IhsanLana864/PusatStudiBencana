@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="csrf-token" content="{{ csrf_token() }}"> <!-- Tambahkan di sini -->
     <title>Admin Panel</title>
     <link rel="stylesheet" href="{{ asset('assets/css/admin.css') }}">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
@@ -13,25 +14,30 @@
         <h1>Admin Panel</h1>
     </div>
     <div class="sidebar">
-        <a href="{{ url('/admin') }}" style="text-decoration: none; color: inherit;">
+        <a href="{{ route('admin.dashboard') }}" style="text-decoration: none; color: inherit;">
             <h3>Menu</h3>
         </a>
-        <a href="{{ url('/admin/publikasi') }}">
+        <a href="{{ route('admin.artikel') }}">
             <i data-lucide="file-text"></i>
             <span>Artikel</span>
         </a>
-        <a href="{{ url('/admin/dokumentasi') }}">
+        <a href="{{ route('admin.dokumentasi') }}">
             <i data-lucide="book-open"></i>
             <span>Dokumentasi</span>
         </a>
-        <a href="{{ url('/admin/komentar') }}">
-            <i data-lucide="Message-Circle-More"></i>
+        <a href="{{ route('admin.komentar') }}">
+            <i data-lucide="message-circle"></i>
             <span>Komentar</span>
         </a>
+
         <a href="#" onclick="confirmLogout()">
-            <i data-lucide="log-out"></i>
-            <span>Logout</span>
-        </a>
+        <i data-lucide="log-out"></i>
+        <span>Logout</span></a>
+        <form id="logout-form" action="{{ route('admin.logout') }}" method="POST" style="display: none;">
+            @csrf
+        </form>
+
+
     </div>
 
     <div class="content">
@@ -66,8 +72,7 @@
                 cancelButtonText: 'Batal'
             }).then((result) => {
                 if (result.isConfirmed) {
-                    //kembali ke login
-                    window.location.href = "{{ url('/admin/logout') }}";
+                    document.getElementById('logout-form').submit(); // Mengirimkan form logout dengan POST
                 }
             })
         }

@@ -56,7 +56,20 @@
                                 </ul>
                             </div>
                         </nav>
-                        <div class="btn-box"><a href="/login" class="theme-btn style-one">Login/Sign in</a></div>
+                        <div class="btn-box">
+                            @auth
+                                <!-- Jika user sudah login, tampilkan tombol Logout -->
+                                <a href="#" class="theme-btn style-one" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>
+                                <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                    @csrf
+                                </form>
+                            @else
+                                <!-- Jika user belum login, tampilkan tombol Login -->
+                                <a href="{{ route('login') }}" class="theme-btn style-one">Login/Sign in</a>
+                            @endauth
+                        </div>
+
+
                     </div>
                 </div>
             </div>
@@ -73,7 +86,17 @@
                         <nav class="main-menu clearfix">
                             <!--Keep This Empty / Menu will come through Javascript-->
                         </nav>
-                        <div class="btn-box"><a href="/index" class="theme-btn style-one">Login/Sign in</a></div>
+                        <div class="btn-box">
+                        @auth
+                            <a href="#" class="theme-btn style-one" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>
+                            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                @csrf
+                            </form>
+                        @else
+                            <a href="{{ route('login') }}" class="theme-btn style-one">Login/Sign in</a>
+                        @endauth
+                    </div>
+
                     </div>
                 </div>
             </div>
