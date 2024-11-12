@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Pusat Studi Bencana IPB </title>
+<title>Pusat Studi Bencana IPB UNIVERSITY </title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -65,23 +65,23 @@
                                     <div class="lower-content">
                                         <h5><a href="/publikasi"><strong>--Event</strong></a></h5>
                                         <h3><a href="/publikasi">Program Pusat Studi Bencana</a></h3>
-                                        <p><strong>Pencegahan Bencana:</strong> Pusat Studi Bencana IPB berfokus pada pengembangan berbagai
+                                        <p><strong>Pencegahan Bencana:</strong> Pusat Studi Bencana IPB UNIVERSITY berfokus pada pengembangan berbagai
                                             inisiatif pencegahan bencana untuk mengurangi risiko dan dampaknya terhadap masyarakat dan lingkungan.
                                             Beberapa program utama meliputi penyusunan kajian risiko bencana yang berbasis pada data dan analisis ilmiah,
-                                            serta penyusunan rekomendasi kebijakan yang mendukung pembangunan berkelanjutan. PSB IPB juga memanfaatkan kemajuan
+                                            serta penyusunan rekomendasi kebijakan yang mendukung pembangunan berkelanjutan. PSB IPB UNIVERSITY juga memanfaatkan kemajuan
                                             ilmu pengetahuan dan teknologi (iptek) untuk mendeteksi potensi bencana secara dini, mengembangkan sistem peringatan dini,
                                             dan memberikan edukasi kepada masyarakat terkait tindakan pencegahan yang efektif.</p>
-                                        <p><strong>Tanggap Darurat:</strong> Dalam situasi darurat, PSB IPB memiliki peran penting sebagai koordinator lapangan yang
-                                            berfokus pada penyediaan bantuan langsung, seperti distribusi logistik dan dukungan medis. Selain itu, PSB IPB mengembangkan
+                                        <p><strong>Tanggap Darurat:</strong> Dalam situasi darurat, PSB IPB UNIVERSITY memiliki peran penting sebagai koordinator lapangan yang
+                                            berfokus pada penyediaan bantuan langsung, seperti distribusi logistik dan dukungan medis. Selain itu, PSB IPB UNIVERSITY mengembangkan
                                             strategi tanggap darurat berbasis masyarakat, yang melibatkan pelatihan intensif bagi para relawan dan petugas tanggap darurat
                                             dalam penggunaan metode penanganan modern dan teknik penyelamatan. Program ini bertujuan untuk membangun kesiapsiagaan masyarakat
                                             melalui simulasi evakuasi, pembentukan tim tanggap bencana lokal, dan peningkatan pemahaman masyarakat tentang pengelolaan risiko
                                             bencana secara mandiri.</p>
-                                        <p><strong>Rehabilitasi dan Rekonstruksi:</strong> Pasca terjadinya bencana, fokus PSB IPB beralih pada pemulihan kondisi sosial-ekonomi
+                                        <p><strong>Rehabilitasi dan Rekonstruksi:</strong> Pasca terjadinya bencana, fokus PSB IPB UNIVERSITY beralih pada pemulihan kondisi sosial-ekonomi
                                             masyarakat serta rehabilitasi lingkungan yang rusak. Program rehabilitasi dan rekonstruksi dirancang dengan pendekatan berbasis s
                                             umber daya alam untuk memaksimalkan keberlanjutan, seperti penggunaan bahan bangunan lokal dan metode konstruksi yang ramah lingk
-                                            ungan. Selain itu, PSB IPB juga mengedepankan pemberdayaan masyarakat, dengan memberikan pelatihan keterampilan yang mendukung
-                                            ketahanan ekonomi serta pembangunan infrastruktur komunitas yang lebih kuat. PSB IPB berkomitmen untuk menjadikan masyarakat lebih
+                                            ungan. Selain itu, PSB IPB UNIVERSITY juga mengedepankan pemberdayaan masyarakat, dengan memberikan pelatihan keterampilan yang mendukung
+                                            ketahanan ekonomi serta pembangunan infrastruktur komunitas yang lebih kuat. PSB IPB UNIVERSITY berkomitmen untuk menjadikan masyarakat lebih
                                             tangguh dan siap menghadapi bencana di masa depan dengan membangun pemahaman dan keterampilan yang berkelanjutan.</p>
                                     </div>
 

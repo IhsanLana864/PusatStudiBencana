@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Dokumentasi - Pusat Studi Bencana IPB </title>
+<title>Dokumentasi - Pusat Studi Bencana IPB UNIVERSITY </title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="{{ asset('assets/images/favicon.ico') }}" type="image/x-icon">
@@ -52,7 +52,7 @@
 
 <!-- project-section -->
 <div class="sec-title dokumen">
-    <p>Pusat Studi Bencana IPB</p>
+    <p>Pusat Studi Bencana IPB UNIVERSITY</p>
     <h2>Dokumentasi</h2>
     <span class="separator"></span>
 </div>

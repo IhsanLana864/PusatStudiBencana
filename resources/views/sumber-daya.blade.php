@@ -102,7 +102,7 @@
     <section class="team-section team-page-section">
         <div class="auto-container">
             <div class="sec-title dokumen">
-                <p>Pusat Studi Bencana IPB</p>
+                <p>Pusat Studi Bencana IPB UNIVERSITY</p>
                 <h2>Team</h2>
                 <span class="separator"></span>
             </div>

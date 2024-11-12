@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Pusat Studi Bencana IPB </title>
+<title>Pusat Studi Bencana IPB UNIVERSITY </title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -62,7 +62,7 @@
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-research"></i></div>
                                 <h3><a href="service-details">Riset & Pengembangan</a></h3>
-                                <p>Pusat Studi Bencana IPB melakukan riset mendalam dalam bidang mitigasi dan respons bencana guna mendukung kebijakan berbasis bukti di Indonesia.</p>
+                                <p>Pusat Studi Bencana IPB UNIVERSITY melakukan riset mendalam dalam bidang mitigasi dan respons bencana guna mendukung kebijakan berbasis bukti di Indonesia.</p>
                                 <div class="link"><a href="service-details">Baca Selengkapnya <i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-laboratory-1"></i></div>
                                 <h3><a href="service-details">Kemitraan & Kolaborasi</a></h3>
-                                <p>Pusat Studi Bencana IPB aktif berkolaborasi dengan pemerintah, NGO, dan masyarakat dalam upaya kesiapsiagaan dan mitigasi bencana.</p>
+                                <p>Pusat Studi Bencana IPB UNIVERSITY aktif berkolaborasi dengan pemerintah, NGO, dan masyarakat dalam upaya kesiapsiagaan dan mitigasi bencana.</p>
                                 <div class="link"><a href="service-details">Baca Selengkapnya<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
@@ -137,7 +137,7 @@
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-test-tube"></i></div>
                                 <h3><a href="service-details">Pemantauan Bencana</a></h3>
-                                <p>Pusat Studi Bencana IPB berperan dalam pemantauan aktif dan analisis data untuk memperkirakan dan mengurangi dampak bencana.</p>
+                                <p>Pusat Studi Bencana IPB UNIVERSITY berperan dalam pemantauan aktif dan analisis data untuk memperkirakan dan mengurangi dampak bencana.</p>
                                 <div class="link"><a href="service-details">Baca Selengkapnya <i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>

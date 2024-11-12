@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Pusat Studi Bencana IPB</title>
+<title>Pusat Studi Bencana IPB UNIVERSITY</title>
 
 <!-- Fav Icon -->
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -38,7 +38,7 @@
                 <div class="image-layer" style="background-image:url(assets/images/banner/banner-1.jpg)"></div>
                 <div class="auto-container">
                     <div class="content-box">
-                        <h1>Pusat Studi Bencana IPB</h1>
+                        <h1>Pusat Studi Bencana IPB UNIVERSITY</h1>
                         {{-- <span class="separatorline"></span> --}}
                         <p>Lembaga Penelitian dan Pengabdian<br />Kepada Masyarakat</p>
                         <div class="btn-box">
@@ -51,7 +51,7 @@
                 <div class="image-layer" style="background-image:url(assets/images/banner/banner-2.jpg)"></div>
                 <div class="auto-container">
                     <div class="content-box">
-                        <h1>Pusat Studi Bencana IPB</h1>
+                        <h1>Pusat Studi Bencana IPB UNIVERSITY</h1>
                         <p>Lembaga Penelitian dan Pengabdian<br />Kepada Masyarakat</p>
                         <div class="btn-box">
                             <a href="contact" class="theme-btn">Hubungi Kami</a>
@@ -63,7 +63,7 @@
                 <div class="image-layer" style="background-image:url(assets/images/banner/banner-3.jpg)"></div>
                 <div class="auto-container">
                     <div class="content-box">
-                        <h1>Pusat Studi Bencana IPB</h1>
+                        <h1>Pusat Studi Bencana IPB UNIVERSITY</h1>
                         <p>Lembaga Penelitian dan Pengabdian<br />Kepada Masyarakat</p>
                         <div class="btn-box">
                             <a href="contact" class="theme-btn">Hubungi Kami</a>
@@ -93,14 +93,14 @@
                     <div id="content_block_01">
                         <div class="content-box">
                             <div class="sec-title left">
-                                <p>Pusat Studi Bencana IPB</p>
+                                <p>Pusat Studi Bencana IPB UNIVERSITY</p>
                                 <a href="index.html">
                                     <h2>Profil Sekilas</h2>
                                 </a>
                                 <span class="separator"></span>
                             </div>
                             <div class="text">
-                                <p>Pusat Studi Bencana (PSB) IPB University adalah lembaga di bawah naungan Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM)
+                                <p>Pusat Studi Bencana (PSB) IPB UNIVERSITY adalah lembaga di bawah naungan Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM)
                                     yang berfokus pada kajian penanggulangan bencana secara holistik. PSB bertujuan untuk mengembangkan strategi komprehensif
                                     dan integratif dalam meningkatkan efektivitas dan efisiensi penanggulangan bencana</p>
                             </div>
@@ -109,21 +109,21 @@
                                     <div class="count-box"><span>01</span></div>
                                     <div class="inner">
                                         <h3><a href="index">Kajian Penanggulangan Bencana</a></h3>
-                                        <p>PSB IPB mengkaji risiko bencana, analisis kerentanan, dan strategi mitigasi untuk memberikan rekomendasi kebijakan berbasis ilmiah yang bisa diterapkan oleh pemerintah dan masyarakat.</p>
+                                        <p>PSB IPB UNIVERSITY mengkaji risiko bencana, analisis kerentanan, dan strategi mitigasi untuk memberikan rekomendasi kebijakan berbasis ilmiah yang bisa diterapkan oleh pemerintah dan masyarakat.</p>
                                     </div>
                                 </div>
                                 <div class="single-item">
                                     <div class="count-box"><span>02</span></div>
                                     <div class="inner">
                                         <h3><a href="index">Pengembangan Strategi Komprehensif</a></h3>
-                                        <p>PSB IPB merancang strategi menyeluruh untuk penanggulangan bencana yang meliputi pencegahan, tanggap darurat, rehabilitasi, dan rekonstruksi, guna meningkatkan koordinasi dan efektivitas.</p>
+                                        <p>PSB IPB UNIVERSITY merancang strategi menyeluruh untuk penanggulangan bencana yang meliputi pencegahan, tanggap darurat, rehabilitasi, dan rekonstruksi, guna meningkatkan koordinasi dan efektivitas.</p>
                                     </div>
                                 </div>
                                 <div class="single-item">
                                     <div class="count-box"><span>03</span></div>
                                     <div class="inner">
                                         <h3><a href="index">Integrasi Ilmu Pengetahuan dan Teknologi</a></h3>
-                                        <p>PSB IPB memanfaatkan teknologi untuk pemantauan dan deteksi dini, serta mengembangkan metode inovatif untuk meningkatkan kesiapsiagaan dan respons terhadap bencana.</p>
+                                        <p>PSB IPB UNIVERSITY memanfaatkan teknologi untuk pemantauan dan deteksi dini, serta mengembangkan metode inovatif untuk meningkatkan kesiapsiagaan dan respons terhadap bencana.</p>
                                     </div>
                                 </div>
 
@@ -195,7 +195,7 @@
         <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-2.png);"></div>
         <div class="auto-container">
             <div class="sec-title">
-                <p>Pusat Studi Bencana IPB</p>
+                <p>Pusat Studi Bencana IPB UNIVERSITY</p>
                 <h2>Program Sekilas</h2>
                 <span class="separator"></span>
             </div>
@@ -206,7 +206,7 @@
                             <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
                             <div class="lower-content">
                                 <h3><a href="/tentang-kami">Pencegahan Bencana</a></h3>
-                                <p>PSB IPB mengembangkan program untuk mengurangi risiko dan dampak bencana melalui kajian kebijakan,
+                                <p>PSB IPB UNIVERSITY mengembangkan program untuk mengurangi risiko dan dampak bencana melalui kajian kebijakan,
                                 optimalisasi iptek, serta edukasi dan pelatihan masyarakat.</p>
                                 <div class="link"><a href="/tentang-kami">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
@@ -219,7 +219,7 @@
                             <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
                             <div class="lower-content">
                                 <h3><a href="/tentang-kami">Tanggap Darurat</a></h3>
-                                <p>PSB IPB aktif memberikan bantuan dan dukungan saat bencana, mengembangkan strategi berbasis masyarakat,
+                                <p>PSB IPB UNIVERSITY aktif memberikan bantuan dan dukungan saat bencana, mengembangkan strategi berbasis masyarakat,
                                 dan menyediakan pelatihan bagi relawan dan petugas.</p>
                                 <div class="link"><a href="/tentang-kami">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
@@ -232,7 +232,7 @@
                             <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
                             <div class="lower-content">
                                 <h3><a href="/tentang-kami">Rehabilitasi dan Rekonstruksi</a></h3>
-                                <p>PSB IPB fokus pada pemulihan pasca bencana dengan model berbasis sumber daya alam dan ekonomi lokal, serta pemberdayaan masyarakat.</p>
+                                <p>PSB IPB UNIVERSITY fokus pada pemulihan pasca bencana dengan model berbasis sumber daya alam dan ekonomi lokal, serta pemberdayaan masyarakat.</p>
                                 <div class="link"><a href="/tentang-kami">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
 
     <><!-- project-section -->
             <div class="sec-title dokumen">
-                <p>Pusat Studi Bencana IPB</p>
+                <p>Pusat Studi Bencana IPB UNIVERSITY</p>
                 <h2>Dokumentasi</h2>
                 <span class="separator"></span>
             </div>
@@ -554,7 +554,7 @@
     <!-- clients-section -->
     <section class="clients-section">
         <div class="sec-title dokumen">
-            <p>Pusat Studi Bencana IPB</p>
+            <p>Pusat Studi Bencana IPB UNIVERSITY</p>
             <h2>Media Patner</h2>
             <span class="separator"></span>
         </div>
@@ -620,7 +620,7 @@
                                     <li><i class="far fa-calendar-alt"></i>Jan 13, 2024</li>
                                 </ul>
                                 <h3><a href="/artikel">Strategi Pencegahan Bencana Berbasis Masyarakat</a></h3>
-                                <p>PSB IPB mengembangkan program pencegahan untuk mengurangi risiko bencana melalui edukasi dan teknologi.</p>
+                                <p>PSB IPB UNIVERSITY mengembangkan program pencegahan untuk mengurangi risiko bencana melalui edukasi dan teknologi.</p>
                             </div>
                             <div class="lower-box clearfix">
                                 <div class="link"><a href="/artikel">BACA SELENGKAPNYA</a></div>
@@ -646,7 +646,7 @@
                                     <li><i class="far fa-calendar-alt"></i>Jan 14, 2024</li>
                                 </ul>
                                 <h3><a href="/berita">Membangun Kapasitas Relawan Tanggap Darurat</a></h3>
-                                <p>PSB IPB menyediakan pelatihan untuk meningkatkan kemampuan relawan dalam penanganan bencana.</p>
+                                <p>PSB IPB UNIVERSITY menyediakan pelatihan untuk meningkatkan kemampuan relawan dalam penanganan bencana.</p>
                             </div>
                             <div class="lower-box clearfix">
                                 <div class="link"><a href="/berita">BACA SELENGKAPNYA</a></div>
@@ -672,7 +672,7 @@
                                     <li><i class="far fa-calendar-alt"></i>Jan 15, 2024</li>
                                 </ul>
                                 <h3><a href="/berita">Rehabilitasi Pasca-Bencana: Model Pemulihan Berkelanjutan</a></h3>
-                                <p>PSB IPB fokus pada upaya pemulihan pasca-bencana dengan memberdayakan masyarakat dan memanfaatkan sumber daya lokal.</p>
+                                <p>PSB IPB UNIVERSITY fokus pada upaya pemulihan pasca-bencana dengan memberdayakan masyarakat dan memanfaatkan sumber daya lokal.</p>
                             </div>
                             <div class="lower-box clearfix">
                                 <div class="link"><a href="/berita">BACA SELENGKAPNYA</a></div>
