@@ -9,14 +9,14 @@
                 <div class="top-inner clearfix">
                     <ul class="info top-left pull-left">
                         <li><i class="fas fa-phone-volume"></i><a href="tel:1234567890">0251-8319169</a></li>
-                        <li><i class="fas fa-envelope"></i><a href="psb.lppm@gmail.com">psb.lppm@gmail.com</a></li>
+                        <li><i class="fas fa-envelope"></i><a href="psb@apps.ipb.ac.id">psb@apps.ipb.ac.id</a></li>
                     </ul>
                     <ul class="top-right pull-right">
                         <li class="work-time"><i class="fas fa-clock"></i>Working Hours - Mon - Fri: 8:30 - 18:00</li>
                         <li class="social-links">
                             <ul class="clearfix">
                                 <li><a href="https://www.facebook.com/197139333803945/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="mailto:psb.lppm@gmail.com"><i class="fab fa-google-plus-g"></i></a></li>
+                                <li><a href="mailto:psb@apps.ipb.ac.id"><i class="fab fa-google-plus-g"></i></a></li>
                                 <li><a href="https://www.instagram.com/psb_ipb"><span class="fab fa-instagram"></span></a></li>
                                 <li><a href="https://x.com/IpbPsb"><i class="fab fa-twitter"></i></a></li>
                             </ul>
@@ -29,7 +29,7 @@
             <div class="auto-container">
                 <div class="outer-box clearfix">
                     <div class="logo-box pull-left">
-                        <figure class="logo"><a href="/index"><img src="assets/images/logo.png" alt=""></a></figure>
+                        <figure class="logo"><a href="/index"><img src="assets/images/logopsb.svg" alt=""></a></figure>
                     </div>
                     <div class="menu-area pull-right">
                         <!--Mobile Navigation Toggler-->
@@ -65,7 +65,7 @@
                                 </form>
                             @else
                                 <!-- Jika user belum login, tampilkan tombol Login -->
-                                <a href="{{ route('login') }}" class="theme-btn style-one">Login/Sign in</a>
+                                <a href="{{ route('login') }}" class="theme-btn style-one">Admin</a>
                             @endauth
                         </div>
 
@@ -93,7 +93,7 @@
                                 @csrf
                             </form>
                         @else
-                            <a href="{{ route('login') }}" class="theme-btn style-one">Login/Sign in</a>
+                            <a href="{{ route('login') }}" class="theme-btn style-one">Admin</a>
                         @endauth
                     </div>
 
@@ -117,13 +117,13 @@
                 <ul>
                     <li>Kampus IPB Baranangsiang beralamat di Jl. Raya Pajajaran, Bogor Tengah, Kota Bogor, Jawa Barat 16128</li>
                     <li><a href="tel:1234567890">0251-8319169</a></li>
-                    <li><a href="mailto:pusatstudibencanaipb@gmail.com">psb.lppm@gmail.com</a></li>
+                    <li><a href="mailto:pusatstudibencanaipb@gmail.com">psb@apps.ipb.ac.id</a></li>
                 </ul>
             </div>
             <div class="social-links">
                 <ul class="clearfix">
                     <li><a href="https://www.facebook.com/197139333803945/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                    <li><a href="mailto:psb.lppm@gmail.com"><i class="fab fa-google-plus-g"></i></a></li>
+                    <li><a href="mailto:psb@apps.ipb.ac.id"><i class="fab fa-google-plus-g"></i></a></li>
                     <li><a href="https://www.instagram.com/psb_ipb"><span class="fab fa-instagram"></span></a></li>
                     <li><a href="https://x.com/IpbPsb"><i class="fab fa-twitter"></i></a></li>
                 </ul>

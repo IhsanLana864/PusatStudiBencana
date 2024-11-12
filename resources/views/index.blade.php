@@ -35,10 +35,10 @@
     <section class="banner-style-three">
         <div class="banner-carousel owl-theme owl-carousel owl-nav-none owl-dots-none">
             <div class="slide-item">
-                <div class="image-layer" style="background-image:url(assets/images/banner/banner-1.jpg)"></div>
+                <div class="image-layer" style="background-image:url(assets/images/banner/BannerPSB.png)"></div>
                 <div class="auto-container">
                     <div class="content-box">
-                        <h1>Pusat Studi Bencana IPB UNIVERSITY</h1>
+                        <h1>Pusat Studi Bencana </br> IPB University</h1>
                         {{-- <span class="separatorline"></span> --}}
                         <p>Lembaga Penelitian dan Pengabdian<br />Kepada Masyarakat</p>
                         <div class="btn-box">
@@ -48,10 +48,10 @@
                 </div>
             </div>
             <div class="slide-item">
-                <div class="image-layer" style="background-image:url(assets/images/banner/banner-2.jpg)"></div>
+                <div class="image-layer" style="background-image:url(assets/images/banner/BannerPSB.png)"></div>
                 <div class="auto-container">
                     <div class="content-box">
-                        <h1>Pusat Studi Bencana IPB UNIVERSITY</h1>
+                        <h1>Pusat Studi Bencana </br> IPB University</h1>
                         <p>Lembaga Penelitian dan Pengabdian<br />Kepada Masyarakat</p>
                         <div class="btn-box">
                             <a href="contact" class="theme-btn">Hubungi Kami</a>
@@ -60,10 +60,10 @@
                 </div>
             </div>
             <div class="slide-item">
-                <div class="image-layer" style="background-image:url(assets/images/banner/banner-3.jpg)"></div>
+                <div class="image-layer" style="background-image:url(assets/images/banner/BannerPSB.png)"></div>
                 <div class="auto-container">
                     <div class="content-box">
-                        <h1>Pusat Studi Bencana IPB UNIVERSITY</h1>
+                        <h1>Pusat Studi Bencana </br> IPB University</h1>
                         <p>Lembaga Penelitian dan Pengabdian<br />Kepada Masyarakat</p>
                         <div class="btn-box">
                             <a href="contact" class="theme-btn">Hubungi Kami</a>
@@ -400,7 +400,7 @@
             <div class="testimonial-content">
                 <div class="inner-box">
                     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-4.png);"></div>
-                    <figure class="image-box"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
+                    <figure class="image-box"><img src="assets/images/fotobapak.jpg" alt=""></figure>
                     <p>Pelayanan yang sangat memuaskan! Tim Pusat Studi Bencana sangat profesional dan responsif terhadap setiap pertanyaan yang saya ajukan.</p>
                     <div class="icon-box"><i class="flaticon-right-quotation-mark"></i></div>
                     <h3>Rina Sari</h3>
@@ -555,7 +555,7 @@
     <section class="clients-section">
         <div class="sec-title dokumen">
             <p>Pusat Studi Bencana IPB UNIVERSITY</p>
-            <h2>Media Patner</h2>
+            <h2>Media Partner</h2>
             <span class="separator"></span>
         </div>
         <div class="auto-container">

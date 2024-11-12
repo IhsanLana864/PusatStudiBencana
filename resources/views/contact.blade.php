@@ -109,14 +109,14 @@
                             <li>
                                 <div class="icon-box"><i class="flaticon-worldwide"></i></div>
                                 <h5>Alamat</h5>
-                                <p>Gedung LPPM, IPB University, Kampus IPB Baranangsiang.</p>
+                                <p>Kantor Pusat Studi Bencana IPB University, Kampus Baranangsiang , Jl. Raya Padjajaran, Bogor 16144 </p>
                             </li>
                         </ul>
                         <div class="follow-box">
                             <h5>Ikuti Kami:</h5>
                             <ul class="social-links clearfix">
                                 <li><a href="https://www.facebook.com/197139333803945/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="mailto:psb.lppm@gmail.com"><i class="fab fa-google-plus-g"></i></a></li>
+                                <li><a href="mailto:psb@apps.ipb.ac.id"><i class="fab fa-google-plus-g"></i></a></li>
                                 <li><a href="https://www.instagram.com/psb_ipb"><span class="fab fa-instagram"></span></a></li>
                                 <li><a href="https://x.com/IpbPsb"><i class="fab fa-twitter"></i></a></li>
                             </ul>

@@ -36,7 +36,7 @@
             <div class="card-body">
 
                 <div class="text-center">
-                    <a href="/login" class="logo logo-admin"><img src="assets/images/logopsbbiru.png" height="20" alt="logo"></a>
+                    <a href="/login" class="logo logo-admin"><img src="assets/images/LogoPSB.png" height="20" alt="logo"></a>
                 </div>
 
                 <div class="px-3 pb-3">
@@ -63,13 +63,13 @@
 
                         <div class="form-group m-t-10 mb-0 row">
                             <div class="col-sm-7 m-t-20">
-                                <a href="/login/recovery" class="text-muted"><i class="mdi mdi-lock"></i> <small>Forgot your password ?</small></a>
+                                {{-- <a href="/login/recovery" class="text-muted"><i class="mdi mdi-lock"></i> <small>Forgot your password ?</small></a> --}}
                             </div>
-                            <div class="col-sm-5 m-t-20">
+                            {{-- <div class="col-sm-5 m-t-20">
                             <a href="{{ route('register') }}" class="text-muted">
                                 <i class="mdi mdi-account-circle"></i>
                                 <small>Create an account?</small>
-                            </a>
+                            </a> --}}
                         </div>
 
                         </div>
