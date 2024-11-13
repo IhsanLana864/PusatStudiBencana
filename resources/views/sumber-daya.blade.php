@@ -30,7 +30,7 @@
 
 @include('layouts.navbar')
     <!--Page Title-->
-    <section class="page-title" style="background-image: url(assets/images/background/page-title-2.jpg);">
+    <section class="page-title" style="background-image: url(assets/images/banner/BannerPSB.png);">
         <div class="auto-container">
             <div class="row clearfix">
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
@@ -60,7 +60,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/sumber1.jpg" alt=""></a></figure>
                             <div class="lower-content">
                                 <h3><a href="service-details">Penelitian Kebencanaan</a></h3>
                                 <p>Melakukan penelitian mendalam terkait bencana alam dan dampaknya untuk meningkatkan kesiapsiagaan masyarakat.</p>
@@ -72,7 +72,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/sumber2.jpg" alt=""></a></figure>
                             <div class="lower-content">
                                 <h3><a href="service-details">Pendidikan Kebencanaan</a></h3>
                                 <p>Menyediakan pelatihan dan pendidikan untuk meningkatkan pengetahuan masyarakat mengenai penanggulangan bencana.</p>
@@ -84,7 +84,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="service-details"><img src="assets/images/service/sumber3.jpg" alt=""></a></figure>
                             <div class="lower-content">
                                 <h3><a href="service-details">Pengabdian Masyarakat</a></h3>
                                 <p>Bekerja sama dengan masyarakat untuk membantu dalam mitigasi dan kesiapsiagaan menghadapi potensi bencana.</p>

@@ -1977,12 +1977,16 @@ h3 a {
 .service-block-one .image-box {
     position: relative;
     display: block;
+    width: 370px;
+    height: 270px;
     overflow: hidden;
     background: #2e3192;
 }
 
 .service-block-one .image-box img {
     width: 100%;
+    height: 100%;
+    object-fit: cover;
     transition: all 500ms ease;
 }
 
@@ -5398,8 +5402,16 @@ h4 a {
     overflow: hidden;
 }
 
+.service-block-four .inner-box .image-box {
+    width: 370px;
+    height: 270px;
+    overflow: hidden; /* Menyembunyikan bagian gambar yang melebihi kotak */
+}
+
 .service-block-four .inner-box .image-box img {
     width: 100%;
+    height: 100%; /* Mengisi tinggi kotak */
+    object-fit: cover; /* Mengisi penuh kotak tanpa memperhatikan rasio aspek */
     transition: all 500ms ease;
 }
 
@@ -6342,7 +6354,7 @@ h4 a {
 
 .shediul-section {
     position: relative;
-    padding: 110px 0px 120px 0px;
+    padding: 60px 0px 60px 0px;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -6362,6 +6374,9 @@ h4 a {
     opacity: 0.9;
 }
 
+.shediul-section .content-box{
+    margin-top: 40px;
+}
 .shediul-section .content-box h2 {
     position: relative;
     font-size: 40px;
@@ -6403,12 +6418,11 @@ h4 a {
 }
 
 .shediul-section .shediul-inner .shediul-box {
-    position: absolute;
-    left: 0px;
-    top: 0px;
+    position: relative; /* Mengubah dari absolute ke relative */
     width: 100%;
+    margin-top: 20px;
     background: #f2f8ff;
-    padding: 74px 50px 80px 50px;
+    padding: 30px 50px 30px 50px;
     z-index: 1;
 }
 

@@ -31,7 +31,7 @@
 @include('layouts.navbar')
 
     <!--Page Title-->
-    <section class="page-title" style="background-image: url(assets/images/background/page-title.jpg);">
+    <section class="page-title" style="background-image: url(assets/images/banner/BannerPSB.png">
         <div class="auto-container">
             <div class="row clearfix">
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
@@ -57,7 +57,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                 <div class="service-block-four wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/tentang1.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-research"></i></div>
@@ -72,7 +72,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                 <div class="service-block-four wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/tentang2.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-test-tube"></i></div>
@@ -87,7 +87,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                 <div class="service-block-four wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/tentang3.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-microscope"></i></div>
@@ -102,7 +102,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                 <div class="service-block-four wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-8.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/tentang4.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-laboratory-1"></i></div>
@@ -117,7 +117,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                 <div class="service-block-four wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-5.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/tentang5.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-biology"></i></div>
@@ -132,7 +132,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                 <div class="service-block-four wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/service-6.jpg" alt=""></a></figure>
+                        <figure class="image-box"><a href="service-details"><img src="assets/images/service/tentang6.jpg" alt=""></a></figure>
                         <div class="lower-content">
                             <div class="inner">
                                 <div class="icon-box"><i class="flaticon-test-tube"></i></div>
@@ -151,7 +151,7 @@
 
 
  <!-- shediul-section -->
-<section class="shediul-section" style="background-image: url(assets/images/background/shediul-bg.jpg);">
+<section class="shediul-section" style="background-image: url(assets/images/banner/BannerPSB.png);">
     <div class="auto-container">
         <div class="row clearfix">
             <div class="col-lg-7 col-md-12 col-sm-12 content-column">
@@ -188,104 +188,6 @@
 </section>
 <!-- shediul-section end -->
 
-
-    <!-- clients-section -->
-    <section class="clients-section alternet-3">
-        <div class="auto-container">
-            <div class="inner-container">
-                <div class="row clearfix">
-                    <div class="col-lg-7 col-md-12 col-sm-12 inner-column">
-                        <div class="clients-carousel-2 owl-carousel owl-theme owl-dots-none owl-nav-none">
-                            <figure class="client-logo">
-                                <a href="#"><img src="assets/images/clients/brand-1.png" alt="Awesome Image"></a>
-                                <div class="overlay-box">
-                                    <a href="#"><img src="assets/images/clients/overlay-brand-1.png" alt="Awesome Image"></a>
-                                </div>
-                            </figure>
-                            <figure class="client-logo">
-                                <a href="#"><img src="assets/images/clients/brand-2.png" alt="Awesome Image"></a>
-                                <div class="overlay-box">
-                                    <a href="#"><img src="assets/images/clients/overlay-brand-2.png" alt="Awesome Image"></a>
-                                </div>
-                            </figure>
-                            <figure class="client-logo">
-                                <a href="#"><img src="assets/images/clients/brand-3.png" alt="Awesome Image"></a>
-                                <div class="overlay-box">
-                                    <a href="#"><img src="assets/images/clients/overlay-brand-3.png" alt="Awesome Image"></a>
-                                </div>
-                            </figure>
-                            <figure class="client-logo">
-                                <a href="#"><img src="assets/images/clients/brand-4.png" alt="Awesome Image"></a>
-                                <div class="overlay-box">
-                                    <a href="#"><img src="assets/images/clients/overlay-brand-4.png" alt="Awesome Image"></a>
-                                </div>
-                            </figure>
-                            <figure class="client-logo">
-                                <a href="#"><img src="assets/images/clients/brand-5.png" alt="Awesome Image"></a>
-                                <div class="overlay-box">
-                                    <a href="#"><img src="assets/images/clients/overlay-brand-5.png" alt="Awesome Image"></a>
-                                </div>
-                            </figure>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- clients-section end -->
-
-
-    <!-- appointment-section -->
-    <section class="appointment-section">
-        <figure class="image-layer wow slideInUp" data-wow-delay="00ms" data-wow-duration="1500ms"><img src="assets/images/resource/women-1.png" alt=""></figure>
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
-                    <div id="content_block_04">
-                        <div class="form-inner">
-                            <div class="sec-title left">
-                                <p>Formulir Komentar Pengguna</p>
-                                <h2>Berikan Pendapat Anda</h2>
-                                <span class="separator"></span>
-                            </div>
-                            <form action="{{ route('komentar.store') }}" method="POST" class="appointment-form">
-                                @csrf
-                                <div class="form-group">
-                                    <i class="fas fa-user"></i>
-                                    <input type="text" name="nama" placeholder="Nama" required>
-                                </div>
-                                <div class="form-group">
-                                    <i class="fas fa-envelope"></i>
-                                    <input type="email" name="email" placeholder="Email" required>
-                                </div>
-                                <div class="form-group">
-                                    <i class="fas fa-file-alt"></i>
-                                    <input type="text" name="subjek" placeholder="Subjek" required>
-                                </div>
-                                <div class="form-group">
-                                    <textarea name="pendapat" placeholder="Beritahu kami tentang pendapat Anda" required></textarea>
-                                </div>
-                                <div class="form-group message-btn">
-                                    <button type="submit" class="theme-btn style-one">Kirim Komentar</button>
-                                </div>
-                            </form>
-                                <div class="form-group">
-                                    <div class="custom-controls-stacked">
-                                        <label class="custom-control material-checkbox">
-                                            <input type="checkbox" class="material-control-input">
-                                            <span class="material-control-indicator"></span>
-                                            <span class="description">Saya setuju bahwa data yang saya kirimkan dikumpulkan dan disimpan.</span>
-                                        </label>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- appointment-section end -->
 
 
 @include('layouts.footer')

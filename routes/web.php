@@ -41,7 +41,6 @@ Route::get('/docum', [DokumentasiUserController::class, 'index'])->name('dokumen
 Route::post('/komentar', [KomentarController::class, 'store'])->name('komentar.store');
 
 
-
 Route::get('/berita', function () {
     return view('berita');
 });
