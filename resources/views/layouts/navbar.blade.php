@@ -29,7 +29,7 @@
             <div class="auto-container">
                 <div class="outer-box clearfix">
                     <div class="logo-box pull-left">
-                        <figure class="logo"><a href="/index"><img src="assets/images/logopsb.svg" alt=""></a></figure>
+                        <figure class="logo"><a href="/index"><img src="assets/images/logopsbnav.png" alt=""></a></figure>
                     </div>
                     <div class="menu-area pull-right">
                         <!--Mobile Navigation Toggler-->
@@ -80,7 +80,7 @@
             <div class="auto-container">
                 <div class="outer-box clearfix">
                     <div class="logo-box pull-left">
-                        <figure class="logo"><a href="/index"><img src="assets/images/small-logo.png" alt=""></a></figure>
+                        <figure class="logo"><a href="/index"><img src="assets/images/logopsbnav.png" alt=""></a></figure>
                     </div>
                     <div class="menu-area pull-right">
                         <nav class="main-menu clearfix">

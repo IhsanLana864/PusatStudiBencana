@@ -84,7 +84,7 @@
                     <div id="image_block_01">
                         <div class="image-box">
                             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                            <figure class="image"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                            <figure class="image"><img src="assets/images/resource/profilesekilas.png" alt=""></figure>
                         </div>
 
                     </div>
@@ -203,12 +203,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-1.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="/publikasi"><img src="assets/images/service/pencegahanbencana.png" alt="pencegahanbencana"></a></figure>
                             <div class="lower-content">
-                                <h3><a href="/tentang-kami">Pencegahan Bencana</a></h3>
+                                <h3><a href="/publikasi">Pencegahan Bencana</a></h3>
                                 <p>PSB IPB UNIVERSITY mengembangkan program untuk mengurangi risiko dan dampak bencana melalui kajian kebijakan,
                                 optimalisasi iptek, serta edukasi dan pelatihan masyarakat.</p>
-                                <div class="link"><a href="/tentang-kami">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <div class="link"><a href="/publikasi">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -216,12 +216,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-2.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="/publikasi"><img src="assets/images/service/tanggap darurat.png" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="/tentang-kami">Tanggap Darurat</a></h3>
+                                <h3><a href="/publikasi">Tanggap Darurat</a></h3>
                                 <p>PSB IPB UNIVERSITY aktif memberikan bantuan dan dukungan saat bencana, mengembangkan strategi berbasis masyarakat,
                                 dan menyediakan pelatihan bagi relawan dan petugas.</p>
-                                <div class="link"><a href="/tentang-kami">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <div class="link"><a href="/publikasi">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -229,11 +229,11 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                     <div class="service-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="inner-box">
-                            <figure class="image-box"><a href="/tentang-kami"><img src="assets/images/service/service-3.jpg" alt=""></a></figure>
+                            <figure class="image-box"><a href="/publikasi"><img src="assets/images/service/Rekonstruksi.png" alt=""></a></figure>
                             <div class="lower-content">
-                                <h3><a href="/tentang-kami">Rehabilitasi dan Rekonstruksi</a></h3>
+                                <h3><a href="/publikasi">Rehabilitasi dan Rekonstruksi</a></h3>
                                 <p>PSB IPB UNIVERSITY fokus pada pemulihan pasca bencana dengan model berbasis sumber daya alam dan ekonomi lokal, serta pemberdayaan masyarakat.</p>
-                                <div class="link"><a href="/tentang-kami">Read More<i class="fas fa-angle-double-right"></i></a></div>
+                                <div class="link"><a href="/publikasi">Read More<i class="fas fa-angle-double-right"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -303,7 +303,7 @@
                                 <div class="inner-box">
                                     <div class="line-one"></div>
                                     <div class="line-two"></div>
-                                    <figure class="image-box"><img src="assets/images/gallery/project-1.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/gallery/pencegahanbencana.png" alt=""></figure>
                                     <div class="content-box">
                                         <h3><a href="/docum">PENCEGAHAN BENCANA</a></h3>
                                         <span>Program Pengurangan Risiko Bencana</span>
@@ -316,7 +316,7 @@
                                 <div class="inner-box">
                                     <div class="line-one"></div>
                                     <div class="line-two"></div>
-                                    <figure class="image-box"><img src="assets/images/gallery/project-2.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/gallery/tanggapdarurat.png" alt=""></figure>
                                     <div class="content-box">
                                         <h3><a href="/docum">TANGGAP DARURAT</a></h3>
                                         <span>Program Dukungan dan Bantuan Bencana</span>
@@ -329,7 +329,7 @@
                                 <div class="inner-box">
                                     <div class="line-one"></div>
                                     <div class="line-two"></div>
-                                    <figure class="image-box"><img src="assets/images/gallery/project-3.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/gallery/Rekontruksi.png" alt=""></figure>
                                     <div class="content-box">
                                         <h3><a href="/docum">REHABILITASI & REKONSTRUKSI</a></h3>
                                         <span>Program Pemulihan Pasca-Bencana</span>
@@ -342,7 +342,7 @@
                                 <div class="inner-box">
                                     <div class="line-one"></div>
                                     <div class="line-two"></div>
-                                    <figure class="image-box"><img src="assets/images/gallery/project-4.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/gallery/pelajaran.png" alt=""></figure>
                                     <div class="content-box">
                                         <h3><a href="/docum">EDUKASI & PELATIHAN</a></h3>
                                         <span>Program Kesiapsiagaan Bencana</span>
@@ -355,7 +355,7 @@
                                 <div class="inner-box">
                                     <div class="line-one"></div>
                                     <div class="line-two"></div>
-                                    <figure class="image-box"><img src="assets/images/gallery/project-5.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/gallery/kolaborasi.png" alt=""></figure>
                                     <div class="content-box">
                                         <h3><a href="/docum">KOLABORASI</a></h3>
                                         <span>Kerja Sama dengan Mitra Lokal dan Internasional</span>
@@ -368,7 +368,7 @@
                                 <div class="inner-box">
                                     <div class="line-one"></div>
                                     <div class="line-two"></div>
-                                    <figure class="image-box"><img src="assets/images/gallery/project-6.jpg" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/gallery/penelitian.png" alt=""></figure>
                                     <div class="content-box">
                                         <h3><a href="/docum">PENELITIAN</a></h3>
                                         <span>Studi Penanggulangan Bencana yang Berbasis Bukti</span>
