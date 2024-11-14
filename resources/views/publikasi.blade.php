@@ -31,7 +31,7 @@
 @include('layouts.navbar')
 
 <!--Page Title-->
-<section class="page-title" style="background-image: url(assets/images/background/page-title.jpg);">
+<section class="page-title" style="background-image: url(assets/images/banner/BannerPSB.png");">
     <div class="auto-container">
         <div class="row clearfix">
             <div class="col-lg-8 col-md-12 col-sm-12 content-column">
