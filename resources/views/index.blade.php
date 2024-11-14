@@ -397,56 +397,18 @@
             <span class="separator"></span>
         </div>
         <div class="testimonial-carousel owl-carousel owl-theme owl-nav-none">
+            @foreach ($komentars as $komentar)
             <div class="testimonial-content">
                 <div class="inner-box">
                     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-4.png);"></div>
                     <figure class="image-box"><img src="assets/images/fotobapak.jpg" alt=""></figure>
-                    <p>Pelayanan yang sangat memuaskan! Tim Pusat Studi Bencana sangat profesional dan responsif terhadap setiap pertanyaan yang saya ajukan.</p>
+                    <p>{{ $komentar->pendapat }}</p>
                     <div class="icon-box"><i class="flaticon-right-quotation-mark"></i></div>
-                    <h3>Rina Sari</h3>
-                    <span class="designation">Konsultan Bencana</span>
+                    <h3>{{ $komentar->nama }}</h3>
+                    <span class="designation">{{ $komentar->subjek }}</span>
                 </div>
             </div>
-            <div class="testimonial-content">
-                <div class="inner-box">
-                    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-4.png);"></div>
-                    <figure class="image-box"><img src="assets/images/resource/testimonial-2.jpg" alt=""></figure>
-                    <p>Saya sangat terbantu dengan program yang ditawarkan. Pusat Studi Bencana memiliki pengetahuan yang mendalam dan sangat aplikatif.</p>
-                    <div class="icon-box"><i class="flaticon-right-quotation-mark"></i></div>
-                    <h3>Andi Prabowo</h3>
-                    <span class="designation">Aktivis Lingkungan</span>
-                </div>
-            </div>
-            <div class="testimonial-content">
-                <div class="inner-box">
-                    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-4.png);"></div>
-                    <figure class="image-box"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
-                    <p>Program pelatihan yang diselenggarakan sangat berguna bagi kami. Saya merekomendasikan Pusat Studi Bencana untuk semua pihak yang ingin belajar lebih banyak tentang manajemen bencana.</p>
-                    <div class="icon-box"><i class="flaticon-right-quotation-mark"></i></div>
-                    <h3>Fatmawati</h3>
-                    <span class="designation">Relawan Bencana</span>
-                </div>
-            </div>
-            <div class="testimonial-content">
-                <div class="inner-box">
-                    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-4.png);"></div>
-                    <figure class="image-box"><img src="assets/images/resource/testimonial-2.jpg" alt=""></figure>
-                    <p>Pusat Studi Bencana memberikan informasi yang sangat berguna dan relevan. Saya merasa lebih siap menghadapi potensi bencana setelah mengikuti seminar mereka.</p>
-                    <div class="icon-box"><i class="flaticon-right-quotation-mark"></i></div>
-                    <h3>Budi Santoso</h3>
-                    <span class="designation">Petugas Pemadam Kebakaran</span>
-                </div>
-            </div>
-            <div class="testimonial-content">
-                <div class="inner-box">
-                    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-4.png);"></div>
-                    <figure class="image-box"><img src="assets/images/resource/testimonial-1.jpg" alt=""></figure>
-                    <p>Kerja sama dengan Pusat Studi Bencana sangat menguntungkan bagi organisasi kami. Tim mereka sangat membantu dan berpengalaman.</p>
-                    <div class="icon-box"><i class="flaticon-right-quotation-mark"></i></div>
-                    <h3>Rudi Hartono</h3>
-                    <span class="designation">Manajer Proyek</span>
-                </div>
-            </div>
+            @endforeach
         </div>
     </div>
 </section>

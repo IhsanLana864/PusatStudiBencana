@@ -31,9 +31,9 @@ class KomentarController extends Controller
     }
 
     public function index()
-{
-    $komentars = Komentar::all();
-    return view('admin.komentar', compact('komentars'));
-}
+    {
+        $komentars = Komentar::all();
+        return view('admin.komentar', compact('komentars'));
+    }
 
 }
