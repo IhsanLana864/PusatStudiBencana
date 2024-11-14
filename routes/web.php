@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\Komentar;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\LoginController;
@@ -23,7 +24,8 @@ use App\Http\Controllers\KomentarController;
 
 // Routes Tampilan
 Route::get('/', function () {
-    return view('index');
+    $komentars = Komentar::all();
+    return view('index', compact('komentars'));
 });
 Route::get('/index', function () {
     return view('index');
