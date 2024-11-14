@@ -28,7 +28,8 @@ Route::get('/', function () {
     return view('index', compact('komentars'));
 });
 Route::get('/index', function () {
-    return view('index');
+    $komentars = Komentar::all();
+    return view('index', compact('komentars'));
 });
 
 //routes dinamis publikasi

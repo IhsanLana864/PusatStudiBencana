@@ -8,7 +8,7 @@
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                         <div class="footer-widget logo-widget">
-                            <figure class="footer-logo"><a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a></figure>
+                            <figure class="footer-logo"><a href="index.html"><img src="assets/images/logo-psb1.png" alt=""></a></figure>
                             <div class="text">
                                 <p>Kami menyediakan solusi sempurna untuk semua jenis penanggulangan bencana dan manajemen berbasis penelitian. Paket lengkap untuk layanan terbaik dalam penanggulangan bencana.</p>
                             </div>

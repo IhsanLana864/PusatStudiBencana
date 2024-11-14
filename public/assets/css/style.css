@@ -829,14 +829,18 @@ img {
 .main-header.style-one .logo-box {
     position: relative;
     padding: 35px 50px 34px 0px;
-    background: #f5f5f5;
+    background: #ffffff;
     z-index: 1;
+}
+.logo img {
+    max-width: 200px;
+    height: auto;
 }
 
 .main-header.style-one .logo-box:before {
     position: absolute;
     content: "";
-    background: #f5f5f5;
+    background: #ffffff;
     width: 5000px;
     height: 100%;
     top: 0px;

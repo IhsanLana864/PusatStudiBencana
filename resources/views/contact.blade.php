@@ -70,32 +70,38 @@
                         <span class="separator"></span>
                     </div>
                     {{-- <form method="#" action="#" id="contact-form" class="contact-form"> --}}
-                    <form action="sendemail.php" id="contact-form" class="contact-form">
-                        <div class="row clearfix">
-                            <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                <input type="text" name="username" placeholder="Your Name" required="">
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                <input type="email" name="email" placeholder="Email" required="">
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                <input type="text" name="subject" placeholder="Subject" required="">
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                                <input type="text" name="phone" placeholder="Phone" required>
-                            </div>
-                            <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                <textarea name="message" placeholder="Message"></textarea>
-                            </div>
-                            <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
-                                <button class="theme-btn style-one" name="submit-form">Coming
-                                {{-- <button type="submit" class="theme-btn style-one" name="submit-form">Coming --}}
-                                    soon</button>
-                                {{-- Kirim
-                                    Sekarang --}}
-                            </div>
+                    <form action="#" id="contact-form" class="contact-form" onsubmit="return handleFormSubmit(event)">
+                    <div class="row clearfix">
+                        <!-- Form fields as before -->
+                        <div class="col-lg-6 col-md-12 col-sm-12 form-group">
+                            <input type="text" name="username" placeholder="Your Name" required>
                         </div>
-                    </form>
+                        <div class="col-lg-6 col-md-12 col-sm-12 form-group">
+                            <input type="email" name="email" placeholder="Email" required>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 form-group">
+                            <input type="text" name="subject" placeholder="Subject" required>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 form-group">
+                            <input type="text" name="phone" placeholder="Phone" required>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                            <textarea name="message" placeholder="Message"></textarea>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
+                            <button class="theme-btn style-one" name="submit-form">Coming soon</button>
+                        </div>
+                    </div>
+                </form>
+
+                <script>
+                    function handleFormSubmit(event) {
+                        event.preventDefault(); // Mencegah pengiriman form
+                        window.location.href = '/contact'; // Mengarahkan ke halaman /contact
+                        return false;
+                    }
+                </script>
+
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-12 info-column">
