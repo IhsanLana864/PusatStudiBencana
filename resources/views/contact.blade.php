@@ -38,7 +38,7 @@
 
 
 <!--Page Title-->
-<section class="page-title" style="background-image: url(assets/images/background/page-title-2.jpg);">
+<section class="page-title" style="background-image: url(assets/images/banner/BannerPSB.png);">
     <div class="auto-container">
         <div class="row clearfix">
             <div class="col-lg-8 col-md-12 col-sm-12 content-column">
@@ -69,7 +69,8 @@
                         <h2>Kami Senang Mendengar Dari Anda.</h2>
                         <span class="separator"></span>
                     </div>
-                    <form method="post" action="sendemail.php" id="contact-form" class="contact-form">
+                    {{-- <form method="#" action="#" id="contact-form" class="contact-form"> --}}
+                    <form action="sendemail.php" id="contact-form" class="contact-form">
                         <div class="row clearfix">
                             <div class="col-lg-6 col-md-12 col-sm-12 form-group">
                                 <input type="text" name="username" placeholder="Your Name" required="">
@@ -87,8 +88,11 @@
                                 <textarea name="message" placeholder="Message"></textarea>
                             </div>
                             <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
-                                <button type="submit" class="theme-btn style-one" name="submit-form">Kirim
-                                    Sekarang</button>
+                                <button class="theme-btn style-one" name="submit-form">Coming
+                                {{-- <button type="submit" class="theme-btn style-one" name="submit-form">Coming --}}
+                                    soon</button>
+                                {{-- Kirim
+                                    Sekarang --}}
                             </div>
                         </div>
                     </form>

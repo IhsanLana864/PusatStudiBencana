@@ -523,35 +523,47 @@
         <div class="auto-container">
             <div class="clients-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
                 <figure class="client-logo">
-                    <a href="#"><img src="assets/images/clients/brand-1.png" alt="Awesome Image"></a>
-                    <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-1.png" alt="Awesome Image"></a>
-                    </div>
+                    <a href="#"><img src="assets/images/clients/ipbtv.png" alt="Awesome Image"></a>
+                    {{-- <div class="overlay-box">
+                        <a href="#"><img src="assets/images/clients/ipbtv.png" alt="Awesome Image"></a>
+                    </div> --}}
                 </figure>
                 <figure class="client-logo">
-                    <a href="#"><img src="assets/images/clients/brand-2.png" alt="Awesome Image"></a>
-                    <div class="overlay-box">
-                        <a href="#"><img src="assets/images/clients/overlay-brand-2.png" alt="Awesome Image"></a>
-                    </div>
+                    <a href="#"><img src="assets/images/clients/rribogor.png" alt="Awesome Image"></a>
+                    {{-- <div class="overlay-box">
+                        <a href="#"><img src="assets/images/clients/rribogor.png" alt="Awesome Image"></a>
+                    </div> --}}
                 </figure>
                 <figure class="client-logo">
-                    <a href="#"><img src="assets/images/clients/brand-3.png" alt="Awesome Image"></a>
-                    <div class="overlay-box">
+                    <a href="#"><img src="assets/images/clients/tempo.png" alt="Awesome Image"></a>
+                    {{-- <div class="overlay-box">
                         <a href="#"><img src="assets/images/clients/overlay-brand-3.png" alt="Awesome Image"></a>
-                    </div>
+                    </div> --}}
                 </figure>
                 <figure class="client-logo">
-                    <a href="#"><img src="assets/images/clients/brand-4.png" alt="Awesome Image"></a>
-                    <div class="overlay-box">
+                    <a href="#"><img src="assets/images/clients/kompas.png" alt="Awesome Image"></a>
+                    {{-- <div class="overlay-box">
                         <a href="#"><img src="assets/images/clients/overlay-brand-4.png" alt="Awesome Image"></a>
-                    </div>
+                    </div> --}}
                 </figure>
                 <figure class="client-logo">
-                    <a href="#"><img src="assets/images/clients/brand-5.png" alt="Awesome Image"></a>
-                    <div class="overlay-box">
+                    <a href="#"><img src="assets/images/clients/kompasc.png" alt="Awesome Image"></a>
+                    {{-- <div class="overlay-box">
                         <a href="#"><img src="assets/images/clients/overlay-brand-5.png" alt="Awesome Image"></a>
-                    </div>
+                    </div> --}}
                 </figure>
+                <figure class="client-logo">
+                    <a href="#"><img src="assets/images/clients/detik.png" alt="Awesome Image"></a>
+                </figure>
+                <figure class="client-logo">
+                    <a href="#"><img src="assets/images/clients/sv.png" alt="Awesome Image"></a>
+                </figure>
+                <figure class="client-logo">
+                    <a href="#"><img src="assets/images/clients/ipbytoday.png" alt="Awesome Image"></a>
+                </figure>
+                <figure class="client-logo">
+                    <a href="#"><img src="assets/images/clients/rribogor.png" alt="Awesome Image"></a>
+                </figure> --}}
             </div>
         </div>
     </section>
@@ -572,7 +584,7 @@
                         <figure class="image-box">
                             <div class="overlay-box-1"></div>
                             <div class="overlay-box-2"></div>
-                            <img src="assets/images/news/news-1.jpg" alt="">
+                            <img src="assets/images/news/newfix.png" alt="">
                             <a href="/berita"><i class="fas fa-link"></i></a>
                         </figure>
                         <div class="lower-content">
@@ -598,7 +610,7 @@
                         <figure class="image-box">
                             <div class="overlay-box-1"></div>
                             <div class="overlay-box-2"></div>
-                            <img src="assets/images/news/news-2.jpg" alt="">
+                            <img src="assets/images/news/rehab.png" alt="">
                             <a href="/berita"><i class="fas fa-link"></i></a>
                         </figure>
                         <div class="lower-content">
@@ -624,7 +636,7 @@
                         <figure class="image-box">
                             <div class="overlay-box-1"></div>
                             <div class="overlay-box-2"></div>
-                            <img src="assets/images/news/news-3.jpg" alt="">
+                            <img src="assets/images/news/darurat.png" alt="">
                             <a href="/berita"><i class="fas fa-link"></i></a>
                         </figure>
                         <div class="lower-content">

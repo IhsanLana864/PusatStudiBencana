@@ -6,7 +6,7 @@
         <h2>Artikel</h2>
         <a href="#" class="btn" onclick="showForm('addArtikelForm')">Tambah Artikel</a>
     </div>
-    
+
     <table>
         <thead>
             <tr>
@@ -44,20 +44,20 @@
             @csrf
             <label for="judul">Judul:</label>
             <input type="text" id="judul" name="judul" required>
-            
+
             <label for="gambar">Gambar:</label>
             <input type="file" id="gambar" name="gambar" required>
-            
+
             <label for="deskripsi">Deskripsi:</label>
             <textarea id="deskripsi" name="deskripsi" required></textarea>
-            
+
             <label for="jenis">Jenis:</label>
             <select id="jenis" name="jenis" required>
                 <option value="publikasi">Publikasi</option>
                 <option value="berita">Berita</option>
                 <option value="berita">Event</option>
             </select>
-            
+
             <button type="submit" class="btn" onclick="closeForm('addArtikelForm')">Simpan</button>
             <button type="button" class="btn" onclick="closeForm('addArtikelForm')">Batal</button>
         </form>
@@ -69,21 +69,21 @@
         <form id="editArtikelFormElement" action="#" method="post" enctype="multipart/form-data">
             @csrf
             @method('PUT')
-            <label for="editJudul">Judul:</label>
+            <label for="editJudul">Judul:</label>x
             <input type="text" id="editJudul" name="judul" required>
-            
+
             <label for="editGambar">Gambar:</label>
             <input type="file" id="editGambar" name="gambar">
-            
+
             <label for="editDeskripsi">Deskripsi:</label>
             <textarea id="editDeskripsi" name="deskripsi" required></textarea>
-            
+
             <label for="editJenis">Jenis:</label>
             <select id="editJenis" name="jenis" required>
                 <option value="publikasi">Publikasi</option>
                 <option value="berita">Berita</option>
             </select>
-            
+
             <button type="submit" class="btn" onclick="closeForm('editArtikelForm')">Simpan</button>
             <button type="button" class="btn" onclick="closeForm('editArtikelForm')">Batal</button>
         </form>
