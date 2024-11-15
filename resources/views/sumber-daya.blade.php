@@ -111,7 +111,7 @@
                     <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/doni.png" alt=""></figure>
                             </div>
                             <div class="lower-content">
                                 <h3><a href="team-details">Dr.Doni Yusri, S.P.,M.M..</a></h3>
@@ -202,10 +202,10 @@
                     <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/ihsan.png" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Dr. H. Ihsan Lana Valenza, S.Tr.Kom., M.Kom.</a></h3>
+                                <h3><a href="team-details">Ihsan Lana Valenza</a></h3>
                                 <span class="designation">Web Developer</span>
                             </div>
                         </div>
@@ -215,11 +215,11 @@
                     <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/fadli.png" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Dr.Fadly KurniawanS.Tr.Kom., M.Kom., Ph.D.</a></h3>
-                                <span class="designation">Back-End & Database Developer</span>
+                                <h3><a href="team-details">Fadly Kurniawan</a></h3>
+                                <span class="designation">Database Developer</span>
                             </div>
                         </div>
                     </div>
@@ -228,10 +228,10 @@
                     <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/afnan.png" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Dr. Afnan Azahra Nasution, M.Kom.</a></h3>
+                                <h3><a href="team-details">Afnan Azahra Nasution</a></h3>
                                 <span class="designation">UI Developer</span>
                             </div>
                         </div>
@@ -241,10 +241,10 @@
                     <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/ani.png" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Dr. lutfi riani, M.SIS</a></h3>
+                                <h3><a href="team-details">Lutfi Riani</a></h3>
                                 <span class="designation">System Analyst</span>
                             </div>
                         </div>
@@ -254,10 +254,10 @@
                     <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/fadlang.png" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Fadhlan Zaki Darmansah S.Kom., M.Kom</a></h3>
+                                <h3><a href="team-details">Fadhlan Zaki Darmansah</a></h3>
                                 <span class="designation">Project Manajer</span>
                             </div>
                         </div>
