@@ -36,7 +36,7 @@
             <div class="card-body">
 
                 <div class="text-center">
-                    <a href="/login" class="logo logo-admin"><img src="assets/images/LogoPSB.png" height="20" alt="logo"></a>
+                    <a href="/login" class="logo logo-admin"><img src="assets/images/Logo-psb1.png" height="20" alt="logo"></a>
                 </div>
 
                 <div class="px-3 pb-3">

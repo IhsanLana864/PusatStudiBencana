@@ -114,7 +114,7 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Dr.Doni Yusri</a></h3>
+                                <h3><a href="team-details">Dr.Doni Yusri, S.P</a></h3>
                                 <span class="designation">Laboratory Technician</span>
                             </div>
                         </div>

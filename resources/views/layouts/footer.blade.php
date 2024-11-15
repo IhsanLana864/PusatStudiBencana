@@ -45,12 +45,12 @@
                             </div>
                             <div class="post-inner">
                                 <div class="post">
-                                    <figure class="image-box"><a href="/berita"><img src="assets/images/resource/post-1.jpg" alt=""></a></figure>
+                                    <figure class="image-box"><a href="/berita"><img src="assets/images/resource/lab (2).png" alt=""></a></figure>
                                     <p><i class="fas fa-calendar-alt"></i>Feb 05, 2024</p>
                                     <h5><a href="/berita">Pengujian dengan Implikasi Keperawatan untuk Teknisi Laboratorium</a></h5>
                                 </div>
                                 <div class="post">
-                                    <figure class="image-box"><a href="/berita"><img src="assets/images/resource/post-2.jpg" alt=""></a></figure>
+                                    <figure class="image-box"><a href="/berita"><img src="assets/images/resource/lab.png" alt=""></a></figure>
                                     <p><i class="fas fa-calendar-alt"></i>Feb 06, 2024</p>
                                     <h5><a href="/berita">Memfasilitasi Peneliti di Laboratorium yang Berkembang</a></h5>
                                 </div>
