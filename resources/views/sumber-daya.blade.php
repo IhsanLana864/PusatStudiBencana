@@ -114,8 +114,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Dr.Doni Yusri, S.P</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Dr.Doni Yusri, S.P.,M.M..</a></h3>
+                                <span class="designation">Kepala Pusat</span>
                             </div>
                         </div>
                     </div>
@@ -127,8 +127,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Mochammad Firdaus Siahaan</a></h3>
+                                <span class="designation">Humas dan Tata Laksana</span>
                             </div>
                         </div>
                     </div>
@@ -140,8 +140,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Yon Sugiarto, S.Si.,M.Sc</a></h3>
+                                <span class="designation">Bidang Kajian Mitigasi dan Risiko Kebencanaan Kepala Bidang</span>
                             </div>
                         </div>
                     </div>
@@ -153,8 +153,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Reza Ali Akbar, S.P.,MSi</a></h3>
+                                <span class="designation">Sekretaris Bidang</span>
                             </div>
                         </div>
                     </div>
@@ -166,8 +166,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Fadli Apriadi,S.P.,M.M</a></h3>
+                                <span class="designation">Bidang Penangganan Bencana PKKB</span>
                             </div>
                         </div>
                     </div>
@@ -179,8 +179,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Gema Parasti Mindara,S.Si,M,Kom.</a></h3>
+                                <span class="designation">Sekretaris Bidang</span>
                             </div>
                         </div>
                     </div>
@@ -192,8 +192,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Ir.Murdianto,M.Si.</a></h3>
+                                <span class="designation">Kepala Bidang Kontruksi Sosial dan Pemberdayaan</span>
                             </div>
                         </div>
                     </div>
@@ -205,8 +205,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Dr. H. Ihsan Lana Valenza, S.Tr.Kom., M.Kom.</a></h3>
+                                <span class="designation">Web Developer</span>
                             </div>
                         </div>
                     </div>
@@ -218,8 +218,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Dr.Fadly KurniawanS.Tr.Kom., M.Kom., Ph.D.</a></h3>
+                                <span class="designation">Back-End & Database Developer</span>
                             </div>
                         </div>
                     </div>
@@ -231,8 +231,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Dr. Afnan Azahra Nasution, M.Kom.</a></h3>
+                                <span class="designation">UI Developer</span>
                             </div>
                         </div>
                     </div>
@@ -244,8 +244,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Dr. lutfi riani, M.SIS</a></h3>
+                                <span class="designation">System Analyst</span>
                             </div>
                         </div>
                     </div>
@@ -257,8 +257,8 @@
                                 <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="team-details">Martin Tompson</a></h3>
-                                <span class="designation">Laboratory Technician</span>
+                                <h3><a href="team-details">Fadhlan Zaki Darmansah S.Kom., M.Kom</a></h3>
+                                <span class="designation">Project Manajer</span>
                             </div>
                         </div>
                     </div>
