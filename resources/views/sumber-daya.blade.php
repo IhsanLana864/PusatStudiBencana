@@ -254,7 +254,7 @@
                     <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/resource/fadlang.png" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/fadlan.png" alt=""></figure>
                             </div>
                             <div class="lower-content">
                                 <h3><a href="team-details">Fadhlan Zaki Darmansah</a></h3>
