@@ -553,8 +553,9 @@
                     </div> --}}
                 </figure>
                 <figure class="client-logo">
-                    <a href="#"><img src="assets/images/clients/detik.png" alt="Awesome Image"></a>
+                    <a href="https://www.detik.com/"><img src="assets/images/clients/detik.png" alt="Awesome Image"></a>
                 </figure>
+
                 <figure class="client-logo">
                     <a href="#"><img src="assets/images/clients/sv.png" alt="Awesome Image"></a>
                 </figure>
