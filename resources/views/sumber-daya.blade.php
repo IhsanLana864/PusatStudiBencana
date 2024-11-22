@@ -124,7 +124,7 @@
                     <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/daus.png" alt=""></figure>
                             </div>
                             <div class="lower-content">
                                 <h3><a href="team-details">Mochammad Firdaus Siahaan</a></h3>
@@ -176,7 +176,7 @@
                     <div class="team-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><img src="assets/images/team/team-1.jpg" alt=""></figure>
+                                <figure class="image"><img src="assets/images/resource/gema.png" alt=""></figure>
                             </div>
                             <div class="lower-content">
                                 <h3><a href="team-details">Gema Parasti Mindara,S.Si,M,Kom.</a></h3>
