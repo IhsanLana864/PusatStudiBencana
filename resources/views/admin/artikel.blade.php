@@ -1,7 +1,6 @@
 @extends('admin.index')
 
 @section('content')
-
     <div class="admin-header">
         <h2>Artikel</h2>
         <a href="#" class="btn" onclick="showForm('addArtikelForm')">Tambah Artikel</a>
@@ -18,21 +17,22 @@
             </tr>
         </thead>
         <tbody>
-            @foreach($artikels as $artikel)
-            <tr>
-                <td>{{ $artikel->judul }}</td>
-                <td><img src="{{ asset('storage/' . $artikel->gambar) }}" alt="{{ $artikel->judul }}" width="50"></td>
-                <td>{{ Str::limit($artikel->deskripsi, 50) }}</td>
-                <td>{{ ucfirst($artikel->jenis) }}</td>
-                <td>
-                    <a href="#" class="btn btn-edit" onclick="editArtikel({{ $artikel->id }})">Edit</a>
-                    <form action="{{ route('admin.artikel.destroy', $artikel->id) }}" method="POST" style="display:inline;">
-                        @csrf
-                        @method('DELETE')
-                        <button type="submit" class="btn btn-delete">Hapus</button>
-                    </form>
-                </td>
-            </tr>
+            @foreach ($artikels as $artikel)
+                <tr>
+                    <td>{{ $artikel->judul }}</td>
+                    <td><img src="{{ asset('storage/' . $artikel->gambar) }}" alt="{{ $artikel->judul }}" width="50"></td>
+                    <td>{{ Str::limit($artikel->deskripsi, 50) }}</td>
+                    <td>{{ ucfirst($artikel->jenis) }}</td>
+                    <td>
+                        <a href="#" class="btn btn-edit" onclick="editArtikel({{ $artikel->id }})">Edit</a>
+                        <form action="{{ route('admin.artikel.destroy', $artikel->id) }}" method="POST"
+                            style="display:inline;">
+                            @csrf
+                            @method('DELETE')
+                            <button type="submit" class="btn btn-delete">Hapus</button>
+                        </form>
+                    </td>
+                </tr>
             @endforeach
         </tbody>
     </table>
@@ -40,7 +40,8 @@
     <!-- Form Tambah Artikel -->
     <div id="addArtikelForm" class="form-popup" style="display: none;">
         <h3>Tambah Artikel</h3>
-        <form id="addArtikelFormElement" action="{{ route('admin.artikel.store') }}" method="post" enctype="multipart/form-data">
+        <form id="addArtikelFormElement" action="{{ route('admin.artikel.store') }}" method="post"
+            enctype="multipart/form-data">
             @csrf
             <label for="judul">Judul:</label>
             <input type="text" id="judul" name="judul" required>
@@ -53,7 +54,7 @@
 
             <label for="jenis">Jenis:</label>
             <select id="jenis" name="jenis" required>
-                <option value="publikasi">Publikasi</option>
+                <option value="publikasi">Artikel</option>
                 <option value="berita">Berita</option>
                 <option value="berita">Event</option>
             </select>
@@ -80,7 +81,7 @@
 
             <label for="editJenis">Jenis:</label>
             <select id="editJenis" name="jenis" required>
-                <option value="publikasi">Publikasi</option>
+                <option value="publikasi">Artikel</option>
                 <option value="berita">Berita</option>
             </select>
 
@@ -141,32 +142,32 @@
             if (this.checkValidity()) {
                 const formData = new FormData(this); // Ambil data dari form
                 fetch(this.action, {
-                    method: 'POST',
-                    body: formData
-                })
-                .then(response => {
-                    if (!response.ok) throw new Error('Gagal menyimpan data');
-                    return response.json();
-                })
-                .then(data => {
-                    Swal.fire({
-                        title: 'Sukses!',
-                        text: 'Artikel berhasil ditambahkan.',
-                        icon: 'success',
-                        confirmButtonText: 'OK'
-                    }).then(() => {
-                        closeForm('addArtikelForm'); // Tutup form setelah sukses
-                        location.reload(); // Reload halaman untuk melihat perubahan
+                        method: 'POST',
+                        body: formData
+                    })
+                    .then(response => {
+                        if (!response.ok) throw new Error('Gagal menyimpan data');
+                        return response.json();
+                    })
+                    .then(data => {
+                        Swal.fire({
+                            title: 'Sukses!',
+                            text: 'Artikel berhasil ditambahkan.',
+                            icon: 'success',
+                            confirmButtonText: 'OK'
+                        }).then(() => {
+                            closeForm('addArtikelForm'); // Tutup form setelah sukses
+                            location.reload(); // Reload halaman untuk melihat perubahan
+                        });
+                    })
+                    .catch(error => {
+                        Swal.fire({
+                            title: 'Gagal!',
+                            text: error.message,
+                            icon: 'error',
+                            confirmButtonText: 'OK'
+                        });
                     });
-                })
-                .catch(error => {
-                    Swal.fire({
-                        title: 'Gagal!',
-                        text: error.message,
-                        icon: 'error',
-                        confirmButtonText: 'OK'
-                    });
-                });
             } else {
                 Swal.fire({
                     title: 'Error!',
@@ -183,32 +184,32 @@
             if (this.checkValidity()) {
                 const formData = new FormData(this);
                 fetch(this.action, {
-                    method: 'POST',
-                    body: formData
-                })
-                .then(response => {
-                    if (!response.ok) throw new Error('Gagal memperbarui data');
-                    return response.json();
-                })
-                .then(data => {
-                    Swal.fire({
-                        title: 'Sukses!',
-                        text: 'Artikel berhasil diperbarui.',
-                        icon: 'success',
-                        confirmButtonText: 'OK'
-                    }).then(() => {
-                        closeForm('editArtikelForm');
-                        location.reload(); // Reload untuk memuat data terbaru
+                        method: 'POST',
+                        body: formData
+                    })
+                    .then(response => {
+                        if (!response.ok) throw new Error('Gagal memperbarui data');
+                        return response.json();
+                    })
+                    .then(data => {
+                        Swal.fire({
+                            title: 'Sukses!',
+                            text: 'Artikel berhasil diperbarui.',
+                            icon: 'success',
+                            confirmButtonText: 'OK'
+                        }).then(() => {
+                            closeForm('editArtikelForm');
+                            location.reload(); // Reload untuk memuat data terbaru
+                        });
+                    })
+                    .catch(error => {
+                        Swal.fire({
+                            title: 'Gagal!',
+                            text: error.message,
+                            icon: 'error',
+                            confirmButtonText: 'OK'
+                        });
                     });
-                })
-                .catch(error => {
-                    Swal.fire({
-                        title: 'Gagal!',
-                        text: error.message,
-                        icon: 'error',
-                        confirmButtonText: 'OK'
-                    });
-                });
             } else {
                 Swal.fire({
                     title: 'Error!',
@@ -232,5 +233,5 @@
                 }
             });
         }
-        </script>
+    </script>
 @endsection
