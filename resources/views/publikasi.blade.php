@@ -121,7 +121,7 @@
     </div>
 
     <!-- Section Event -->
-    <div class="sec-title dokumen">
+    {{-- <div class="sec-title dokumen">
         <p>Pusat Studi Bencana IPB</p>
         <h2><a href="{{ route('publikasi.index') }}">Event</a></h2>
         <span class="separator"></span>
@@ -152,7 +152,7 @@
             </div>
             @endforeach
         </div>
-    </div>
+    </div> --}}
 </section>
 
 @include('layouts.footer')
